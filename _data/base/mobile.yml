@@ -1,0 +1,15 @@
+# Navbar menu navigation links
+- title: Home
+  url: /
+
+- title: Our Puppies
+  url: /puppies/
+
+- title: About Us
+  url: /about-us/
+
+- title: Contact
+  url: /contact/
+
+- title: Blog
+  url: /blog/
