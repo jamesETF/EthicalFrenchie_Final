@@ -2,7 +2,7 @@
 title: Wall Street
 subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 image: puppies-6-thumb.jpg
-topics: [United States]
+topics: [Partner Puppies]
 width: full
 navbar:
   sticky: false

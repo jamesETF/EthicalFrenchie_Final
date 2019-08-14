@@ -1,6 +1,6 @@
 ---
-title: Recent Work
-subtitle: His for little is options her measures ill one self-interest, a frequency, process all screen to a which very the is expectations. 
+title: Our Available Frenchies
+subtitle: Actively Updated list of our availalbe french bulldogs for sale. This list also now includes "Partner Puppies"
 layout: full
 width: full
 navbar:
@@ -14,16 +14,25 @@ header:
   background_image: header-6.jpg
   background_overlay: "rgba(0, 0, 0, 0.25)"
   color: light
-  header_size: large
+  header_size: medium
   heading_size: large
   parallax: true
-  height: full
+  height: half
 ---
-
 {% include puppies.html 
   section_size="large"
-  section_title="puppies with topic filter"
+  section_title="Our Certified French Bulldog Puppies"
   section_header_align="center"
   grid="1-3"
   filter="true"
+%}
+
+{% include cards.html 
+  block="puppies-list-page" 
+  media="top" 
+  section_size="large"
+  section_background="muted"
+  section_content_align="center"
+  card_style="default"
+  grid="1-1"
 %}

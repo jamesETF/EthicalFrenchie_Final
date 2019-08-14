@@ -2,7 +2,7 @@
 title: Antibes 
 subtitle: Donsetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 image: puppies-2-thumb.jpg
-topics: [France]
+topics: [Partner Puppies]
 width: full
 navbar:
   sticky: false

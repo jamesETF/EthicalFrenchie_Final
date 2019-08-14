@@ -1,8 +1,8 @@
 ---
-title: Explanation was off down
+title: Ace - Lilac & Tan Puppy
 image: card-3.jpeg
 ---
 
-Dignissim quis turpis quis, semper consequat vehicula dolor. Suspendisse tincidunt consequat quam, ac consequat.
+I’m a lilac French Bulldog puppy for sale located in New York City. And not just a regular lilac, lilac with tan points, which makes me really rare.
 
-{% include button.html text="Join Us" url="#" style="default" %}
+{% include button.html text="Inquire About Me" url="#" style="default" %}

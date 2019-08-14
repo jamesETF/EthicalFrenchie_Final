@@ -2,7 +2,7 @@
 title: Los Angeles
 subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 image: puppies-8-thumb.jpg
-topics: [United States]
+topics: [blue French Bulldog]
 width: full
 navbar:
   sticky: false

@@ -3,7 +3,7 @@ title: Zürich
 subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 image: puppies-4-thumb.jpg
 width: full
-topics: [Switzerland]
+topics: [Our Puppies]
 navbar:
   sticky: false
   transparent: true

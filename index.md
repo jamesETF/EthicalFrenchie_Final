@@ -1,5 +1,10 @@
 ---
+title: Ethical Frenchie
+width: medium
+section: medium
+description: French Bulldog Breeder with Passion for our Puppies
 width: full
+
 navbar:
   sticky: true
   scroll_up: true
@@ -24,6 +29,19 @@ header:
 
 {% if site.template == 'base' %}
 
+
+{% include cards.html 
+  block="homeabout" 
+  section_title="French Bulldog Puppies for Sale in New York"
+  section_header_align="center"
+  section_size="large"
+  section_padding_remove="bottom"
+  section_background="muted"
+  grid="1-1"
+  gutter="small"
+  section_content_align="center"
+%}
+
 {% include cards.html 
   block="frenchie-breeder" 
   media="top" 
@@ -34,16 +52,18 @@ header:
   grid="1-3"
 %}
 
-  {% include cards.html 
-    block="home-why" 
-    section_title="Why use Eon theme?"
-    section_header_align="center"
-    section_size="large"
-    section_padding_remove="top"
-    section_background="muted"
-    grid="1-3"
-    gutter="large"
-  %}
+
+{% include cards.html 
+  block="card-media" 
+  media="top" 
+  section_size="large"
+  section_padding_remove="top"
+  section_container="expand"
+  section_background="default"
+  card_style="default"
+  section_content_align="center"
+%}
+
 
   {% include cta.html 
     section_size="large"

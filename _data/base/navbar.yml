@@ -34,14 +34,17 @@ center:
       - title: 404
         url: /404/  
 
-  - title: Lineage
+  - title: Our Puppies
     url: /puppies/
 
   - title: Frenchie Blog
     url: /blog/
+  
+  - title: About Us
+    url: /about-us/
 
-  - title: Docs
-    url: /theme-docs/
+  - title: Contact Us
+    url: /contact/
 
 right:
   - title: Available Litters

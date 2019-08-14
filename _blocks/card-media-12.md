@@ -1,8 +1,8 @@
 ---
-title: Are of brief house annoyed
+title: Zeus - Blue French Bulldog Puppy
 image: card-2.jpeg
 ---
 
-Suspendisse quis turpis quis, semper consequat vehicula dolor consequat quam, ac consequat posuere leo dapibus.
+Hi! My name is Zeus and I’m an adorable blue French Bulldog puppy looking for a home. 
 
-{% include button.html text="Join Us" url="#" style="default" %}
+{% include button.html text="Inquire About Me" url="#" style="default" %}

@@ -1,20 +1,21 @@
 ---
-title: Rio de Janeiro
-subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-image: puppies-7-thumb.jpg
-topics: [Partner Puppies]
+title: Diamond
+subtitle: Lorem ipsum dolor sit amet, consetetur sadipscing tempor invidunt ut labore et dolore magna aliquyam erat, sed diam consetetur sadipscing invidunt ut labore voluptua.
 width: full
+image: puppies-1-thumb.jpg
+topics: [Our Puppies]
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: puppies-7-header.jpg
+  background_image: puppies-1-header.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
+permalink: /puppies/diamond/
 ---
 
 {% include block.html 

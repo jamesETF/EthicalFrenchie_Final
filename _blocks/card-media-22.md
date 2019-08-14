@@ -1,8 +1,10 @@
 ---
-title: Carefully was instrument
+title: Albert - Blue Merle Puppy
 image: card-4.jpeg
 ---
 
-Suspendisse quis turpis quis, semper consequat vehicula dolor consequat quam, ac consequat posuere leo dapibus.
+As you can see I’m very unique looking. Even my merle pattern is something my pawrents have never seen in a puppy. 
+I’m smaller than my siblings but I’m doing my best to keep up and chase them around. Being a smoll boi – I had to develop a tough personality – so here I am, bossing everyone around. 
 
-{% include button.html text="Join Us" url="#" style="default" %}
+
+{% include button.html text="Inquire About Me" url="#" style="default" %}
