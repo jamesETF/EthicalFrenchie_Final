@@ -24,8 +24,8 @@ paginate_path:          "/blog/:num/" # Blog path
 author:
   name:                 James Harrison
   avatar:               avatar-tom.png
-  title:                Support     
-  bio:                  I am the CEO of this company, loved by everyone, just plain awesome so you want to follow me all the time.
+  title:                CEO     
+  bio:                  I was unemployed, and started throwing every "business idea" I had at the fridge.. a few years later I didn't have to worry about employment again.  Weird.
   url:
   email:                james@ashlandharrison.com
   website:
