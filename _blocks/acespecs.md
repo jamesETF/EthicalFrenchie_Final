@@ -12,7 +12,7 @@ I’m a lilac French Bulldog puppy for sale located in New York City. And not ju
 You won’t see another French Bulldog Puppy like me strutting the streets of NYC.  
 I’m loving, playful but also like to keep my brothers and sisters on their toes. They definitely get their daily amount of exercise with me in the house.
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.google.com) 
 Health: I don’t even have to explain how healthy I am, my running around and jumping explains it. 
 Lilac French Bulldog Puppies for sale have a coat that is lighter than a regular blue coat, so they do need a quality shampoo to keep that light coat looking clean and shiny. 
 We recommend using this hypoallergenic shampoo. 
