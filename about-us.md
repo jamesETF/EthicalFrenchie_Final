@@ -28,9 +28,20 @@ extraseoabout: true
   section_header_align="center"
 %}
 
+{% include instagram.html 
+  section_size="large"
+  section_padding_remove="bottom"
+  section_container="default"
+  section_title="Instagram Images"
+  section_header_align="center"
+  grid="1-4" 
+  count="8" 
+  gutter="small"
+%}
+
 {% include 
   team.html 
-  authors="evan, john, sara, alex, tom, daniel" 
+  authors="james, renee, butch, ely" 
   section_title="A Family & Friends Run Business" 
   section_subtitle="We're here to answer any questions" 
   section_size="large"

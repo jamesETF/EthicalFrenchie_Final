@@ -15,7 +15,7 @@ header:
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/Ace/
+permalink: /puppies/Ace-lilac-tan-french-bulldog/
 ---
 ## Ace's Details
 

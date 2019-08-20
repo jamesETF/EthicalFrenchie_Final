@@ -7,7 +7,7 @@
 # Site settings
 title:                  Ethical Frenchie
 description:            We are a family and friends based French Bulldog Breeder located in New York, NY. We welcome you to Learn more about us and our kennelshare program.
-url:                    "http://youthful-meninsky-e267a8.netlify.com" # Site base hostname & protocol, e.g. http://example.com
+url:                    "" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.png
@@ -43,26 +43,22 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-  john:
+  james:
     name:               James Harrison
     title:              Owner     
     avatar:             james.jpg
-  evan:
+  renee:
     name:               Renee Harrison
     title:              Support    
     avatar:             renee.jpg
-  sara:
+  butch:
     name:               Thomas Holloman
     title:              Houses "May" and "April"    
     avatar:             avatar-sara.png
-  alex:
-    title:              Records & Compliance   
+  ely:
     name:               Ely Tenorio
-    avatar:             avatar-alex.png
-  tom:
-    title:              Developer     
-    name:               Tom Farrell
-    avatar:             avatar-tom.png
+    title:              Records and Compliance    
+    avatar:             avatar-sara.png
 
 navbar:
   layout:               default # default, center
@@ -86,7 +82,7 @@ google_maps_api_key:    # Google maps API key, get your key here: https://develo
 disqus:
   shortname:            # Disqus comments shortname, requires Disqus account https://disqus.com/
 
-instagram_accesstoken:  38756782.1677ed0.57e2c5113463487f801e66e975066677
+instagram_accesstoken:  9550633131.1677ed0.809b4f173e8246958eed42d08c0c606e
 
 donations:
   paypal:

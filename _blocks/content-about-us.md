@@ -3,8 +3,9 @@
 
 {% include image.html 
 	src="content-1.jpg"
-  alt="Alt for image"
+  alt="About Us"
   align="left"
+  caption="James & Renee (& Vilma)"
 %}
 
 Hi! We’re James & Renee, nice to meet you. We are a small, exclusive French Bulldog breeder located on the East Coast. Our breeding program is focused on extra care, socialization and improving the breed. We aren’t your typical “Mom and Pops breeder” that has been around for 20 years.
@@ -13,10 +14,10 @@ Our Female French Bulldog moms live happy lives and tend to have 1-2 litters onl
 The adult moms are placed with us and our close family members, which we like to call the “decentralized kennel system”. We are open to expanding our decentralized kennel to responsible and loving homes, so reach out for more information regarding that topic.
 
 {% include image.html 
-	src="content-2.jpg"
-  alt="Alt for image"
+	src="about-us-2.jpg"
+  alt="Ethical Frenchie Meetup Image"
   align="right"
-  caption="Caption example"
+  caption="Renee at Customer Meetup Day"
 %}
 
 We’re passionate about what we do, but more importantly we understand the frustrations of searching high and low while trying to avoid scams and puppy mills alike.
@@ -24,9 +25,10 @@ We work diligently to ensure that we are following the best French Bulldog breed
 After getting one of our French Bulldog Puppies puppies we offer life-time support when it comes to caring and raising your new French Bulldog or multiple French Bulldogs. If something happens you won’t be left alone in the dark – we will assist you, so you can reach out anytime.
 
 {% include image.html 
-	src="content-1.jpg"
-  alt="Alt for image"
+	src="about-us-3.jpg"
+  alt="James walking the pups"
   align="left"
+  caption="James walking the pups in NYC"
 %}
 
 ##Why We Do It##
@@ -44,4 +46,4 @@ Click here to learn more about French Bulldog Colors.
 
 Full AKC will also only be offered to an ethical, in house breeder, that has the same vision of bettering the breed, after being extensively screened by us. We would hate for our dogs to end up in hands for someone who lacks knowledge or is only in it for profit.
 
-Click here to check out our blue French Bulldog Puppies for sale.
+[Click Here to see our available pups](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Available Pups").
