@@ -18,7 +18,7 @@ header:
   parallax: true
 description: this is the description
 subtitle: this is the subtitle
-extraseoabout: true
+extraseocontactus: true
 ---
 
 Example contact forms using free third party service [Formspree](https://formspree.io/). There are two form layouts with optional name and subject fields.
