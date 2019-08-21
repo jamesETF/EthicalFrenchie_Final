@@ -1,46 +1,46 @@
 ---
-title: Ace
-subtitle: I’m a lilac French Bulldog puppy for sale located in New York City. And not just a regular lilac, lilac with tan points, which makes me **really rare**.
+title: Bronx
+subtitle: I’m a blue French Bulldog puppy for sale located in New York City. I'm solid blue and nice & chubby.
 width: xsmall
-image: /lilac-french-bulldog-ace/ace.jpg
-topics: [Our Puppies, Lilac & Tan French Bulldog]
+image: /blue-french-bulldog-bronx/bronx.jpg
+topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: /lilac-french-bulldog-ace/ace.jpg
+  background_image: /blue-french-bulldog-bronx/bronx.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/Ace-lilac-tan-french-bulldog/
+permalink: /puppies/bronx-blue-french-bulldog-puppy/
 ---
 
 {% include image.html 
-	src="/lilac-french-bulldog-ace/ace.jpg"
-  alt="Ace / Superman"
+	src="/blue-french-bulldog-bronx/bronx.jpg"
+  alt="Bronx"
   section_size="large"
-  section_padding_remove="bottom"
-  section_title="Ace / Superman"
+  section_padding_remove="top"
+  section_title="Bronx"
   section_header_align="center"
   section_container="small"
   lightbox="true"
 %}
 
 
-| Price | $5000:|
-| Age     | 12 weeks  |
-| Birthday     | 5.25.19   |
-| Coat Color     | Lilac & Tan   |
+| Price | $4000:|
+| Age     | 10 weeks  |
+| Birthday     | 5-08.19   |
+| Coat Color     | blue   |
 | personality     | Super Friendly / Outgoing  |
 | Health     |  {% include label.html text="Cleared " style="success" %}|
 |Available as of {{ site.time | date: '%m/%d/%y' }}  | {% include label.html text="Available" style="success" %} |
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="lilac-french-bulldog-ace"
+	gallery="blue-french-bulldog-bronx"
 	caption="true"
 	lightbox="true"
   section_size="medium"
@@ -48,17 +48,17 @@ permalink: /puppies/Ace-lilac-tan-french-bulldog/
 %}
 
 {% include block.html 
-  block="acespecs"
+  block="bronxspecs"
   section_size="medium"
   section_container="xsmall"
   section_header_align="center"
-  section_title="About Ace"
+  section_title="About Bronx"
   block_title="false"
 %}
 
 
 {% include block.html 
-  block="acespecs2"
+  block="bronxspecs2"
   section_size="medium"
   section_padding_remove="top"
   section_container="xsmall"
@@ -68,7 +68,7 @@ permalink: /puppies/Ace-lilac-tan-french-bulldog/
 %}
 
 {% include image.html 
-	src="/lilac-french-bulldog-ace/ace.jpg"
+	src="/blue-french-bulldog-bronx/bronx.jpg"
   alt="Some alt title"
   section_size="medium"
   section_padding_remove="top"
