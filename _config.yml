@@ -7,7 +7,7 @@
 # Site settings
 title:                  Ethical Frenchie
 description:            We are a family and friends based French Bulldog Breeder located in New York, NY. We welcome you to Learn more about us and our kennelshare program.
-url:                    "https://youthful-meninsky-e267a8.netlify.com" # Site base hostname & protocol, e.g. http://example.com
+url:                    "" # Site base hostname & protocol, e.g. http://example.com
 baseurl:                # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.png
@@ -162,7 +162,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path:                 "/blog"
+      path:                 ""
       type:                 posts
     values:
       layout:               post
@@ -191,7 +191,7 @@ defaults:
       layout:               page
   # _puppies
   - scope:
-      path:                 "/puppies"
+      path:                 ""
       type:                 puppies
     values:
       layout:               page
