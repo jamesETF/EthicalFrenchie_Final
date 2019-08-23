@@ -20,7 +20,8 @@ The adult moms are placed with us and our close family members, which we like to
   caption="Renee at Customer Meetup Day"
 %}
 
-We’re passionate about what we do, but more importantly we understand the frustrations of searching high and low while trying to avoid scams and puppy mills alike.
+## We’re passionate
+about what we do, but more importantly we understand the frustrations of searching high and low while trying to avoid scams and puppy mills alike.
 We work diligently to ensure that we are following the best French Bulldog breeding practices and work extra hard to make sure your future family member is healthy & socialized to fit your specific family’s needs.
 After getting one of our French Bulldog Puppies puppies we offer life-time support when it comes to caring and raising your new French Bulldog or multiple French Bulldogs. If something happens you won’t be left alone in the dark – we will assist you, so you can reach out anytime.
 
@@ -31,7 +32,7 @@ After getting one of our French Bulldog Puppies puppies we offer life-time suppo
   caption="James walking the pups in NYC"
 %}
 
-##Why We Do It##
+## Why We Do It##
 We started Ethical Frenchie because of what we saw as a lack of transparency and the proliferation of scam artists taking advantage of people when they are most vulnerable.
 
 You can read a bit more about French Bulldogs Scams and how to avoid them by clicking here.
@@ -42,8 +43,8 @@ Too many people are trying to earn an extra buck by selling their dogs with a fu
 
 Blue French Bulldog puppies for sale as well as other exotic colors require an extensive manual registration process, for that reason we - from this point on, don’t provide AKC registration on French Bulldogs that are sold solely as family pets. AKC registration will only be provided for a French Bulldog bought with full rights and intention to breed/show.
 
-Click here to learn more about French Bulldog Colors.
+[Click Here to see our available pups](/blog/french-bulldog-colors-explained "Available Pups") to learn more about French Bulldog Colors.
 
 Full AKC will also only be offered to an ethical, in house breeder, that has the same vision of bettering the breed, after being extensively screened by us. We would hate for our dogs to end up in hands for someone who lacks knowledge or is only in it for profit.
 
-[Click Here to see our available pups](https://ethicalfrenchie.com/blog/french-bulldog-care-13-best-dog-food-brands/ "Available Pups").
+[Click Here to see our available pups](/puppies/ "Available Pups").
