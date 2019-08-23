@@ -29,7 +29,7 @@ pipedrive: true
   section_header_align="center"
 %}
 
-{% include instagram.html 
+{% include instagram.html  
   section_size="large"
   section_padding_remove="bottom"
   section_container="default"
