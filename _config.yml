@@ -54,11 +54,11 @@ authors:
   butch:
     name:               Thomas Holloman
     title:              Houses "May" and "April"    
-    avatar:             avatar-sara.png
+    avatar:             thomas.jpg
   ely:
     name:               Ely Tenorio
     title:              Records and Compliance    
-    avatar:             avatar-sara.png
+    avatar:             ely.jpg
 
 navbar:
   layout:               default # default, center
