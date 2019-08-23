@@ -71,7 +71,7 @@ netlify: true
   {% include cta.html 
     
     section_size="small"
-    section_image="header-7.jpeg"
+    section_image="header-6.jpeg"
     section_overlay="rgba(0, 0, 0, 0.5)"
     section_container="small"
     section_content_align="center"
