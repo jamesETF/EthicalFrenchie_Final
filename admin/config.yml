@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jamesETF/EthicalFrenchie_Final
   branch: master # Branch to update (optional; defaults to master)
-  netlify.configure({'site_id': youthful-meninsky-e267a8.netlify.com});
+  netlify.configure({'site_id': nifty-perlman-500bf6.netlify.com});
 # This line should *not* be indented
 media_folder: "uploads" # Media files will be stored in the repo under images/uploads
 collections:
