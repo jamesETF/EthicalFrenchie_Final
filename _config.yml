@@ -80,7 +80,7 @@ google_analytics:       UA-131053938-1 # Google analytics code, get your code he
 google_maps_api_key:    AIzaSyBWpK890qcen1qMLVH6GUpBKegBZUXWCHo # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 disqus:
-  shortname:            # Disqus comments shortname, requires Disqus account https://disqus.com/
+  shortname:            #  Disqus comments shortname, requires Disqus account https://disqus.com/
 
 instagram_accesstoken:  9550633131.1677ed0.809b4f173e8246958eed42d08c0c606e
 
