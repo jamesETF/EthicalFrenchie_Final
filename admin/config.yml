@@ -25,9 +25,8 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Chat Bot?", name: "pipedrive", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-collections:
-  - name: "posts" # Used in routes, e.g. /admin/collections/blog
-    label: "Blogs" # Used in the UI
+  - label: "Blogs" # Used in the UI
+    name: "posts" # Used in routes, e.g. /admin/collections/blog    
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
@@ -45,19 +44,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Chat Bot?", name: "pipedrive", widget: "string"}
-collections:
-  - name: "navigation" # Used in routes, e.g. /admin/collections/blog
-    label: "All the Menus" # Used in the UI
-    folder: "_data" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
-    filter:
-      - field: publication_url
-      - value: ""
-    fields: # The fields for each document, usually in front matter
-      - {label: "dropdown", name: "dropdown", widget: "string"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "url", name: "url", widget: "string"}
+
 
 
 
