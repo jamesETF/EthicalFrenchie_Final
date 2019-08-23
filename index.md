@@ -24,8 +24,8 @@ header:
   content:
     block: header-home
 extraseohome: true
-pipedrive: true
-netlify: true
+pipedrive: false
+netlify: false
 ---
 
 [comment]: # (This actually is the most platform independent comment)
