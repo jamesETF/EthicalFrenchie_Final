@@ -1,6 +1,6 @@
 ---
-title: Zeus - Blue French Bulldog Puppy
-image: card-2.jpeg
+title: Tammy - Tammy - Cream French Bulldog Puppy
+image: /uploads/cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg
 ---
 
 Hi! My name is Zeus and I’m an adorable blue French Bulldog puppy looking for a home. 
