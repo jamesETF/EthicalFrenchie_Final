@@ -23,7 +23,7 @@ pipedrive: true
 permalink: /contact-us/
 ---
 
-Before you submit the form, try talking to us on the chat by clicking the little chat button on the bottom right, It will help us prioritize your call. (we get thousands of visitors a month).
+We are a small operation, but somehow appearing on the 1st page of google. Which brings 1000s of calls and emails. If you have a quesiton about price or which puppies are availalbe, use the chat (little icon on borrom right of your screen) Which is updated twice a day with answers. It will help us prioritize your inquiry as a serious one. We look forward to hearing from you.
 {: .uk-text-lead}
 
 
