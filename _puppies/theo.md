@@ -21,7 +21,7 @@ pipedrive: true
 ---
 
 {% include image.html 
-	src="/blue-french-bulldog-puppy-theo/blue-french-bulldog-puppy-theo.jpg"
+	src="/blue-french-bulldog-puppy-theo/blue-frenchie-puppy-theo.jpg"
   alt="Theo"
   section_size="large"
   section_padding_remove="bottom"
