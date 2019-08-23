@@ -23,6 +23,8 @@ header:
   container: small
   content:
     block: header-home
+extraseohome: true
+pipedrive: true
 ---
 
 [comment]: # (This actually is the most platform independent comment)

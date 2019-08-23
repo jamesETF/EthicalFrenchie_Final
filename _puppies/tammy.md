@@ -1,8 +1,8 @@
 ---
-title: Ace
-subtitle: I’m a lilac French Bulldog puppy for sale located in New York City. And not just a regular lilac, lilac with tan points, which makes me **really rare**.
+title: Tammy
+subtitle: I’m a cream  French Bulldog puppy for sale located in New York City. And not just a regular lilac, lilac with tan points, which makes me **really rare**.
 width: xsmall
-image: /lilac-french-bulldog-ace/ace.jpg
+image: /cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg
 topics: [Our Puppies, Lilac & Tan French Bulldog]
 navbar:
   sticky: true
@@ -10,20 +10,20 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: /lilac-french-bulldog-ace/ace.jpg
+  background_image: cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/Ace-lilac-tan-french-bulldog/
+permalink: /puppies/cream-french-bulldog-tammy/
 ---
 
 {% include image.html 
-	src="/lilac-french-bulldog-ace/ace.jpg"
+	src="/cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg"
   alt="Ace / Superman"
   section_size="large"
   section_padding_remove="bottom"
-  section_title="Ace / Superman - The Lilac & Tan French Bulldog"
+  section_title="Tammy The White Sheep of the Family"
   section_header_align="center"
   section_container="small"
   lightbox="true"
@@ -40,7 +40,7 @@ permalink: /puppies/Ace-lilac-tan-french-bulldog/
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="lilac-french-bulldog-ace"
+	gallery="cream-french-bulldog-tammy"
 	caption="true"
 	lightbox="true"
   section_size="medium"
@@ -48,11 +48,11 @@ permalink: /puppies/Ace-lilac-tan-french-bulldog/
 %}
 
 {% include block.html 
-  block="acespecs"
+  block="apuppytammyspecs"
   section_size="medium"
   section_container="xsmall"
   section_header_align="center"
-  section_title="About Ace"
+  section_title="About Tammy"
   block_title="false"
 %}
 
@@ -68,7 +68,7 @@ permalink: /puppies/Ace-lilac-tan-french-bulldog/
 %}
 
 {% include image.html 
-	src="/lilac-french-bulldog-ace/ace.jpg"
+	src="/cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg"
   alt="Some alt title"
   section_size="medium"
   section_padding_remove="top"

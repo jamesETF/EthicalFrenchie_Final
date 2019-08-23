@@ -18,6 +18,7 @@ header:
   header_size: xlarge
   parallax: true
 permalink: /puppies/diamond/
+pipedrive: true
 
 
 ---

@@ -16,6 +16,7 @@ header:
   header_size: xlarge
   parallax: true
 permalink: /puppies/ego/
+pipedrive: true
 ---
 {% include block.html 
   block="sold"

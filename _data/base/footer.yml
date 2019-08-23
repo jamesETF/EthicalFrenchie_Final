@@ -1,16 +1,16 @@
 # Center style footer navigation
 center:
-  - title: Services
-    url: /services/
+  - title: About Us
+    url: /about-us/
 
-  - title: News
+  - title: Our Blog
     url: /blog/
 
-  - title: Jurisdictions
-    url: /jurisdictions/
+  - title: Our Puppies
+    url: /puppies/
 
-  - title: Directory
-    url: /directory/
+  - title: License & Legal
+    url: /license/
 
   - title: Contact
     url: /contact/
@@ -26,10 +26,7 @@ columns:
         url: /#
       - title: Professionals
         url: /#
-      - title: Appointments
-        url: /#
-      - title: Stores
-        url: /#
+
 
   - title: PRODUCTS
     links:

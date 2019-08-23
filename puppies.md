@@ -18,6 +18,8 @@ header:
   heading_size: large
   parallax: true
   height: half
+description: Actively Updated list of our availalbe french bulldogs for sale. This list also now includes "Partner Puppies"
+pipedrive: true
 ---
 {% include puppies.html 
   section_size="large"

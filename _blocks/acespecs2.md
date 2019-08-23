@@ -11,7 +11,7 @@ title: Do you Qualify?
 We offer financing through a third party company we occasionally partner with. The application process is very smooth and simple and offers financing to up to 5 years.
 If interested in financing a lilac french bulldog puppy for sale [Click Here](https://www.google.com) .
 Health Testing:
-Our lilac French bulldog puppies for sale come from health tested parents, but additional health testing can be preformed on the specific puppy at the buyers expense.
+Our french bulldogs for sale come from health tested parents, but additional health testing can be preformed on the specific puppy at the buyers expense.
 
 ### We offer health testing through:
 -	Embarkvet.com

@@ -1,7 +1,7 @@
 ---
-title: Contact Us Forms
+title: Contact Us
 width: xsmall
-section: large
+section: normal
 navbar:
   sticky: true
   scroll_up: true
@@ -10,15 +10,16 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: left, center, 1-1, 1-2, 1-3 or 2-3
-  background_image: header-10.jpeg
-  background_overlay: "rgba(0, 0, 0, 0.6)"
+  background_image: header-7.jpg
+  background_overlay: "rgba(0, 0, 0, 0.3)"
   color: light
   header_size: xlarge
   heading_size: medium
   parallax: true
-description: this is the description
-subtitle: this is the subtitle
+description: Contact Ethical Frenchie
+subtitle: Feel free to reach out to us regarding our puppies, if you're only now, use the chat!
 extraseocontactus: true
+pipedrive: true
 ---
 
 Example contact forms using free third party service [Formspree](https://formspree.io/). There are two form layouts with optional name and subject fields.
@@ -29,4 +30,12 @@ Example contact forms using free third party service [Formspree](https://formspr
 
 ## Horizontal layout with subject and name
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" layout="horizontal" %}
+
+{% include map.html 
+  latitude="19.419897" 
+  longitude="-99.164967" 
+  zoom="12" 
+  style="silver" 
+  section_container="expand"
+  %}
 

@@ -3,10 +3,10 @@ blog:
   - widget: tagged
     type: posts
     primary:
-      title: Product news
+      title: Frenchie News
       tag: news
     secondary:
-      title: Editor picks
+      title: Renee's Picks
       tag: pick
 
   - widget: latest
@@ -16,7 +16,7 @@ blog:
 
 page:
   - widget: author
-    author: john
+    author: james
 
   - widget: latest
     type: posts
@@ -27,10 +27,10 @@ allwidgets:
   - widget: tagged
     type: posts
     primary:
-      title: Product news
+      title: Frenchie News
       tag: news
     secondary:
-      title: Editor picks
+      title: Renee's picks
       tag: pick
 
   - widget: latest
@@ -52,7 +52,7 @@ allwidgets:
           url: /404/
 
   - widget: author
-    author: ivan
+    author: james
 
   - widget: block
     block: block-1

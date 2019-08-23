@@ -69,8 +69,8 @@ navbar:
 
 footer:                 # Default footer image settings
   style:                secondary # default, muted, primary, secondary
-  layout:               columns # center or columns
-  copyright:            Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
+  layout:               center # center or columns
+  copyright:            Made by <a href="https://wyckoffmedia.com/">James' Web Development Company</a> (because he's doing way too much).
 
 mailchimp:
   form_action:          000000
@@ -100,7 +100,7 @@ social_share:
 # Social buttons
 social_networks:
   email:                adopt@ethicalfrenchie.com
-  website:
+  website:              https://ethicalfrenchie.com
   facebook:             https://www.facebook.com/ethicalfrenchie
   flickr:
   dribbble:
@@ -110,7 +110,7 @@ social_networks:
   linkedin:
   pinterest:
   twitter:
-  vimeo:
+  vimeo:                https://vimeo.com/ethicalfrenchie
   youtube:
 
 # Build settings
