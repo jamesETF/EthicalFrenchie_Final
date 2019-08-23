@@ -1,6 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4faeff2-c14e-4039-a7ab-921e6148d784/deploy-status)](https://app.netlify.com/sites/ethicalfrenchie/deploys)
 # Eon premium multipurpose Jekyll theme
 
 ## First of All I Would like to Thank You for Your Purchase, You Are Awesome!
+
 
 ### Documentation
 Product documentation is available online [https://eon.jekyll.plus/theme-docs/](https://eon.jekyll.plus/theme-docs/), and also in this theme root directory `theme-docs.md`. 
