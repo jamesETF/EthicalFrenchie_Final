@@ -6,3 +6,4 @@ gem "jekyll-seo-tag"
 gem "jekyll-gist"
 gem "jekyll-sitemap"
 gem "jemoji"
+gem 'jekyll-gzip'
