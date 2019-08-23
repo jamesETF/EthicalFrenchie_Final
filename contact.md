@@ -20,6 +20,7 @@ description: Contact Ethical Frenchie
 subtitle: Feel free to reach out to us regarding our puppies, if you're only now, use the chat!
 extraseocontactus: true
 pipedrive: true
+permalink: /contact-us/
 ---
 
 Example contact forms using free third party service [Formspree](https://formspree.io/). There are two form layouts with optional name and subject fields.
