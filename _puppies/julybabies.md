@@ -31,13 +31,6 @@ pipedrive: true
 %}
 
 
-| Price | $4000:|
-| Age     | 10 weeks  |
-| Birthday     | 5-08.19   |
-| Coat Color     | blue   |
-| personality     | Super Friendly / Outgoing  |
-| Health     |  {% include label.html text="Cleared " style="success" %}|
-|Available as of {{ site.time | date: '%m/%d/%y' }}  | {% include label.html text="Available" style="success" %} |
 
 {% include gallery.html 
 	grid="1-2"
@@ -48,15 +41,15 @@ pipedrive: true
   section_padding_remove="top"
 %}
 
-{% include block.html 
-  block="ajulybabyspecs"
-  section_size="medium"
-  section_container="xsmall"
-  section_header_align="center"
-  section_title="About Bronx"
-  block_title="false"
-%}
+### Personality:  
+*Coming Soon  Last updated {{ site.time | date: '%m/%d/%y' }} expected (this weekend)
 
+### Health: 
+ *Coming Soon Last updated {{ site.time | date: '%m/%d/%y' }}, expected (this weekend)
+
+ 
+### Feeding: 
+ *Coming Soon Last updated {{ site.time | date: '%m/%d/%y' }}, expected (this weekend)
 
 {% include block.html 
   block="acespecs2"
