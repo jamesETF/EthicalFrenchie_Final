@@ -24,3 +24,20 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Chat Bot?", name: "pipedrive", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "posts" # Used in routes, e.g. /admin/collections/blog
+    label: "Blog Posts" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    filter:
+      - field: publication_url
+      - value: ""
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "SEO Description", name: "description", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Chat Bot?", name: "pipedrive", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
