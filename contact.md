@@ -23,13 +23,11 @@ pipedrive: true
 permalink: /contact-us/
 ---
 
-Example contact forms using free third party service [Formspree](https://formspree.io/). There are two form layouts with optional name and subject fields.
+Before you submit the form, try talking to us on the chat by clicking the little chat button on the bottom right, It will help us prioritize your call. (we get thousands of visitors a month).
 {: .uk-text-lead}
 
-## Stacked basic form
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="false" subject="false" %}
 
-## Horizontal layout with subject and name
+## Contact Ethical Frenchie
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" layout="horizontal" %}
 
 {% include map.html 
