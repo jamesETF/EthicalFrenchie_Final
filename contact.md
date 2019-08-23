@@ -31,8 +31,8 @@ We are a small operation, but somehow appearing on the 1st page of google. Which
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" layout="horizontal" %}
 
 {% include map.html 
-  latitude="19.419897" 
-  longitude="-99.164967" 
+  latitude="40.7027923" 
+  longitude="-74.0142154" 
   zoom="12" 
   style="silver" 
   section_container="expand"
