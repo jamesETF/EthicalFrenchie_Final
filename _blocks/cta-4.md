@@ -1,10 +1,10 @@
 ---
-title: Create your new website today!
-subtitle: Experience the advatages and peace of mind of running a static Jekyll site. Save time and concentrate an what is the most important, your business.
+title: Welcome to Ethical Frenchie
+subtitle: Looks like you've made it to the end of our homepage, Which is good, less than 1% of visitors make it here. As a reward, you can call us directly at 212 739-0182 (ask for Renee)
 button:
   style: primary
   text: Purchase
   size: xlarge
-  url: https://www.envato.com
+  url: /puppies/S
   blank: true
 ---
