@@ -6,5 +6,5 @@ button:
   text: View our Puppies
   size: xlarge
   url: /puppies/
-  blank: false
+  blank: true
 ---
