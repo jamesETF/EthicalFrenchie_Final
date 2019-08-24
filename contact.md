@@ -29,7 +29,7 @@ We are a small operation, but somehow appearing on the 1st page of google. Which
 
 
 ## Contact Ethical Frenchie
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" layout="horizontal" %}
+{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
 
 {% include map.html 
   latitude="40.7027923" 

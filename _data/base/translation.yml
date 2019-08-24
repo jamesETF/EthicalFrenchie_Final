@@ -13,6 +13,7 @@ en:
   mobile_nav_site:            "Menu"
   contact_name:               "Name"
   contact_email:              "Email"
+  contact_number:             "Phone"
   contact_subject:            "Subject"
   contact_message:            "Message"
   contact_send:               "Send"
