@@ -32,7 +32,6 @@ pipedrive: true
 %}
 
 
-| Price | $4000:|
 | Age     | 12 weeks  |
 | Birthday     | 5.25.19   |
 | Coat Color     | blue   |

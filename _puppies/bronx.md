@@ -49,22 +49,25 @@ pipedrive: true
 %}
 
 
-### Personality: Hi! My name is Bronx and I’m an adorable blue French Bulldog who loves to chew your documents.
+### Personality: Hey! My name is Bronx and I’m the little love bug of the litter.
 
-I’m located in New York city and one of my favorite things are: destroying each toy, beg for treats, explore the bathroom for no reason other than peeking inside the toilet. 
-I’m a social butterfly and have no issues making friends – dog or human ones. I met a cat one time and I’m sure I would make friends with your cat as well; in case you have one. 
+I’m a blue French Bulldog puppy for sale located in New York City, so if you are looking for a blue Frenchie, I might just be your boy.
+I’m sweet and friendly. I love kids and I would love to find a home where little humans would play with me and keep me company. I am outgoing and always ready for my next adventure. 
+My perfect family would be one that’s not away a lot. I don’t like being alone and I would thrive with parents that either work from home or can bring me to their office. 
 
 
-### Health: I’m a healthy blue Frenchie boy. I love to eat and grow bigger every day 
-My mom thinks I will be a big and muscular boy. 
-I love the vet and can’t even feel it when he gives me the shots, due to all my baby fat protecting me. 
-Before I go home, I will receive 2 sets of shots, heartworm prevention treatment, tick and flea treatment, deworming and I will also get microchipped. 
+
+### Health: 
+I’m a healthy blue Frenchie for sale, and I’m basically ready to go to my forever home. I will receive another vaccine booster, get dewormed and microchipped within the next few days. 
+I’ve been screened by our vet multiple times and I’ve been cleared of any abnormalities. He actually said I’m a perfect little blue French Bulldog. 
+
 
  
-### Feeding: Bronx, just like his siblings eats the same mixture of kibble and Fresh Pet Chicken food. 
+### Feeding:
 
-Bronx eats a mixture of kibble and Fresh Pet foot, combined with some bone broth. He also receives a daily multivitamin and omega 3 supplement.
-Omega 3 help with the sensitive French Bulldog skin and keep their coat looking nice.
+Bronx eats the same mixture of kibble and fresh food as all of our Frenchies do. You can always boost his meals by adding some fresh blueberries, goat milk or bone broth. 
+Bronx is very food motivated and that makes him easy to train. We recommend you start the potty training process as soon as Bronx arrives to your home. Use treats and positive reinforcement and the process should be easy and painless. 
+
 
 
 
