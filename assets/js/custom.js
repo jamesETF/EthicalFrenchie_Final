@@ -25,8 +25,8 @@ $(document).ready(function(){
         var footerMenuOpen = '<div id="footer-menu">';
         var footerHomeMenu = '<a href="https://ethicalfrenchie.com/" class="footer-item-1"><i class="fa fa-home"></i><span>Home</span></a>';
         var footerPuppiesMenu = '<a href="https://ethicalfrenchie.com/puppies/" class="footer-item-2"><i class="fa fa-paw"></i><span>Puppies</span></a>';
-        var footerAboutMenu = '<a href="https://ethicalfrenchie.com/about-us/" class="footer-item-4"><i class="fa fa-info"></i><span>About</span></a>';
-        var footerBlogMenu = '<a href="https://ethicalfrenchie.com/blog/" class="footer-item-3"><i class="fa fa-pencil-alt"></i><span>Blog</span></a>';
+        var footerAboutMenu = '<a href="https://ethicalfrenchie.com/about-us/" class="footer-item-3"><i class="fa fa-info"></i><span>About</span></a>';
+        var footerBlogMenu = '<a href="https://ethicalfrenchie.com/blog/" class="footer-item-4"><i class="fa fa-pencil-alt"></i><span>Blog</span></a>';
         var footerContactMenu = '<a href="https://ethicalfrenchie.com/contact-us/" class="footer-item-5"><i class="fa fa-envelope"></i><span>Contact</span></a>';
         var footerMenuClose = '</div>';    
 
