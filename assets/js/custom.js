@@ -23,11 +23,11 @@ $(document).ready(function(){
 
         //Defining menu Items.
         var footerMenuOpen = '<div id="footer-menu">';
-        var footerHomeMenu = '<a href="#" class="footer-item-1"><i class="fa fa-home"></i><span>Home</span></a>';
-        var footerPuppiesMenu = '<a href="#" class="footer-item-2"><i class="fa fa-paw"></i><span>Puppies</span></a>';
-        var footerAboutMenu = '<a href="#" class="footer-item-4"><i class="fa fa-info"></i><span>About</span></a>';
-        var footerBlogMenu = '<a href="#" class="footer-item-3"><i class="fa fa-pencil-alt"></i><span>Blog</span></a>';
-        var footerContactMenu = '<a href="#" class="footer-item-5"><i class="fa fa-envelope"></i><span>Contact</span></a>';
+        var footerHomeMenu = '<a href="https://ethicalfrenchie.com/" class="footer-item-1"><i class="fa fa-home"></i><span>Home</span></a>';
+        var footerPuppiesMenu = '<a href="https://ethicalfrenchie.com/puppies/" class="footer-item-2"><i class="fa fa-paw"></i><span>Puppies</span></a>';
+        var footerAboutMenu = '<a href="https://ethicalfrenchie.com/about-us/" class="footer-item-4"><i class="fa fa-info"></i><span>About</span></a>';
+        var footerBlogMenu = '<a href="https://ethicalfrenchie.com/blog/" class="footer-item-3"><i class="fa fa-pencil-alt"></i><span>Blog</span></a>';
+        var footerContactMenu = '<a href="https://ethicalfrenchie.com/contact-us/" class="footer-item-5"><i class="fa fa-envelope"></i><span>Contact</span></a>';
         var footerMenuClose = '</div>';    
 
         //To change order of elements, move them around below, don't move footerMenuOpen and footerMenuClose.
@@ -65,5 +65,4 @@ $(document).ready(function(){
     if (!isMobile.any())    {body.addClass('is-not-mobile');   destroyMobileMenu();}
     if (isMobile.Android()) {body.addClass('is-not-ios');   injectMobileMenu();}
     if (isMobile.iOS())     {body.addClass('is-ios');       injectMobileMenu();}
-    
-}); // Custom JS
+}); 
