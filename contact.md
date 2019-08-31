@@ -30,10 +30,12 @@ We are a small operation, but somehow appearing on the 1st page of google. Which
 
 ## Contact Ethical Frenchie
 
-Due to overwhelming volume, All inquireis must begin with the chat (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
-
-Just click the little pink icon on the bottom right. 
-"Please"  We are one small breeder - James  *Signed {{ site.time | date: '%m/%d/%y' }}
+ - Due to overwhelming volume, All inquireis must begin with the chat (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
+ - I actively maintain and update this site daily, If a puppy is not available it will not be on the site.
+ - Just click the little pink icon on the bottom right. 
+ - We are not a puppy mill, The application process is critical for us to ensure that our babies are finding a good home.
+ 
+ Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
 {% include map.html 
   latitude="40.7027923" 
