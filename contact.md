@@ -29,7 +29,11 @@ We are a small operation, but somehow appearing on the 1st page of google. Which
 
 
 ## Contact Ethical Frenchie
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
+
+Due to overwhelming volume, All inquireis must begin with the chat (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
+
+Just click the little pink icon on the bottom right. 
+"Please"  We are one small breeder - James  *Signed {{ site.time | date: '%m/%d/%y' }}
 
 {% include map.html 
   latitude="40.7027923" 
