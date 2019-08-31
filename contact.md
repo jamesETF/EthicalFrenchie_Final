@@ -36,11 +36,9 @@ extraseocontactus: true
   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
 
 ## Here are the questions that the chat will answer.
- - Weed out the "tire kickers"
- 
- With 1000 website visitors a day, if someone cant bring themselves to use the chat, we don't consider them serious.
- 
+
  The chat will do the following.
+ - Weed out the "tire kickers"
  - Ask a few qualifying questions
  - Set your expectations regarding adoption cost.
  - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
