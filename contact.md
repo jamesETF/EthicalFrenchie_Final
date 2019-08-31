@@ -30,10 +30,18 @@ We are a small operation, but somehow appearing on the 1st page of google. Which
 
 ## Contact Ethical Frenchie
 
- - Due to overwhelming volume, All inquireis must begin with the chat (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
- - I actively maintain and update this site daily, If a puppy is not available it will not be on the site.
- - Just click the little pink icon on the bottom right. 
- - We are not a puppy mill, The application process is critical for us to ensure that our babies are finding a good home.
+ > Due to overwhelming volume, All inquireis must begin with the chat.
+  (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
+  Here are the questions that the chat will answer.
+ - Weed out the "tire kickers" (I apologize but we get quite a few)
+ - Ask a few qualifying questions
+ - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
+
+ > The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. Taking in a puppy is big responsibility.
+
+ - I actively maintain and update this site daily, 
+ - If a puppy is not available it will not be on the site. Also if no puppies are availalbe it will display as such, and only show an upcoming litter. However there may be a "Partner Puppy" availble. (More on that when we speak)
+ - Just use the pink chat thing, Trust me, my cell phone will vibrate the moment you do -James
  
  Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
