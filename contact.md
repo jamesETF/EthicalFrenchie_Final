@@ -37,6 +37,7 @@ extraseocontactus: true
 
 ## Here are the questions that the chat will answer.
  - Weed out the "tire kickers"
+ 
  With 1000 website visitors a day, if someone cant bring themselves to use the chat, we don't consider them serious.
  
  The chat will do the following.
