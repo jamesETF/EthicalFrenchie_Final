@@ -24,20 +24,27 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-We are a small operation, but somehow appearing on the 1st page of google. Which brings 1000s of calls and emails. If you have a quesiton about price or which puppies are availalbe, use the chat (little icon on borrom right of your screen) Which is updated twice a day with answers. It will help us prioritize your inquiry as a serious one. We look forward to hearing from you.
+{% include alert.html text="Please read the following carefully" style="danger" %}
 {: .uk-text-lead}
 
 
-## Contact Ethical Frenchie
+## How to contact Ethical Frenchie
+
+> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. Taking in a puppy is big responsibility.
 
  > Due to overwhelming volume, All inquireis must begin with the chat.
   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
-  Here are the questions that the chat will answer.
- - Weed out the "tire kickers" (I apologize but we get quite a few)
+
+## Here are the questions that the chat will answer.
+ - Weed out the "tire kickers"
+ With 1000 website visitors a day, if someone cant bring themselves to use the chat, we don't consider them serious.
+ 
+ The chat will do the following.
  - Ask a few qualifying questions
+ - Set your expectations regarding adoption cost.
  - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
 
- > The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. Taking in a puppy is big responsibility.
+ > Renee and I are quite busy cleaning up and chasing around after puppies, if we answered each contact form submission (which is what used to be here) it would take us 8hrs a day.   So pelase take no offense, if you were looking for an ethical breeder whom cares more about the puppies, you found the right place.
 
  - I actively maintain and update this site daily, 
  - If a puppy is not available it will not be on the site. Also if no puppies are availalbe it will display as such, and only show an upcoming litter. However there may be a "Partner Puppy" availble. (More on that when we speak)
