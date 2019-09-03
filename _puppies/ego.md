@@ -24,7 +24,7 @@ pipedrive: true
   alt="Ego"
   section_size="large"
   section_padding_remove="bottom"
-  section_title="Ego / Superman - The Blue & Tan French Bulldog"
+  section_title="Ego"
   section_header_align="center"
   section_container="small"
   lightbox="true"

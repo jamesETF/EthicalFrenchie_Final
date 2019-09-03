@@ -72,7 +72,7 @@ Bronx is very food motivated and that makes him easy to train. We recommend you 
 
 
 {% include block.html 
-  block="bronxspecs2"
+  block="acespecs2"
   section_size="medium"
   section_padding_remove="top"
   section_container="xsmall"

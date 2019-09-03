@@ -1,6 +1,6 @@
 ---
 title: Early Socialization
-icon: ios-unchecked-checkbox.svg
+icon: ios-user-groups.svg
 ---
 
 We we go to great lengths to ensure each puppy is ready for your family.

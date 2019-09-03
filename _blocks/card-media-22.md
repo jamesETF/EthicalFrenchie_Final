@@ -1,9 +1,9 @@
 ---
-title: Albert - Blue Merle Puppy
-image: card-4.jpeg
+title: Nate
+image: blue-french-bulldog-nate/natethumb.jpg
 ---
 
-As you can see I’m very unique looking. Even my merle pattern is something my pawrents have never seen in a puppy. 
+As you can see I’m very unique looking. Even my little stripe is something my pawrents adore about me.. 
 I’m smaller than my siblings but I’m doing my best to keep up and chase them around. Being a smoll boi – I had to develop a tough personality – so here I am, bossing everyone around. 
 
 
