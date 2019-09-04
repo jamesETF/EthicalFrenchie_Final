@@ -30,7 +30,7 @@ extraseocontactus: true
 
 ## How to contact Ethical Frenchie
 
-> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. We get quite a bit of traffic. Due to overwhelming volume, All inquireis must begin with the chat.   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
+> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time making sure you're a good fit, and that this isn't an impulive decision on your part. We get quite a bit of traffic. Due to overwhelming volume, All inquireis must begin with the chat.   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
 
 ## Here is what the little chat bot accomplishes for us.
 
