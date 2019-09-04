@@ -6,11 +6,8 @@ title: Do you Qualify?
 
 We receive quite a bit of traffic on our website, and feel its our responsibility to ensure that each puppy is placed in a good home. Because of this an application and quick interview will be required.
 
-### Adoption requirements:
+-	## [Contact Us](/contact-us) to start the process.
 
--	[Click to begin Application](/application) to fill out our adoption application
--	If the adoption application gets approved, we will follow up with you for a short over the phone/in person interview
--	A deposit is required to hold a puppy
 
 ### Financing Options:
 We offer financing through a third-party company we occasionally partner with. The application process is very smooth and simple and offers financing to up to 5 years. 
