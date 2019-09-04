@@ -14,11 +14,13 @@ header:
   background_overlay: "rgba(0, 0, 0, 0.45)"
   background_align: top-center
   color: light
-  header_size: large
+  header_size: small
   heading_size: medium
   parallax: true
 ---
 
+
+{% include application.html section_content_align="center" section_size="large" %}
 {% include faqs.html 
   multiple="true" 
   category="application" 
@@ -28,8 +30,6 @@ header:
   section_container="xsmall"
   section_header_align="center"
 %}
-
-
 {% include block.html 
   block="contact-button" 
   layout="1-1"
