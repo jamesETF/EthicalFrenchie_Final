@@ -93,3 +93,10 @@ Nathan is very food motivated and that makes him easy to train. We recommend you
   section_padding_remove="top"
   section_container="small"
 %}
+{% include reviewsg.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}

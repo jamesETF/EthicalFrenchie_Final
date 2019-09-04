@@ -85,3 +85,10 @@ We recommend adding a joint supplements to your dogs diet as well. It will help 
   section_padding_remove="top"
   section_container="small"
 %}
+{% include reviewsg.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}

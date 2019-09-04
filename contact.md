@@ -1,6 +1,6 @@
 ---
-title: 212 739-0182
-width: xsmall
+title: Conatct Us
+width: small
 section: normal
 navbar:
   sticky: true
@@ -13,7 +13,7 @@ header:
   background_image: header-7.jpg
   background_overlay: "rgba(0, 0, 0, 0.3)"
   color: light
-  header_size: xlarge
+  header_size: large
   heading_size: medium
   parallax: true
 description: Contact Ethical Frenchie
@@ -30,27 +30,28 @@ extraseocontactus: true
 
 ## How to contact Ethical Frenchie
 
-> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. Taking in a puppy is big responsibility.
+> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time makiing sure you're a good fit, and that this isn't an impulive decision on your part. We get quite a bit of traffic. Due to overwhelming volume, All inquireis must begin with the chat.   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
 
- > Due to overwhelming volume, All inquireis must begin with the chat.
-  (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
-
-## Here are the questions that the chat will answer.
+## Here is what the little chat bot accomplishes for us.
 
  The chat will do the following.
  - Weed out the "tire kickers"
  - Ask a few qualifying questions
- - Set your expectations regarding adoption cost.
+ - Set your expectations regarding pricing.
  - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
-
- > Renee and I are quite busy cleaning up and chasing around after puppies, if we answered each contact form submission (which is what used to be here) it would take us 8hrs a day.   So pelase take no offense, if you were looking for an ethical breeder whom cares more about the puppies, you found the right place.
-
+ - You will receive our contact numbers via the chat! 
  - I actively maintain and update this site daily, 
- - If a puppy is not available it will not be on the site. Also if no puppies are availalbe it will display as such, and only show an upcoming litter. However there may be a "Partner Puppy" availble. (More on that when we speak)
+ - If a puppy is not available it will not be on the site. Also if no puppies are availalbe it will display as such. 
  - Just use the pink chat thing, Trust me, my cell phone will vibrate the moment you do -James
- 
- Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+  Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
+{% include reviewsfb.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}
 {% include map.html 
   latitude="40.7027923" 
   longitude="-74.0142154" 
