@@ -4,10 +4,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="{% if site.brand.image contains 'http' %}{{ site.brand.image }}{% else %}{{ page.image | absolute_url }}{{ site.brand.image }}{% endif %}"/>
   {% include hook-head.html %}
-  <link defer rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link async rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   <link rel="shortcut icon" type="image/png" href="{{ site.uploads | relative_url }}favicon.png">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <script defer src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
+  <script async src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
   
 {% if page.extraseohome %}
 <script type="application/ld+json">
@@ -850,6 +850,6 @@
 {% include google-analytics.html %}
   
 {% if page.pipedrive %}
-<script>window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6173635,playbookUuid: 'fd487cce-d911-469f-aecd-881bad13ff4d',version: 2};</script><script src="https://leadbooster-chat.pipedrive.com/assets/loader.js" async></script>
+<script> async window.pipedriveLeadboosterConfig = {base: 'leadbooster-chat.pipedrive.com',companyId: 6173635,playbookUuid: 'fd487cce-d911-469f-aecd-881bad13ff4d',version: 2};</script><script src="https://leadbooster-chat.pipedrive.com/assets/loader.js" async></script>
 {% endif %}
 </head>
