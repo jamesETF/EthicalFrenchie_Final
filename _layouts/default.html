@@ -4,6 +4,7 @@
     {% include head.html %}
 
     <body>
+ 
     {% include partials/header.html %}
 
     {% assign width = page.width | default: 'default' %}
@@ -46,7 +47,7 @@
       {% include partials/footer-center.html %}
     {% endif %}
 
- 
+    {% include partials/nav-mobile.html %}
 
     {% include hook-pre-closing-body.html %}
 
