@@ -2,7 +2,7 @@
 title: License
 hidden: true
 subtitle: Inspection Records and License Info
-width: full
+width: small
 image: /merle-french-bulldog-diamond/diamond.jpg
 draft: false
 navbar:
@@ -14,11 +14,16 @@ header:
   background_image: /merle-french-bulldog-diamond/diamond.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
-  header_size: xlarge
+  header_size: small
   parallax: license
 pipedrive: true
 
 
 ---
-
-Currently Uploading  {{ site.time | date: '%m/%d/%y' }} - James  (will have all inspections and licenses in this section by 9-7-19)
+{% include licenseimbed.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}
