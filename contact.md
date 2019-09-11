@@ -28,11 +28,16 @@ extraseocontactus: true
 {: .uk-text-lead}
 
 
+<<<<<<< HEAD
 ## How to contact Ethical Frenchie
 
 > The application process is critical, since we're not a puppy mill we spend a lot of our valuable time making sure you're a good fit, and that this isn't an impulive decision on your part. We get quite a bit of traffic. Due to overwhelming volume, All inquireis must begin with the chat.   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
 
 ## Here is what the little chat bot accomplishes for us.
+=======
+## Contact Ethical Frenchie
+{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
+>>>>>>> parent of 3c3fa96... remove contact form.
 
  The chat will do the following.
  - Weed out the "tire kickers"
