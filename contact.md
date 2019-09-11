@@ -26,19 +26,6 @@ extraseocontactus: true
 
 {% include alert.html text="Please read the following carefully" style="danger" %}
 {: .uk-text-lead}
-
-
-<<<<<<< HEAD
-## How to contact Ethical Frenchie
-
-> The application process is critical, since we're not a puppy mill we spend a lot of our valuable time making sure you're a good fit, and that this isn't an impulive decision on your part. We get quite a bit of traffic. Due to overwhelming volume, All inquireis must begin with the chat.   (Pink Icon, on bottom right of your screen), it will have and answer all your questions including scheduling a visit or call.  (bottom right of your screen)
-
-## Here is what the little chat bot accomplishes for us.
-=======
-## Contact Ethical Frenchie
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
->>>>>>> parent of 3c3fa96... remove contact form.
-
  The chat will do the following.
  - Weed out the "tire kickers"
  - Ask a few qualifying questions
@@ -46,9 +33,18 @@ extraseocontactus: true
  - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
  - You will receive our contact numbers via the chat! 
  - I actively maintain and update this site daily, 
- - If a puppy is not available it will not be on the site. Also if no puppies are availalbe it will display as such. 
+ - If a puppy is not available it will not be on the site. Also if no puppies are available it will display as such. 
  - Just use the pink chat thing, Trust me, my cell phone will vibrate the moment you do -James
+
+ IF you don't feel like using the chat, use the form below.
+ 
   Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+
+
+## Contact Ethical Frenchie
+{% include pipedriveform.html section_container="expand" %}
+
+
 
 {% include reviewsfb.html 
    layout="1-1"
