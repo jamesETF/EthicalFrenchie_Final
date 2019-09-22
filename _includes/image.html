@@ -18,7 +18,8 @@
 {% if include.lightbox == 'true' %}
   <figure data-uk-lightbox="animation: slide" class="uk-inline{% if include.align %} uk-align-{{ include.align }}{% endif %}">
     <a class="uk-inline" href="{% if include.src contains 'http' %}{{ include.src }}{% else %}{{ site.uploads | absolute_url }}{{ include.src }}{% endif %}"{% if include.caption %} caption="{{ include.caption }}"{% endif %}>
-      <img src="{% if include.src contains 'http' %}{{ include.src }}{% else %}{{ site.uploads | absolute_url }}{{ include.src }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+      {% capture url %}{% if include.src contains 'http' %}{{ include.src }}{% else %}{{ site.uploads | absolute_url }}{{ include.src }}{% endif %}{% endcapture %}
+      {% include img.html url=url alt=include.alt %}
       <div class="uk-position-center">
         <span data-uk-overlay-icon></span>
       </div>

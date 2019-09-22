@@ -51,6 +51,9 @@
 
     {% include hook-pre-closing-body.html %}
 
+    {% comment %} We put this last so that the page renders first {% endcomment %}
+    {% include lazyload.html %}
+
     </body>
 
 </html>

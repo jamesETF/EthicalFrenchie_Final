@@ -13,7 +13,7 @@
   },
   "homepage": "https://plus.jekyll.plus",
   "dependencies": {
-    "instafetch.js": "^1.5.0",
+    "instafetch.js": ">=1.5.0",
     "sharer.js": "^0.3.8",
     "simple-jekyll-search": "^1.7.2",
     "system-font-css": "^2.0.2",

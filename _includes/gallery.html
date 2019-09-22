@@ -21,7 +21,9 @@
       <div>
         {% if include.lightbox %}
           <div class="uk-inline uk-light uk-transition-toggle">
-            <img src="{{ image.path | relative_url }}" alt="{{ image.basename | replace: '-', ' ' | capitalize }}">
+            {% capture url %}{{ image.path | relative_url }}{% endcapture %}
+            {% capture alt %}{{ image.basename | replace: '-', ' ' | capitalize }}{% endcapture %}
+            {% include img.html url=url alt=alt %}
             <a class="uk-overlay uk-overlay-primary uk-position-cover uk-transition-fade" href="{{ image.path | relative_url }}"{% if include.caption %} data-caption="{{ image.basename | replace: '-', ' ' | capitalize }}"{% endif %}>
 							<div class="uk-position-center">
 								<span data-uk-icon="icon: plus; ratio: 1.5"></span>
@@ -29,7 +31,9 @@
             </a>
           </div>
         {% else %}
-          <img src="{{ image.path | relative_url }}" alt="{{ image.basename | replace: '-', ' ' | capitalize }}">
+          {% capture url %}{{ image.path | relative_url }}{% endcapture %}
+          {% capture alt %}{{ image.basename | replace: '-', ' ' | capitalize }}{% endcapture %}
+          {% include img.html url=url alt=alt %}
         {% endif %}
       </div>      
     {% endif %}

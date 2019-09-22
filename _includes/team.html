@@ -40,8 +40,8 @@
 										{% else %}
 												{% assign domain = site.uploads | absolute_url %}
 										{% endif %}
-
-										<img class="uk-border-circle" src="{{ domain }}{{ item.avatar }}" alt="{{ item.name }}">
+										{% capture url %}{{ domain }}{{ item.avatar }}{% endcapture %}
+										{% include img.html url=url alt=item.name class="uk-border-circle" %}
 								{% endif %}
 								<h5 class="uk-margin-remove-bottom uk-margin-top">{{ item.name }}</h5>
 								<p class="uk-article-meta uk-margin-remove">{{ item.title }}</p>

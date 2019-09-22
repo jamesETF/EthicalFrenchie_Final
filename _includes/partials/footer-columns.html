@@ -6,10 +6,12 @@
           <a href="{{ "/" | relative_url }}">
             {% if site.logo_light or site.logo %}
               {% if site.logo_light %}
-                <img class="uk-logo-inverse" src="{{ site.uploads | absolute_url }}{{ site.logo_light }}" alt="{{ site.title }}">
+                {% capture url %}{{ site.uploads | absolute_url }}{{ site.logo_light }}{% endcapture %}
+                {% include img.html url=url alt=site.title class="uk-logo-inverse" %}
               {% endif %}
               {% if site.logo %}
-                <img src="{{ site.uploads | absolute_url }}{{ site.logo }}" alt="{{ site.title }}">
+                {% capture url %}{{ site.uploads | absolute_url }}{{ site.logo }}{% endcapture %}
+                {% include img.html url=url alt=site.title %}
               {% endif %}
             {% else %}
               {{ site.title }}

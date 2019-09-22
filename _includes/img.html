@@ -1,0 +1,9 @@
+{%- assign src-filename = include.url | split: '.' | pop | join: '.' -%}
+<noscript><picture{% if include.class %} class="{{ include.class }}"{% endif %}>
+  <source type="image/webp" srcset="{{ src-filename }}.webp">
+  <img {% if include.class %}class="{{ include.class }}" {% endif %}src="{{ include.url }}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+</picture></noscript>
+<picture{% if include.class %} class="{{ include.class }}"{% endif %}>
+  <source type="image/webp" data-srcset="{{ src-filename }}.webp">
+  <img class="{% if include.class %}{{ include.class }} {% endif %}lazy" data-src="{{ include.url }}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+</picture>

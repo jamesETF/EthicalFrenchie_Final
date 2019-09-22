@@ -46,7 +46,8 @@
 			{% for post in puppies %}
 				<li data-topic="{{ post.topics }}">
 					<div class="uk-inline uk-light uk-transition-toggle">
-						<img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+						{% capture url %}{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}{% endcapture %}
+						{% include img.html url=url alt=post.title %}
 						<a href="{{ post.url | absolute_url }}" class="uk-overlay uk-overlay-primary uk-position-cover uk-transition-fade">
 							<div class="uk-position-center">
 								{% if include.title == 'bellow' %}
