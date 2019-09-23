@@ -18,8 +18,8 @@ $(document).ready(function(){
         pageDesktopMenuToggle.remove();
         
         //Injecting FontAwesome 5.10.2 & Roboto Font
-        head.append('<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" rel="stylesheet">')
-        head.append('<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">')
+        head.append('<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.css" rel="stylesheet">');
+        head.append('<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">');
 
         //Defining menu Items.
         var footerMenuOpen = '<div id="footer-menu">';
