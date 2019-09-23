@@ -27,7 +27,9 @@
     accessToken: '{{ site.instagram_accesstoken }}',
     target: 'instagram',
     numOfPics: {{ include.count | default: '5' }},
-    caption: false
+    caption: false,
+    imgLazyLoad: true,
+    imgClassName: 'lazy'
   });
 </script>
 {% include partials/section-close.html 

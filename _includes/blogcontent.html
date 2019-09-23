@@ -1,0 +1,35 @@
+{% comment %} Use this anywhere that markdown is converted into HTML {% endcomment %}
+{%- assign pieces = content | split: '<img src="' -%}
+{%- for piece in pieces -%}
+	{%- if forloop.first == true -%}
+		{{ piece }}
+	{%- else -%}
+		{%- if piece contains '" alt="' -%}
+			{%- assign url = piece | split: '" alt="' | first -%}
+			{%- assign alt = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | first -%}
+			{%- assign rest = piece | split: '" alt="' | shift | join: '" alt="' | split: '"' | shift | join: '"' -%}
+                  {%- assign url-filename = url | split: '.' | pop | join: '.' -%}
+                  <noscript><picture>
+                    <source type="image/webp" srcset="{{ url-filename }}.webp">
+                    <img src="{{ url }}" alt="{{ alt }}">
+                  </picture></noscript>
+                  <picture>
+                    <source type="image/webp" data-srcset="{{ url-filename }}.webp">
+                    <img class="lazy" data-src="{{ url }}" alt="{{ alt }}">
+                  </picture{{ rest }}
+		{%- else -%}
+			{%- assign url = piece | split: '"' | first -%}
+			{%- assign rest = piece | split: '"' | shift | join: '"' -%}
+                  {%- assign url-filename = url | split: '.' |  pop | join: '.' -%}
+                  {%- assign url-extension = url | split: '.' | last -%}
+			            <noscript><picture>
+                    <source type="image/webp" srcset="{{ url-filename }}.webp">
+                    <img src="{{ url }}">
+                  </picture></noscript>
+                  <picture>
+                    <source type="image/webp" data-srcset="{{ url-filename }}.webp">
+                    <img class="lazy" data-src="{{ url }}">
+                  </picture{{ rest }}
+		{%- endif -%}
+	{%- endif -%}
+{%- endfor -%}

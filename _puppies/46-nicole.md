@@ -3,7 +3,7 @@ title: Nicole
 description: If you are looking for a relaxed and easygoing blue frenchie pup, this might just be your baby girl. She is sweet, affectionate and a really well behaved and well adjusted little pup. She is 12 weeks old and located in New York City.
 subtitle: I'm Nicole and I'm a sweet and mellow blue Frenchie girl.
 width: xsmall
-image: /blue-french-bulldog-Nicole/nicole.jpg
+image: /blue-french-bulldog-nicole/nicole.jpg
 topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
