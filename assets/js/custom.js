@@ -1,5 +1,5 @@
 $(document).ready(function(){      
-    'use strict'	
+    'use strict';	
     
     //Defining main variables.
     var head = $('head');
