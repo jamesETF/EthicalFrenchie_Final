@@ -26,6 +26,7 @@ extraseocontactus: true
 
 {% include alert.html text="Please read the following carefully" style="danger" %}
 {: .uk-text-lead}
+
  The chat will do the following.
  - Weed out the "tire kickers"
  - Ask a few qualifying questions
@@ -41,8 +42,6 @@ extraseocontactus: true
   Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
 
-## Contact Ethical Frenchie
-{% include pipedriveform.html section_container="expand" %}
 
 
 

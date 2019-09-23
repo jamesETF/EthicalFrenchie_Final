@@ -1,10 +1,10 @@
 ---
-title: Diamond
+title: Charles
 hidden: true
-subtitle: Diamond Is Sold
+subtitle: Charles Found a home
+description: Charlie is a merle fawn French Bulldog pup. He's located in New York and is looking for his new family. Very aweet, affectionate, playful and curious. I would love for you to come meet me soon.
 width: xsmall
-image: /french-bulldog-wallpaper.jpg
-topics: [Our Puppies, sold]
+image: /merle-french-bulldog-charlie/charlieagain.png
 navbar:
   sticky: false
   transparent: true
@@ -16,12 +16,12 @@ header:
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/diamond/
+permalink: /puppies/merle-french-bulldog-charlie/
 pipedrive: true
 
 ---
 
-Electra Found a Home in Raleigh, NC with a wonderful Family.
+Charlie Found a Home in Virginia! with a wonderful Family.
 
 However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
 
@@ -39,8 +39,8 @@ Please view [Our Current Puppies](/puppies)
 
 
 {% include map.html 
-  latitude="35.843965" 
-  longitude="-78.7851394" 
+  latitude="37.9864132" 
+  longitude="-81.6639971" 
   zoom="12" 
   style="silver" 
   section_container="expand"

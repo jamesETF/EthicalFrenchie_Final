@@ -1,27 +1,27 @@
 ---
-title: Diamond
+title: Ace
 hidden: true
-subtitle: Diamond Is Sold
+subtitle: Ace Found a home
+description: Ace the lilac & Tan Frenchie
 width: xsmall
-image: /french-bulldog-wallpaper.jpg
-topics: [Our Puppies, sold]
+image: /lilac-french-bulldog-ace/ace.jpg
 navbar:
   sticky: false
   transparent: true
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: /french-bulldog-wallpaper.jpg
+  background_image: /lilac-french-bulldog-ace/ace.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/diamond/
+permalink: /puppies/Ace-lilac-tan-french-bulldog/
 pipedrive: true
 
 ---
 
-Electra Found a Home in Raleigh, NC with a wonderful Family.
+Ace Found a Home in New Jersey! with a wonderful Family.
 
 However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
 
@@ -39,8 +39,8 @@ Please view [Our Current Puppies](/puppies)
 
 
 {% include map.html 
-  latitude="35.843965" 
-  longitude="-78.7851394" 
+  latitude="40.0697397" 
+  longitude="-75.845384" 
   zoom="12" 
   style="silver" 
   section_container="expand"

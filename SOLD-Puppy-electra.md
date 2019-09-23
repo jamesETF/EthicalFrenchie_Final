@@ -12,7 +12,7 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: /merle-french-bulldog-diamond/diamond.jpg
+  background_image: / 
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge
@@ -24,10 +24,10 @@ pipedrive: true
 ---
 
 {% include block.html 
-  block="sold"
+  block="sold-electra"
   section_size="medium"
   section_container="xsmall"
   section_header_align="center"
-  section_title="The challenge"
+  section_title="Found a home!"
   block_title="false"
 %}

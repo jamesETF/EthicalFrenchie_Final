@@ -2,7 +2,7 @@
 title: Tammy Found a home
 subtitle: I’m a cream  French Bulldog puppy for sale located in New York City. And not just a regular lilac, lilac with tan points, which makes me **really rare**.
 image: /cream-french-bulldog-tammy/cream-french-bulldog-tammy.jpg
-width: full
+width: xsmall
 navbar:
   transparent: true
   transparent_color: light
@@ -17,19 +17,27 @@ permalink: /puppies/cream-french-bulldog-tammy/
 pipedrive: true
 ---
 
-{% include block.html 
-  block="sold-tammy"
-  section_container="xsmall"
-  section_size="medium"
-  block_title="false"
+Tammy Found a Home in Raleigh, NC with a wonderful Family.
+
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
+
+{% include reviewsfb.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
 %}
+
 
 {% include map.html 
   latitude="35.843965" 
   longitude="-78.7851394" 
   zoom="12" 
-  section_size="medium"
-  section_padding_remove="top"
-  section_container="small"
-  height="large"
-%}
+  style="silver" 
+  section_container="expand"
+  %}

@@ -1,10 +1,10 @@
 ---
-title: Diamond
+title: Nate
 hidden: true
-subtitle: Diamond Is Sold
+subtitle: Nate Found a home
+description: Nathan is a solid blue Frenchie Pup, currently living in the big city. He is still on the search for his new family and knows exactl what he's looking for - parents that aren't absent too often and will provide cuddles on demand.
 width: xsmall
-image: /french-bulldog-wallpaper.jpg
-topics: [Our Puppies, sold]
+image: /blue-french-bulldog-nate/nate2.jpg
 navbar:
   sticky: false
   transparent: true
@@ -16,12 +16,12 @@ header:
   color: light
   header_size: xlarge
   parallax: true
-permalink: /puppies/diamond/
+permalink: /puppies/blue-french-bulldog-nate/
 pipedrive: true
 
 ---
 
-Electra Found a Home in Raleigh, NC with a wonderful Family.
+Nate Found a Home in Virginia! with a wonderful Family.
 
 However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
 
@@ -39,8 +39,8 @@ Please view [Our Current Puppies](/puppies)
 
 
 {% include map.html 
-  latitude="35.843965" 
-  longitude="-78.7851394" 
+  latitude="37.9864132" 
+  longitude="-81.6639971" 
   zoom="12" 
   style="silver" 
   section_container="expand"
