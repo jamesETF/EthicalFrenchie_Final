@@ -28,7 +28,7 @@ extraseocontactus: true
 {: .uk-text-lead}
 
 ## Contact Ethical Frenchie
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
+{% include pipedriveform.html %}
 
  IF you don't feel like using the chat, use the form below.
  
