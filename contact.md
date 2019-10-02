@@ -27,15 +27,8 @@ extraseocontactus: true
 {% include alert.html text="Please read the following carefully" style="danger" %}
 {: .uk-text-lead}
 
- The chat will do the following.
- - Weed out the "tire kickers"
- - Ask a few qualifying questions
- - Set your expectations regarding pricing.
- - Schedule a time (you'll receive an email and calendar invite) to chat today (or whenever is convenient)
- - You will receive our contact numbers via the chat! 
- - I actively maintain and update this site daily, 
- - If a puppy is not available it will not be on the site. Also if no puppies are available it will display as such. 
- - Just use the pink chat thing, Trust me, my cell phone will vibrate the moment you do -James
+## Contact Ethical Frenchie
+{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" number="true" subject="true" layout="horizontal" %}
 
  IF you don't feel like using the chat, use the form below.
  
