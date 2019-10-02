@@ -23,17 +23,16 @@ pipedrive: true
 permalink: /contact-us/
 extraseocontactus: true
 ---
-
-
-{: .uk-text-lead}
-
-## Contact Ethical Frenchie
-{% include pipedriveform.html %}
-
+{% include alert.html text="Using the chat button will produce a faster response" style="danger" %}
  IF you don't feel like using the chat, use the form below.
  
-  Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
+
+## Contact Ethical Frenchie
+
+
+{% include pipedriveform.html %}
 
 
 
