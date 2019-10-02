@@ -24,7 +24,7 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-{% include alert.html text="Please read the following carefully" style="danger" %}
+
 {: .uk-text-lead}
 
 ## Contact Ethical Frenchie
