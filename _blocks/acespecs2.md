@@ -20,3 +20,5 @@ Our French bulldogs for sale come from health tested parents, but additional hea
 -	UC Davis
 -	Animal Genetics
 
+{% include reviewsfb.html %} 
+
