@@ -23,8 +23,10 @@ pipedrive: true
 permalink: /contact-us/
 extraseocontactus: true
 ---
-{% include alert.html text="Using the chat button will produce a faster response" style="danger" %}
- IF you don't feel like using the chat, use the form below.
+
+# 212 739-0182
+
+
  
 Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
