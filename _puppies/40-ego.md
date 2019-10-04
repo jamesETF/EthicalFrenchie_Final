@@ -33,7 +33,6 @@ pipedrive: true
 
 
 | Age     | 12 weeks  |
-| Birthday     | 5.25.19   |
 | Coat Color     | Blue   |
 | personality     | Super Friendly / Outgoing  |
 | Health     |  {% include label.html text="Cleared " style="success" %}|
