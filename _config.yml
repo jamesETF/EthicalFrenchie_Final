@@ -124,27 +124,15 @@ kramdown:
 webp:
   enabled: true
   img_dir: ["uploads","assets/img",
-    "uploads/blue-french-bulldog-bronx/",
     "uploads/blue-french-bulldog-ego/",
-    "uploads/blue-french-bulldog-leila/",
-    "uploads/blue-french-bulldog-nate/",
-    "uploads/blue-french-bulldog-nicole/",
-    "uploads/blue-french-bulldog-vargas/",
-    "uploads/blue-french-bulldog-violet/",
-    "uploads/blue-french-bulldog-zeus/",
-    "uploads/Blue-French-Bulldog-Puppy-Theo/",
-    "uploads/cream-french-bulldog-tammy/",
-    "uploads/lilac-french-bulldog-ace/",
-    "uploads/merle-french-bulldog-albert/",
-    "uploads/merle-french-bulldog-charlie/",
-    "uploads/merle-french-bulldog-diamond/",
     "uploads/merle-french-bulldog-litter/",
-    "uploads/chocolate-french-bulldog-puppy-mario/",
     "uploads/gallery-1",
     "uploads/logos/",
     "uploads/slider-1/",
     "uploads/puppies-set-1/",
     "uploads/merle-french-bulldog-puppy-nelson/",
+    "uploads/blue-french-bulldog-puppy-brucy/",
+    "images/",
   ]
   nested: true
 
@@ -187,6 +175,7 @@ collections:
     output:             false
   puppies:
     output:             true
+
 
 # Defaults
 defaults:

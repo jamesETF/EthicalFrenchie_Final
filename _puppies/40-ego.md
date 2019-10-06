@@ -10,10 +10,10 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: /ego.jpg
+  background_image: /french-bulldog-wallpaper.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
-  header_size: xlarge
+  header_size: medium
   parallax: true
 permalink: /puppies/ego/
 pipedrive: true
