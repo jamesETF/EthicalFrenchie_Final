@@ -14,7 +14,7 @@ header:
   background_image: /french-bulldog-wallpaper.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
-  header_size: xlarge 
+  header_size: medium
   parallax: true
 permalink: /puppies/blue-french-bulldog-puppy-bruce/
 pipedrive: true
