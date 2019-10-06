@@ -32,22 +32,20 @@ pipedrive: true
 %}
 
 
-
 |Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
+
+
+### Personality: 
+Meet Preston! Preston is our blue French Bulldog puppy and he’s located in Manhattan, New York. He’s too young to strut the street but he visited multiple bars in his baby carrier and loved every minute of it. Preston is very bonded with his sister Pepper and it’s sometimes so hard to tell them apart. This sweet blue boy is kind, friendly and an explorer. He loves sniffing around and putting his little toys in a pile. It’s his hobby. Toy obsessed is an understatement. Preston is far from an alpha male and he gets along with just anyone, so if there is a family that’s loving and potentially already has a Frenchie that’s looking for a buddy, Preston might be your baby boy.  
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="blue-french-bulldog-puppy-Preston"
+	gallery="blue-french-bulldog-puppy-preston"
 	caption="true"
 	lightbox="true"
   section_size="medium"
   section_padding_remove="top"
 %}
-
-### Personality: 
-Meet Preston! Preston is our blue French Bulldog puppy and he’s located in Manhattan, New York. He’s too young to strut the street but he visited multiple bars in his baby carrier and loved every minute of it. Preston is very bonded with his sister Pepper and it’s sometimes so hard to tell them apart. This sweet blue boy is kind, friendly and an explorer. He loves sniffing around and putting his little toys in a pile. It’s his hobby. Toy obsessed is an understatement. Preston is far from an alpha male and he gets along with just anyone, so if there is a family that’s loving and potentially already has a Frenchie that’s looking for a buddy, Preston might be your baby boy.  
-
-
 
 ### Health:
 Preston is up to date on all his age appropriate shots, dewormed multiple times and grew under strict veterinary supervision from the day she was born. We have two personal vets who examine our French Bulldog Puppies on multiple occasion and make sure there aren’t any deviations. Our pups usually come with two boosters of DHHP and Bordatella, as well as the completion of those and a rabies shot in case they stay with us longer. 
@@ -79,7 +77,7 @@ What we expect from the new family feeding wise is investing in a high quality b
 
 {% include image.html 
 	src="/blue-french-bulldog-puppy-Preston/Preston-frenchie-hoodie.jpg"
-  alt="Some alt title"
+  alt="Preston the Frenchie"
   section_size="medium"
   section_padding_remove="top"
   section_container="small"

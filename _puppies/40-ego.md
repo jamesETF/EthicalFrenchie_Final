@@ -69,7 +69,7 @@ pipedrive: true
 
 {% include image.html 
 	src="/ego.jpg"
-  alt="Some alt title"
+  alt="Ego the Frenchie"
   section_size="medium"
   section_padding_remove="top"
   section_container="small"

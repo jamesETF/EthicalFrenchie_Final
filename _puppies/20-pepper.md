@@ -32,22 +32,21 @@ pipedrive: true
 %}
 
 
-
 |Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
 
+
+
+### Personality: 
+Meet Pepper! She is a solid blue French Bulldog girl located in New York City. Pepper is a social butterfly. She loves attention and receives it everywhere she goes. Her favorite things in this world are deer antlers, kong toys and Salmon Omega 3 treats. She is very smart and will be fairly easy to train. On the other hand, she got us trained in a second 😉 
+Pepper is not demanding but of course like every Frenchie she prefers company over solitude. This little blue Frenchie girl will thrive in a household with people that will spoil her and give belly rubs on demand.  
 {% include gallery.html 
 	grid="1-2"
-	gallery="blue-french-bulldog-puppy-Pepper"
+	gallery="blue-french-bulldog-puppy-pepper"
 	caption="true"
 	lightbox="true"
   section_size="medium"
   section_padding_remove="top"
 %}
-
-### Personality: 
-Meet Pepper! She is a solid blue French Bulldog girl located in New York City. Pepper is a social butterfly. She loves attention and receives it everywhere she goes. Her favorite things in this world are deer antlers, kong toys and Salmon Omega 3 treats. She is very smart and will be fairly easy to train. On the other hand, she got us trained in a second 😉 
-Pepper is not demanding but of course like every Frenchie she prefers company over solitude. This little blue Frenchie girl will thrive in a household with people that will spoil her and give belly rubs on demand.  
-
 ### Health:
 Pepper is up to date on all her age appropriate shots, dewormed multiple times and grew under strict veterinary supervision from the day she was born. We have two personal vets who examine our French Bulldog Puppies on multiple occasion and make sure there aren’t any deviations. Our pups usually come with two boosters of DHHP and Bordatella, as well as the completion of those and a rabies shot in case they stay with us longer. 
 They also get microchipped and our vet issues an up to date health certificate before sale. 

@@ -35,14 +35,6 @@ pipedrive: true
 
 |Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
 
-{% include gallery.html 
-	grid="1-2"
-	gallery="blue-french-bulldog-puppy-bruce"
-	caption="true"
-	lightbox="true"
-  section_size="medium"
-  section_padding_remove="top"
-%}
 
 ### Personality: 
 Wohooo! I’m Bruce a blue pied French Bulldog puppy located in New York CIty! Thanks for clicking on my listing. 
@@ -51,7 +43,14 @@ But other than that I’m the sweetest boy you will ever meet and don’t worry 
 
 Call my pawrents at Ethical Frenchie to see if you qualify to get adopted by a fancy guy like me!  
 
-
+{% include gallery.html 
+	grid="1-2"
+	gallery="blue-french-bulldog-puppy-bruce"
+	caption="true"
+	lightbox="true"
+  section_size="medium"
+  section_padding_remove="top"
+%}
 
 ### Health:
 I’m a very healthy boy. No issues at all here. I’ve been healthy since the day I was born and I’m growing by the day. I will be a middle sized Frenchie boy – not too small and not too big, just perfect for the New York City lifestyle. I’ve been kept up to date on shots and my baby fat protected me from the scary needles – I didn’t feel a thing. 
