@@ -52,11 +52,11 @@ authors:
     title:              Support    
     avatar:             renee.jpg
   butch:
-    name:               Thomas Holloman
+    name:               Thomas
     title:              Houses "May" and "April"    
     avatar:             thomas.jpg
   ely:
-    name:               Ely Tenorio
+    name:               Ely
     title:              Records and Compliance    
     avatar:             ely.jpg
 
@@ -131,7 +131,7 @@ webp:
     "uploads/slider-1/",
     "uploads/puppies-set-1/",
     "uploads/merle-french-bulldog-puppy-nelson/",
-    "uploads/blue-french-bulldog-puppy-brucy/",
+    "uploads/blue-french-bulldog-puppy-bruce/",
     "images/",
   ]
   nested: true

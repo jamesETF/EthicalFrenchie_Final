@@ -3,7 +3,7 @@ title: Bruce
 description: Bruce
 subtitle: Blue Pied French Bulldog Puppy located in NYC, can be delivered anywhere in the US
 width: xsmall
-image: blue-french-bulldog-puppy-brucy/bruce-frenchie-hoodie.jpg
+image: blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg
 topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
@@ -11,17 +11,17 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: blue-french-bulldog-puppy-brucy/bruce-frenchie-hoodie.jpg
+  background_image: blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge 
   parallax: true
-permalink: /puppies/blue-french-bulldog-puppy-brucy/
+permalink: /puppies/blue-french-bulldog-puppy-bruce/
 pipedrive: true
 ---
 
   {% include image.html 
-	src="blue-french-bulldog-puppy-brucy/bruce-frenchie-hoodie.jpg"
+	src="blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
   alt="Bruce"
   section_size="large"
   section_padding_remove="bottom"
@@ -37,7 +37,7 @@ pipedrive: true
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="blue-french-bulldog-puppy-brucy"
+	gallery="blue-french-bulldog-puppy-bruce"
 	caption="true"
 	lightbox="true"
   section_size="medium"
@@ -80,7 +80,7 @@ I eat 2-3x per day, my last meal being before 6PM, so there are no poop accident
 %}
 
 {% include image.html 
-	src="/blue-french-bulldog-puppy-brucy/bruce-frenchie-hoodie.jpg"
+	src="/blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
   alt="Some alt title"
   section_size="medium"
   section_padding_remove="top"
