@@ -21,7 +21,7 @@ pipedrive: true
 ---
 
   {% include image.html 
-	src="blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
+	src="https://ethicalfrenchie.com/uploads/blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
   alt="Bruce"
   section_size="large"
   section_padding_remove="bottom"
