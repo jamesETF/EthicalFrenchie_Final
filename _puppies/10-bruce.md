@@ -11,7 +11,7 @@ navbar:
   transparent_color: light
 header:
   layout: center # Options: center 1-2 or 2-3
-  background_image: blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg
+  background_image: /french-bulldog-wallpaper.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: xlarge 
@@ -21,7 +21,7 @@ pipedrive: true
 ---
 
   {% include image.html 
-	src="https://ethicalfrenchie.com/uploads/blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
+	src="bruce-frenchie-hoodie.jpg"
   alt="Bruce"
   section_size="large"
   section_padding_remove="bottom"
