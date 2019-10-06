@@ -21,7 +21,7 @@ pipedrive: true
 ---
 
   {% include image.html 
-	src="bruce-frenchie-hoodie.jpg"
+	src="blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg"
   alt="Bruce"
   section_size="large"
   section_padding_remove="bottom"
