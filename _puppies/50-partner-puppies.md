@@ -20,7 +20,13 @@ permalink: /puppies/partner-puppies/
 pipedrive: true
 ---
 
-
+{% include image.html 
+	src="/partnerpuppies.jpg"
+  alt="Some alt title"
+  section_size="medium"
+  section_padding_remove="top"
+  section_container="small"
+%}
 
 
 ### The Opportunity
