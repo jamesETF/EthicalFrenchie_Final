@@ -31,14 +31,11 @@ pipedrive: true
   lightbox="true"
 %}
 
-
 |Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
 
-
-
 ### Personality: 
-Meet Pepper! She is a solid blue French Bulldog girl located in New York City. Pepper is a social butterfly. She loves attention and receives it everywhere she goes. Her favorite things in this world are deer antlers, kong toys and Salmon Omega 3 treats. She is very smart and will be fairly easy to train. On the other hand, she got us trained in a second 😉 
-Pepper is not demanding but of course like every Frenchie she prefers company over solitude. This little blue Frenchie girl will thrive in a household with people that will spoil her and give belly rubs on demand.  
+Hey guys I’m Pepper. I honestly don’t know why they called me Pepper, but apparently because I’m so spunky and brave. I’m a blue French Bulldog girl and I’m looking for my forever home. I just went outside for the first time today, we visited the park. Unfortunately I couldn’t walk the streets just yet, because my shots aren’t finished up. But I did love the outside, especially all the attention I got from strangers and them telling me I’m so cute! I’m ready to take over the NYC streets and I’m looking for a partner in crime. Someone brave, adventurous and clumsy when it come to dropping the food on the floor. Is you, the person reading it, my new hooman? 
+
 {% include gallery.html 
 	grid="1-2"
 	gallery="blue-french-bulldog-puppy-pepper"
@@ -48,17 +45,17 @@ Pepper is not demanding but of course like every Frenchie she prefers company ov
   section_padding_remove="top"
 %}
 ### Health:
-Pepper is up to date on all her age appropriate shots, dewormed multiple times and grew under strict veterinary supervision from the day she was born. We have two personal vets who examine our French Bulldog Puppies on multiple occasion and make sure there aren’t any deviations. Our pups usually come with two boosters of DHHP and Bordatella, as well as the completion of those and a rabies shot in case they stay with us longer. 
-They also get microchipped and our vet issues an up to date health certificate before sale. 
-Blue French Bulldogs have a single layer of coat and need to be protected from the elements in the winter. Make sure Pepper gets a fashionable outfit that she can parade around the streets of NYC.
+Pawrents keep us healthy. Mom brushes our teeth – she says it’s very important to teach us about oral care from young age. I hate it, but I guess I’ll have to get used to getting my piranha teeth brushed ☹
+I’ve been checked by our vet multiple times – I love that guy! Even when it comes to him giving me shots – I’m the best Pepper I can be. I still need some more vaccines before I’m fully protected against the outside world, so make sure you keep me up to date on shots. 
+I’m already microchipped – you are welcome. 
+You will receive more instructions from my mom when you come visit. See you soon!
 
 ### Who is Pepper a good fit for?
-Adding a Frenchie to your family Is a big commitment. Please consider adding Pepper to your family - only if you are responsible, caring and ready to commit to this pup for the next 10+ years. French Bulldogs also have a preference for humans that work from home or work in a doggie friendly office, since being alone for long hours everyday is a no-no for this breed. 
+Well, I’m not gonna lie, I can be a spoiled little Pepper, but don’t worry, it’s nothing you can’t handle. My only requirements are: good food, frequent cuddles and watching Netflix shows that include random animals popping up on the screen. Other than that I’m pretty flexible and easygoing. So I think your time has come to pick up your phone and type in the special number  (212) 739-0182 and ask for Pepper. Thanks!
  
 ### Feeding:
-Frenchies thrive on fresh as well as raw food. They are currently fed a mixture of kibble combined with Fresh Pet dog food. I recommend gradually transitioning to a Fresh food brand only. It supports healthy stomach flora and consequentially keeps the immune system in balance.
-The pups also get a daily multivitamin and Omega 3 supplement, as well as a probiotic a few times per week. 
-What we expect from the new family feeding wise is investing in a high quality brand that works for this breed and will keep any kind of allergies or major issues at bay. I can’t say this enough – FOOD is very important. 
+Sooo….apparently I can only eat 2-3x per day. Life is so unfair sometimes for little Peppers like me. But whatever..let’s just skip to what I eat when they finally decide to feed me. 
+I eat a mixture of kibble and Fresh Pet Chicken recipe food. I lick the bowl clean, everytime. I’m small but don’t underestimate my ability to eat. Food is the key to my heart, now you know it and now it’s your opportunity to come and trick me into adopting you 😉 
 
 
 

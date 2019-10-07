@@ -1,6 +1,6 @@
 ---
 title: Preston
-description: Preston is a blue french bulldog puppy located in NYC but can be delivered anywhere by a very nice flight stewardess
+description: I’m a blue Frenchie puppy located in NYC and more than excited to go home. I could tell you so much about me, but I’m trying to figure out where to start.
 subtitle: Blue French Bulldog Puppy located in NYC, can be delivered anywhere in the US
 width: xsmall
 image: blue-french-bulldog-puppy-Preston/Preston-frenchie-hoodie.jpg
@@ -36,7 +36,11 @@ pipedrive: true
 
 
 ### Personality: 
-Meet Preston! Preston is our blue French Bulldog puppy and he’s located in Manhattan, New York. He’s too young to strut the street but he visited multiple bars in his baby carrier and loved every minute of it. Preston is very bonded with his sister Pepper and it’s sometimes so hard to tell them apart. This sweet blue boy is kind, friendly and an explorer. He loves sniffing around and putting his little toys in a pile. It’s his hobby. Toy obsessed is an understatement. Preston is far from an alpha male and he gets along with just anyone, so if there is a family that’s loving and potentially already has a Frenchie that’s looking for a buddy, Preston might be your baby boy.  
+Hi there! My name is Preston and I love sitting and sleeping in weird positions. I’m a blue Frenchie puppy located in NYC and more than excited to go home. I could tell you so much about me, but I’m trying to figure out where to start. First of all I don’t like my name, so hopefully my new humans will be more creative. Please feel free to message Ethical Frenchie with name suggestions. 
+Other than being in need of a name replacement my life is pretty great so far. I can tell you I’m truly the sweetest boy you will ever meet. So much love in such a tiny body. I’m not a demanding Frenchie and I can be pretty independent. I love picking up my toys and walking to my crate where I can spend hours just chewing away before I pass out. If provided with enough deer antlers and chewing toys, you won’t even know I’m there. 
+I love going places and exploring new bars in the neighborhood. I’ve visited the local bar down the street and I already feel like I’m a regular. After all my vaccines are done I will be able to take it to another level and actually explore the bar from ground up, sniffing every corner and find every bread crumb that was dropped on the floor. 
+If you need a bar buddy – I’m your man, if you need a Netflix buddy – I’m your man, If you need a cuddle buddy – yup that’s me. Long story short I’m everything you need and winter is so… I think you should come visit.
+
 
 {% include gallery.html 
 	grid="1-2"
@@ -48,20 +52,15 @@ Meet Preston! Preston is our blue French Bulldog puppy and he’s located in Man
 %}
 
 ### Health:
-Preston is up to date on all his age appropriate shots, dewormed multiple times and grew under strict veterinary supervision from the day she was born. We have two personal vets who examine our French Bulldog Puppies on multiple occasion and make sure there aren’t any deviations. Our pups usually come with two boosters of DHHP and Bordatella, as well as the completion of those and a rabies shot in case they stay with us longer. 
-They also get microchipped and our vet issues an up to date health certificate before sale. 
-French Bulldogs tend to have sensitive skin, so make sure on Omega 3 supplement becomes a part of your daily routine. 
-
+I’m a happy, healthy little boy. Up to date on all my age appropriate vaccines, dewormed multiple times (you need to keep up the dewormings every few months), microchipped and will come with a health certificate as well as a health guarantee. 
+You will get plenty, plenty and I mean plenty instructions on my care from my mother, as well as products she recommends using. I would not recommend making her mad by not keeping up with my care and making me the most spoiled boy in the world. 
 
 
 ### Who is Preston a good fit for?
-Adding a Frenchie to your family Is a big commitment. Please consider adding Preston to your family - only if you are responsible, caring and ready to commit to this pup for the next 10+ years. French Bulldogs also have a preference for humans that work from home or work in a doggie friendly office, since being alone for long hours everyday is a no-no for this breed. 
+I’m looking for a family or a human that will take me places. I love to be surrounded by people and receive as many cuddles as possible. It’s on my bucket list to receive cuddles on every continent 😉 so if you like to travel I think we might be the perfect match. If you don’t, no worries, you will just have to compensate by giving me 10x more cuddles. 
  
 ### Feeding:
-Frenchies thrive on fresh as well as raw food. They are currently fed a mixture of kibble combined with Fresh Pet dog food. I recommend gradually transitioning to a Fresh food brand only. It supports healthy stomach flora and consequentially keeps the immune system in balance.
-The pups also get a daily multivitamin and Omega 3 supplement, as well as a probiotic a few times per week. 
-What we expect from the new family feeding wise is investing in a high quality brand that works for this breed and will keep any kind of allergies or major issues at bay. I can’t say this enough – FOOD is very important. 
-
+Ohhh breakfast, lunch, dinner…my favorite parts of the day. I take my time to enjoy a good meal. I like some Bone Broth added to my food to make it extra soft and easy to digest. Mother also ads a probiotic to my meals a few times per week. I can’t complain. Life is good. 
 
 
 
