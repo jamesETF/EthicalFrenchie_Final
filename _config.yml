@@ -122,7 +122,7 @@ kramdown:
 # Webp generation - see https://github.com/sverrirs/jekyll-webp
 # Add new
 webp:
-  enabled: 
+  enabled: true
   img_dir: ["uploads","assets/img",
     "uploads/blue-french-bulldog-ego/",
     "uploads/blue-french-bulldog-puppy-bruce/",
