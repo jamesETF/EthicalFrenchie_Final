@@ -65,7 +65,14 @@ I eat 2-3x per day, and occasionally snack on some Stella & Chewy’s dog treats
 I also get a daily multivitamin as well as an Omega 3 supplement. 
 All Frenchies should be given a glucosamine join supplement as well, through out their life to prevent joint problems. Keeping the weight down in combination with the joint supplements, should completely eliminate any risk for arthritis or hip dysplasia in the old age.
 
-
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 {% include block.html 
   block="acespecs2"

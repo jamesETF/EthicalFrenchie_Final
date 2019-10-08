@@ -57,7 +57,14 @@ Well, I’m not gonna lie, I can be a spoiled little Pepper, but don’t worry, 
 Sooo….apparently I can only eat 2-3x per day. Life is so unfair sometimes for little Peppers like me. But whatever..let’s just skip to what I eat when they finally decide to feed me. 
 I eat a mixture of kibble and Fresh Pet Chicken recipe food. I lick the bowl clean, everytime. I’m small but don’t underestimate my ability to eat. Food is the key to my heart, now you know it and now it’s your opportunity to come and trick me into adopting you 😉 
 
-
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 {% include block.html 
   block="acespecs2"

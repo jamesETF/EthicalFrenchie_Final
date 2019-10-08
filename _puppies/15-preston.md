@@ -62,7 +62,14 @@ I’m looking for a family or a human that will take me places. I love to be sur
 ### Feeding:
 Ohhh breakfast, lunch, dinner…my favorite parts of the day. I take my time to enjoy a good meal. I like some Bone Broth added to my food to make it extra soft and easy to digest. Mother also ads a probiotic to my meals a few times per week. I can’t complain. Life is good. 
 
-
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 {% include block.html 
   block="acespecs2"

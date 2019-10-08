@@ -66,6 +66,14 @@ I love food. There is not much to say about that. I love all food, but unfortuna
 I also get a daily multivitamin by the Natural Dog Company – no this is not an affiliate link; I just love the duck and potato formula. Our mom also gives us a daily Omega 3 supplement to support skin health at all times. 
 I eat 2-3x per day, my last meal being before 6PM, so there are no poop accidents overnight, cause ain’t nobody got time for that 😉 
 
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 
 {% include block.html 
