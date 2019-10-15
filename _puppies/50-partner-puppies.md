@@ -51,7 +51,7 @@ I do all of that for you, because by the nature of this business and all of my t
 Time = Saved
 
 ### Availability
-Currently there are no partner puppies listed here, but that will change by end of week. __-Signed James__ {{ site.time | date: '%m/%d/%y' }}
+Currently we have 1 Partner Puppy listed, with more to come. __-Signed James__ {{ site.time | date: '%m/%d/%y' }}
 
 {% include gallery.html 
 	grid="1-2"

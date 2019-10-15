@@ -1,10 +1,9 @@
 ---
-title: Nate
-image: blue-french-bulldog-nate/natethumb.jpg
+title: Bruce
+image: blue-french-bulldog-puppy-bruce/bruce-frenchie-hoodie.jpg
 ---
 
-As you can see I’m very unique looking. Even my little stripe is something my pawrents adore about me.. 
-I’m smaller than my siblings but I’m doing my best to keep up and chase them around. Being a smoll boi – I had to develop a tough personality – so here I am, bossing everyone around. 
+I’ve been healthy since the day I was born and I’m growing by the day. 
 
 
-{% include button.html text="Inquire About Me" url="/puppies/" style="default" %}
+{% include button.html text="Inquire About Me" url="/puppies/blue-french-bulldog-puppy-bruce/" style="default" %}

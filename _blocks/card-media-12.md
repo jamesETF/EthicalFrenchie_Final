@@ -1,8 +1,8 @@
 ---
-title: Violet - Blue French Bulldog Puppy
-image: /blue-french-bulldog-violet/violetthumb.jpg
+title: Ego
+image: /ego.jpg
 ---
 
-Hi! My name is Violet and I’m an adorable blue French Bulldog puppy looking for a home. 
+Hey! My name is Ego and I will spice up your life.
 
 {% include button.html text="Inquire About Me" url="/puppies/" style="default" %}

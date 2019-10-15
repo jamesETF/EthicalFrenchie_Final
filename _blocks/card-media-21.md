@@ -1,8 +1,8 @@
 ---
-title: Vargas - Blue French Bulldog Puppy
-image: /blue-french-bulldog-vargas/vargasthumb.jpg
+title: Daisy
+image: black-pied-french-bulldog-puppy/daisy-frenchie-hoodie.jpg
 ---
 
-I’m a cute Blue French Bulldog puppy for sale located in New York City. And not just a regular blue, I'm the best one yet.
+My parents decided to expose me to the outside world called Madison Square Park for the first time and it was beyond scary for me.
 
-{% include button.html text="Inquire About Me" url="/puppies/" style="default" %}
+{% include button.html text="Inquire About Me" url="/puppies/black-pied-french-bulldog-puppy" style="default" %}
