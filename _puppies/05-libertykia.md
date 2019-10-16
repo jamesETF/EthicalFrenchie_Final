@@ -39,6 +39,7 @@ pipedrive: true
   card_style="default"
   grid="1-4"
 %}
+
 {% include block.html 
   block="partnervideo"
   block_title="false"
@@ -47,6 +48,7 @@ pipedrive: true
   section_container="xsmall"
   section_header_align="center"
 %}
+
   {% include image.html 
 	src="french-bulldog-partner-breeder/kialiberty2.jpg"
   alt="Preston"
