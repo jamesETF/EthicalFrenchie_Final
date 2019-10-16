@@ -39,6 +39,14 @@ pipedrive: true
   card_style="default"
   grid="1-4"
 %}
+{% include block.html 
+  block="partnervideo"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
   {% include image.html 
 	src="french-bulldog-partner-breeder/kialiberty2.jpg"
   alt="Preston"
@@ -73,14 +81,6 @@ The answer is short and easy, The value for you in a partner puppy is your time 
 
 I do all of that for you, because by the nature of this business and all of my time on the road, I've already qualified and vetted several breeders, their litters will be listed here.
 
-{% include block.html 
-  block="vimeovideos"
-  block_title="false"
-  section_size="large"
-  section_title="A Day in the Garden" 
-  section_container="xsmall"
-  section_header_align="center"
-%}
 
 {% include block.html 
   block="acespecs2"
