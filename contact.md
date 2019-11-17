@@ -1,5 +1,5 @@
 ---
-title: Conatct Us
+title: Contact Us
 width: small
 section: normal
 navbar:
