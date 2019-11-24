@@ -4,9 +4,9 @@ layout: default
 
 <article class="uk-article">
   <div class="uk-article-content button-link uk-margin-medium-top-">
-    {{ content }}
     {% if page.share %}
-        {% include share.html %}
+    {% include share.html %}
+    {{ content }}
     {% endif %}
   </div>
   
