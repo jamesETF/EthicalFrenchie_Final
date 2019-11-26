@@ -24,18 +24,9 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-# 212 739-0182
 
-
- 
+### Ethical Frenchie LLC is preparing for the Holiday rush. Our Contact form will return on 11.28.19
 Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
-
-
-## Contact Ethical Frenchie
-
-
-{% include pipedriveform.html %}
-
 
 
 
