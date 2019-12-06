@@ -24,11 +24,10 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-## Phone number removed due to high demand.
+## If its on the site, its availalbe.
 ### You must use the chat in order to qualify
-####  If the puppy is listed, its available.
 
-Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+### Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
 
 
