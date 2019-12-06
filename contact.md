@@ -24,12 +24,12 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-## Contact Ethical Frenchie	
-# 212 739-0182
+## Phone number removed due to high demand.
+### You must use the chat in order to qualify
+####  If the puppy is listed, its available.
+
 Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
-
-{% include pipedriveform.html %}
 
 
 {% include reviewsfb.html 
