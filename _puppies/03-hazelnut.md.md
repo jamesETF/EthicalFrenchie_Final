@@ -34,3 +34,22 @@ She will still need another DHPP booster and rabies shot to be completely safe t
 Hazel eats a mixture of kibble and freshly prepared food. While I usually prepare chicken for the puppies, Hazel prefers fish. She absolutely adores anything fish related. From treats, to supplements, to just straight up raw sardines. Her coat is soft an shiny, and it’s probably due to all the healthy Omega 3 her diet consists of. 
 She is fed 3-4x per day and is pretty good at eating slow (which is so rarely seen in French Bulldogs). She takes her time to enjoy her meal. We still add some supplements to her food like a Kefir probiotic and occasionally some fresh turmeric. 
 Hazelnut is food motivated so it won’t be too hard to train and completely housebreak her. With consistency, it shouldn’t take longer than a couple of weeks. 
+
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
+
+{% include block.html 
+  block="acespecs2"
+  section_size="medium"
+  section_padding_remove="top"
+  section_container="xsmall"
+  section_header_align="center"
+  section_title="Apply for further consideration."
+  block_title="false"
+%}

@@ -36,3 +36,22 @@ Maya is also microchipped and will be health checked one more time before leavin
 ### Feeding:
 We feed her 4 smaller meals per day, even though she would not be opposed to more than that. In between meals she gets fresh chicken or dehydrated raw treats that are highly nutritious and filler free. She also gets her daily Omega 3 supplement, a probiotic and occasionally some fresh turmeric sprinkled on top of her meals. 
 One thing I need to point out is that this girl loves water and will drink it just for the fun of it, so we sometimes need to revoke water access or she will go completely insane and also use the bowl as a personal pool. I’m actually pretty excited to see how she does in the summer. I feel like she will love swimming. 
+
+{% include block.html 
+  block="vimeovideos"
+  block_title="false"
+  section_size="large"
+  section_title="A Day in the Garden" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
+
+{% include block.html 
+  block="acespecs2"
+  section_size="medium"
+  section_padding_remove="top"
+  section_container="xsmall"
+  section_header_align="center"
+  section_title="Apply for further consideration."
+  block_title="false"
+%}
