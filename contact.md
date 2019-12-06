@@ -24,9 +24,8 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-## If its on the site, its availalbe.
-### You must use the chat in order to qualify
-
+## We have automated the interview process.
+## It begins with the "Chat" (purple chat icon on bottom right)
 ### Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
 
 
