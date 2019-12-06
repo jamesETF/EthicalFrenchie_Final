@@ -2,6 +2,14 @@
 title: Why Blue French Bulldogs
 ---
 
+{% include reviewsg.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}
+
 ## Why do we breed blue french bulldogs?
 
 When it comes to breeding blues, we are aware of the risks behind poor breeding. That is why we take responsibility as our highest priority when selecting Frenchie mates for our breeding line. That means we only choose the best dogs to breed. 
