@@ -24,9 +24,16 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-## We have automated the interview process.
-## It begins with the "Chat" (purple chat icon on bottom right)
-### Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+####  If the puppy is listed, its available.
+
+## Contact Ethical Frenchie	
+# 212 739-0182
+
+Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
+
+{% include pipedriveform.html %}
+
+
 
 
 
