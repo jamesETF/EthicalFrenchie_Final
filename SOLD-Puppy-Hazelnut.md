@@ -18,7 +18,25 @@ header:
   parallax: true
 permalink: /puppies/fawn-french-bulldog-puppy-hazelnut/
 pipedrive: true
+
 ---
+
+Hazelnut Found a Home in Philadelphia, PA with a wonderful Family.
+
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
+
+{% include reviewsfb.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
+%}
+
 {% include ahazelnutpictures.html %}
 ### Personality: Well hello there. I’m Hazelnut, or should I say Hazle-nuts..
 My name is Hazlenut, but they also call me Hazel, Nut and Nutty. I’m a fawn French Bulldog girl with a black mask. My mom says I’m pretty energetic and that I talk back. I can’t confirm or deny that. But you can come meet me and find out for yourself. 
@@ -53,3 +71,11 @@ Hazelnut is food motivated so it won’t be too hard to train and completely hou
   section_title="Apply for further consideration."
   block_title="false"
 %}
+{% include map.html 
+  latitude="35.843965" 
+  longitude="-78.7851394" 
+  zoom="12" 
+  style="silver" 
+  section_container="expand"
+  %}
+/puppies/merle-french-bulldog-Daisy

@@ -20,12 +20,13 @@ permalink: /puppies/partner-puppies/
 pipedrive: true
 ---
 
-{% include image.html 
-	src="/partnerpuppies.jpg"
-  alt="Some alt title"
+{% include gallery.html 
+	grid="1-2"
+	gallery="Partner-Puppies"
+	caption="true"
+	lightbox="true"
   section_size="medium"
   section_padding_remove="top"
-  section_container="small"
 %}
 
 
@@ -53,14 +54,7 @@ Time = Saved
 ### Availability
 Currently we have 1 Partner Puppy listed, with more to come. __-Signed James__ {{ site.time | date: '%m/%d/%y' }}
 
-{% include gallery.html 
-	grid="1-2"
-	gallery="partner-puppies"
-	caption="true"
-	lightbox="true"
-  section_size="medium"
-  section_padding_remove="top"
-%}
+
 
 
 {% include image.html 
