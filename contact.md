@@ -26,16 +26,10 @@ extraseocontactus: true
 
 ####  If the puppy is listed, its available.
 
-## Contact Ethical Frenchie	
-# 212 739-0182
+## USE THE CHAT	- {{ site.time | date: '%m/%d/%y' }} James  *Signed
 
-Last update - {{ site.time | date: '%m/%d/%y' }} James  *Signed 
-
-{% include pipedriveform.html %}
-
-
-
-
+Due to the overwhelming demand of last minute frenchie shoppers, we will only be speaking with people who use the chat functionality on this website.
+Its designed to weed out impulse buyers and tire kickers (or "puppy kickers" in this case)
 
 {% include reviewsfb.html 
    layout="1-1"
