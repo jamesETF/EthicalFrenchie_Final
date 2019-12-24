@@ -19,24 +19,16 @@ permalink: /puppies/ego/
 pipedrive: true
 ---
 
-{% include image.html 
-	src="/ego.jpg"
-  alt="Ego"
-  section_size="large"
-  section_padding_remove="bottom"
-  section_title="Ego"
-  section_header_align="center"
-  section_container="small"
-  lightbox="true"
-%}
+
+Ego Found a Home in Brooklyn, NY with a wonderful Family.
+
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
 
 
-
-| Age     | 12 weeks  |
-| Coat Color     | Blue   |
-| personality     | Super Friendly / Outgoing  |
-| Health     |  {% include label.html text="Cleared " style="success" %}|
-|Available as of {{ site.time | date: '%m/%d/%y' }}  | {% include label.html text="Available" style="success" %} |
 
 {% include gallery.html 
 	grid="1-2"

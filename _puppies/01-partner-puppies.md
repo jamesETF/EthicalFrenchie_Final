@@ -3,7 +3,7 @@ title: Partner Puppies
 description: Partner Puppies are french bulldog puppies that are not bred by us, but instead by a partner breeder. Partner Puppies are covered by Ethical Frenchie's Health Gaurantee, and are thoroughly investigated and inspected before being listed on our site.
 subtitle: Same Health Gaurantee, Same Quality, Vetted Partner Breeder
 width: xsmall
-image: partnerpuppies.jpg
+image: /Partner-Puppies/FullSizeRender.jpg
 topics: [Our Puppies, black French Bulldog]
 navbar:
   sticky: true
