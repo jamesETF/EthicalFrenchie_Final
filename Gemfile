@@ -6,5 +6,5 @@ gem "jekyll-seo-tag"
 gem "jekyll-gist"
 gem "jekyll-sitemap"
 gem "jemoji"
-gem "jekyll-webp"
-
+gem 'jekyll-webp', '~> 1.0'
+gem "jekyll-gzip"

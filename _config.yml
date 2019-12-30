@@ -133,11 +133,14 @@ webp:
     "uploads/blue-french-bulldog-puppy-pepper/",
     "uploads/black-pied-french-bulldog-puppy/",
     "uploads/French-Bulldog-Partner-Breeder/",
-    "uploads/chelseableu-merle-french-bulldog-puppy/",
     "uploads/blue-french-bulldog-maya/",
     "images/",
   ]
+  exclude: ["uploads/chelseableu-merle-french-bulldog-puppy/"]
   nested: true
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+  regenerate: false
+  quality: 60
 
 plugins:
   - jekyll-paginate
@@ -146,6 +149,8 @@ plugins:
   - jekyll-gist
   - jekyll-sitemap
   - jemoji
+  - jekyll-webp
+  - jekyll-gzip
  
  
 
