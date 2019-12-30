@@ -11,7 +11,7 @@ layout: default
     {{ content }}
     {% endif %}
   </div>
-  <!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3"><span class="hs-cta-node hs-cta-ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3" id="hs-cta-ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/5322352/ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3" style="border-width:0px;" height="1920" width="1077" src="https://no-cache.hubspot.com/cta/default/5322352/ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3.png"  alt="Instagram"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(5322352, 'ef8843e0-ec3d-4b59-9e0a-87d77b69f1f3', {}); </script></span><!-- end HubSpot Call-to-Action Code -->
+  {% include instagramcta.html %}
   {% if page.mailchimp %}
     <div class="uk-margin-large-top uk-background-muted uk-padding-large">
       <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center">{{ site.data[site.template].translation[site.lang].newsletter_signup | default: 'Newsletter Signup' }}</h3>

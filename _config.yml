@@ -35,7 +35,7 @@ author:
   github:
   googleplus:
   instagram:            https://www.instagram.com/ethicalfrenchie
-  linkedin:
+  linkedin:             https://www.linkedin.com/in/jamesharrisoniii/
   pinterest:
   twitter:              https://twitter.com/ethicalfrenchie
   vimeo:
@@ -45,11 +45,11 @@ author:
 authors:
   james:
     name:               James
-    title:              Owner     
+    title:              Founder     
     avatar:             james.jpg
   renee:
     name:               Renee
-    title:              Support    
+    title:              Co-Founder    
     avatar:             renee.jpg
   erica:
     name:               Partner Breeder
@@ -59,6 +59,10 @@ authors:
     name:               Ely
     title:              Records and Compliance    
     avatar:             ely.jpg
+  nick:
+    name:               Nick
+    title:              Logistics    
+    avatar:             nick.jpg
 
 navbar:
   layout:               default # default, center
@@ -80,9 +84,9 @@ google_analytics:       UA-131053938-1 # Google analytics code, get your code he
 google_maps_api_key:    AIzaSyBWpK890qcen1qMLVH6GUpBKegBZUXWCHo # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 disqus:
-  shortname:            #  Disqus comments shortname, requires Disqus account https://disqus.com/
+  shortname:            # https-ethicalfrenchie-com.disqus.com
 
-instagram_accesstoken:  9550633131.1677ed0.809b4f173e8246958eed42d08c0c606e
+instagram_accesstoken:  
 
 donations:
   paypal:
@@ -107,9 +111,9 @@ social_networks:
   github:
   googleplus:
   instagram:            https://www.instagram.com/ethicalfrenchie
-  linkedin:
+  linkedin:             https://www.linkedin.com/company/ethicalfrenchie/
   pinterest:
-  twitter:
+  twitter:              EthicalFrenchie
   vimeo:                
   youtube:
 
