@@ -32,7 +32,7 @@ pipedrive: true
 
 {% include 
   team.html 
-  authors="james, renee, nick, ely" 
+  authors="james, nick" 
   section_title="A Family & Friends Run Business" 
   section_subtitle="We're here to answer any questions" 
   section_size="large"
