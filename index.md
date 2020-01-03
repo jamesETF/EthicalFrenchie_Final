@@ -35,7 +35,7 @@ netlify: false
 
 {% include cards.html 
   block="homeabout" 
-  section_title="French Bulldog Puppies for Sale in New York"
+  section_title="Trusted Source for Ethically Bred French Bulldog Puppies"
   section_header_align="center"
   section_size="large"
   section_padding_remove="bottom"
@@ -56,7 +56,7 @@ netlify: false
 %}
 
 
-{% include cards.html 
+{% include instagramcta.html 
   block="card-media" 
   media="top" 
   section_size="large"

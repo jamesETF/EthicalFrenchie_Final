@@ -29,6 +29,7 @@ pipedrive: true
   section_header_align="center"
 %}
 
+{% include instagramcta.html %}
 
 {% include 
   team.html 
@@ -41,5 +42,5 @@ pipedrive: true
   section_background="muted"
 %}
 
-{% include instagramcta.html %}
+
 

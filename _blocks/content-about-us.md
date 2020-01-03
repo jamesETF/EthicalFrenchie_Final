@@ -5,14 +5,14 @@
 	src="content-1.jpg"
   alt="About Us"
   align="left"
-  caption="James & Renee (& Vilma)"
+  caption="James & The Moms"
 %}
 
-Hi! We’re James & Renee, nice to meet you. We are a small, exclusive French Bulldog breeder located on the East Coast. Our breeding program is focused on extra care, socialization and improving the breed. We aren’t your typical “Mom and Pops breeder” that has been around for 20 years.
-We started breeding French Bulldogs 3 years ago but expanded our program in 2018. We are responsible, knowledgeable and caring which makes us stand out in the sea of faulty backyard breeders and puppy mills.
+Hey! I’m James of Ethical Frenchie 
 
-Our Female French Bulldog moms live happy lives and tend to have 1-2 litters only, before getting spayed. We breed standard French Bulldog colors, as well as exotic. If you are interested in blue French Bulldog puppies for sale – we tend to have a couple of these beautiful litters per year.
-The adult moms are placed with us and our close family members, which we like to call the “decentralized kennel system”. We are open to expanding our decentralized kennel to responsible and loving homes, so reach out for more information regarding that topic.
+Ethical Frenchie was started a few years ago as a small family French Bulldog breeding program that focuses on health, temperament and socialization. Our dogs are first and foremost beloved family pets. They receive high quality nutrition, great care, lots of love, affection as well as training and stimulation.
+
+But our vision was much bigger than that. As some of you know we worked hard for the past few months at researching and vetting out different breeders. We finally narrowed it down to a few who we felt comfortable with and know have the same vision of producing healthy French Bulldog Puppies. So as of October 2019, the puppies on our website will not be only bred by us directly, but also by our group of Ethical breeders.  
 
 {% include image.html 
 	src="about-us-2.jpg"
@@ -38,14 +38,10 @@ We started Ethical Frenchie because of what we saw as a lack of transparency and
 
 You can read a bit more about French Bulldogs Scams and how to avoid them by [clicking here](https://ethicalfrenchie.com/4-signs-of-a-french-bulldog-scam-and-4-ways-you-can-avoid-them-ethical-frenchie/).
 
-We also breed to better the breed. Most of our dogs are sold as pet only. We won’t offer full AKC registration on each and every puppy – that’s not a responsible thing to do. We will however offer full breeding rights if a puppy from the litter catches our eye and stands out.
+The goal is to make Ethical Frenchie a website where every potential Frenchie adopter comes and feels completely comfortable and at peace with knowing these puppies were raised in real homes with loving people that are passionate and want to improve the overall health of the breed. 
 
-Too many people are trying to earn an extra buck by selling their dogs with a full AKC registration to get more money. Not all dogs are meant to be bred (some of them lack the “structure”, others are too small or too big and don’t fall under the “standard” French Bulldog look), and not all people are qualified to breed (it’s irresponsible to give full breeding rights to every person that inquires about them).
+We are completely transparent about which puppies were bred by us directly and which came from other breeding homes. After you take the puppy home you are put in direct contact with the original breeder and can send them updates, ask questions and form a relationship. They care about the placement of their babies and would of course prefer to keep in touch and watch their little Frenchie grow.  
 
-Blue French Bulldog puppies for sale as well as other exotic colors require an extensive manual registration process, for that reason we - from this point on, don’t provide AKC registration on French Bulldogs that are sold solely as family pets. AKC registration will only be provided for a French Bulldog bought with full rights and intention to breed/show.
 
-[Click Here to review not only our available puppies but also our partner puppies](/puppies "Available Pups") to learn more about French Bulldog Colors.
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
 
-Full AKC will also only be offered to an ethical, in house breeder, that has the same vision of bettering the breed, after being extensively screened by us. We would hate for our dogs to end up in hands for someone who lacks knowledge or is only in it for profit.
-
-[Click Here to see our available pups](/puppies/ "Available Pups").
