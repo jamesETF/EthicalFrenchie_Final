@@ -24,12 +24,16 @@ permalink: /contact-us/
 extraseocontactus: true
 ---
 
-####  If the puppy is listed, its available.
+## Use The Chat
+(purple icon on bottom right)
 
-## USE THE CHAT	- {{ site.time | date: '%m/%d/%y' }} James  *Signed
+### All families looking to bring home a puppy must begin by telling us about themselves. 
+#### This is not another website where you can simply *Add a french bulldog puppy to your shopping cart.
+Ethical Frenchie places just as much emphasis on evaluating the families as we do in evaluating and controlling the quality and ethical breeding practices that they would expect. Whether we bred the puppy ourselves or not, you can be sure that we go out of our way to "match" the perfect future furbabies with the right families.
 
-Due to the overwhelming demand of last minute frenchie shoppers, we will only be speaking with people who use the chat functionality on this website.
-Its designed to weed out impulse buyers and tire kickers (or "puppy kickers" in this case)
+We are being even more selective during our interviews for potential puppy adopters.  In order to be considered for a puppy from Ethical Frenchie, you must begin with the chat widget (purple icon on bottom right)
+
+#### Current Interview Approval Rate = 8%  {{ site.time | date: '%m/%d/%y' }} James  *Signed
 
 {% include reviewsfb.html 
    layout="1-1"
