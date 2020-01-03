@@ -4,7 +4,6 @@ description: Chelsea Bleu is a chunky and healthy girl. She is up to date on her
 subtitle: My name is Chelsea Bleu and I’m a blue Merle French Bulldog girl located in New York City!
 width: xsmall
 image: chelseableu-merle-french-bulldog-puppy/chelsea.jpg
-topics: [Our Puppies, Merle French Bulldog]
 navbar:
   sticky: true
   transparent: true
@@ -19,17 +18,19 @@ header:
 permalink: /puppies/chelseableu-merle-french-bulldog-puppy/
 pipedrive: true
 ---
-{% include gallery.html 
-	grid="1-2"
-	gallery="chelseableu-merle-french-bulldog-puppy"
-	caption="true"
-	lightbox="true"
-  section_size="medium"
-  section_padding_remove="top"
-%}
-|Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
 
 
+ChelseaBlue Found a Home in Brooklyn, NY with a wonderful Family.
+
+
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
+
+
+
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
 
 ### Personality: Hi! My name is Chelsea Bleu and I'm 4 months old :-(
 I haven’t found a perfect home yet, My Pawrents say its because i was the biggest puppy in my litter, and everybody wants the smallest.  When families come to visit, i'm always super excited to go home, but then they take my little sisters or brothers instead.  I do my best to put on my pretties face and personality, I groom myself to make myself look cute, but alas. I am still waiting on my furever home.

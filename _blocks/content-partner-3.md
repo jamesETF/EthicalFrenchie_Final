@@ -1,6 +1,6 @@
 ---
-title: We deliver your baby.
+title: We Bring The puppies!
 icon: ios-airplane-take-off.svg
 ---
 
-Your direct relationship with the breeder begins instantly once you place a deposit. And your relationship continues with that breeder as your furbaby grows.
+If we bred a puppy ourselves we explicity say so, otherwise you will be prodivded with the breeders info so that you can send them updates about your furbaby as it grows with your family.

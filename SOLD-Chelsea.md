@@ -20,7 +20,12 @@ permalink: /puppies/chelsea-blue-fawn-french-bulldog-puppy/
 pipedrive: true
 ---
 
-|Available as of {{ site.time | date: '%m/%d/%y' }} 10 weeks old | {% include label.html text="Available" style="success" %} |
+Chelsea Found a Home with a wonderful Family.
+
+
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
 
 {% include achelseapictures.html %}
 
