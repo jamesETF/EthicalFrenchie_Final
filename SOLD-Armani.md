@@ -20,6 +20,11 @@ permalink: /puppies/darkblue-brindle-fawn-Armani/
 pipedrive: true
 ---
 
+Armani found a home.
+
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
+
 {% include gallery.html 
 	grid="1-2"
 	gallery="Armani"
