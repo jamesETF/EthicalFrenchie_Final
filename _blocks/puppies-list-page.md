@@ -1,7 +1,7 @@
 ---
 title: Why Blue French Bulldogs
 ---
-
+{% include igcta.html %}
 {% include reviewsg.html 
    layout="1-1"
   section_size="large"
