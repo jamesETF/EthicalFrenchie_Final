@@ -21,6 +21,7 @@ header:
 description: Actively Updated list of our availalbe french bulldogs for sale. This list also now includes "Partner Puppies"
 pipedrive: true
 ---
+{% include igcta.html %}
 {% include puppies.html 
   section_size="large"
   section_title="Our Certified French Bulldog Puppies"
