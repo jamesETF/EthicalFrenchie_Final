@@ -25,7 +25,7 @@ extraseocontactus: true
 ---
 
 {% include countdown.html %}
-{% include applebusinesschat.html %}
+
 {% include reviewsfb.html 
    layout="1-1"
   section_size="large"
