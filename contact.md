@@ -26,18 +26,5 @@ extraseocontactus: true
 
 {% include countdown.html %}
 
-{% include reviewsfb.html 
-   layout="1-1"
-  section_size="large"
-  section_background="muted"
-  section_container="large"
-  section_content_align="center"
-%}
-{% include map.html 
-  latitude="40.7027923" 
-  longitude="-74.0142154" 
-  zoom="12" 
-  style="silver" 
-  section_container="expand"
-  %}
+#### Follow Us on Instagram to be notified!
 
