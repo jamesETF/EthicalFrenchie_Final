@@ -1,7 +1,7 @@
 ---
 title: Amy Amber Allison Audrey
 description: Partner Puppies are french bulldog puppies that are not bred by us, but instead by a partner breeder. Partner Puppies are covered by Ethical Frenchie's Health Gaurantee, and are thoroughly investigated and inspected before being listed on our site.
-subtitle: Coming Soon
+subtitle: Blue French Bulldog Puppies - Female
 width: xsmall
 image: /Allie/Allie.jpg
 topics: [Our Puppies, black French Bulldog]
@@ -29,7 +29,8 @@ pipedrive: true
 %}
 ## About Us
 Ethical Frenchie is spending time with this litter of 4 puppies (only 3 of them in the photo), giving them love, and preparing a written profile for them.
-Their little biographies will be uploaded by 11.11.20
+
+We're working on writing up little indivdual bio's about their personalities. 
 
 {% include imessagecontact.html %}
 
