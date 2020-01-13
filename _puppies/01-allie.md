@@ -29,12 +29,10 @@ pipedrive: true
 %}
 ## About Us
 Ethical Frenchie is spending time with this litter of 4 puppies (only 3 of them in the photo), giving them love, and preparing a written profile for them.
+Their little biographies will be uploaded by 11.11.20
 
-Their profiles will be written and updated on our site soon when we return from vacation.
+{% include imessagecontact.html %}
 
-{% include countdown.html %}
-
-In the meantime view our currently available puppies
-{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
+<iframe width="600" height="850" src="https://portal.ethicalfrenchie.com/forms/wtl/652b9ea9248e0ab4cb638e06c9e95542" frameborder="0" allowfullscreen></iframe>
 
 {% include reviewsg.html %}
