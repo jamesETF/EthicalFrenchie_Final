@@ -1,10 +1,10 @@
 ---
-title: Axel
-description: A Brindle French Bulldog puppy with a one of a kind pink lip. Me and my siblings live in a place called Manhattan. That is in New York City
-subtitle: Yo! Everyone calls me Axel. I am the coolest pup on the block. Trust me; I ought to know, I run this block.
+title: Aubrey
+description: A Blue French Bulldog puppy with a one of a kind pink lip. Me and my siblings live in a place called Manhattan. That is in New York City
+subtitle: Yo! Everyone calls me Aubrey. I am the coolest pup on the block. Trust me; I ought to know, I run this block.
 width: xsmall
-image: /Axel/Axel.jpg
-topics: [Our Puppies, Black Brindle French Bulldog]
+image: /Aubrey/Aubrey.jpg
+topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
   transparent: true
@@ -16,13 +16,13 @@ header:
   color: light
   header_size: medium
   parallax: true
-permalink: /puppies/Black-Brindle-French-Bulldog-Puppy-Axel/
-pipedrive: true
+permalink: /puppies/blue-French-Bulldog-Puppy-Aubrey/
+chat: true
 ---
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="Axel"
+	gallery="Aubrey"
 	caption="true"
 	lightbox="true"
   section_size="medium"
@@ -33,14 +33,11 @@ pipedrive: true
 
 ## About Me
 
-Yo! Everyone calls me Axel. I am the coolest pup on the block. Trust me; I ought to know, I run this block. I am a black French Bulldog with some really cool markings scattered around my coat. Let me tell you something; you have never met French Bulldog puppy that is anywhere near as bold and brave as me. Nothing scares me, and I do not back down no matter what. I am a native New Yorker, and you know that we take no gruff from anybody. Ever heard the term “bullheaded?” Look it up in that dictionary thing, and you will see my picture. I can get into anything, and I will. If something is going down around the house, I will know about it. If you go to the kitchen, I am going with you. If you go outside, you had better have my leash because I am going too. 
+Yo! Everyone calls me Aubrey. I am the coolest pup on the block. Trust me; I ought to know, I run this block. I am a black French Bulldog with some really cool markings scattered around my coat. Let me tell you something; you have never met French Bulldog puppy that is anywhere near as bold and brave as me. Nothing scares me, and I do not back down no matter what. I am a native New Yorker, and you know that we take no gruff from anybody. Ever heard the term “bullheaded?” Look it up in that dictionary thing, and you will see my picture. I can get into anything, and I will. If something is going down around the house, I will know about it. If you go to the kitchen, I am going with you. If you go outside, you had better have my leash because I am going too. 
 
-My favorite time of the day is playtime. Boy, can I play! I play so hard that I sometimes do not realize that I am sleepy. I mean, one minute I am at a full run chasing my siblings, and the next I am waking up from a nap. That is OK, I do not like to stop. Me and my siblings live in a place called Manhattan. I already told you that is New York City. There are zillions of humans here and hardly any of them want to play. Their loss: know what I am saying? We spend a lot of time hanging out on the rooftop play area. All of us love to lay outside and soak up the sunshine. Our humans make fun of the way our legs go straight back when we lay on our bellies. They think our legs look like frog legs. Maybe I should tell them what they look like when they lay on their bellies. I mean, you can park a bicycle there, know what I am saying? Besides, they only have two legs and we have four!
+My favorite time of the day is playtime. Girl, can I play! I play so hard that I sometimes do not realize that I am sleepy. I mean, one minute I am at a full run chasing my siblings, and the next I am waking up from a nap. That is OK, I do not like to stop. Me and my siblings live in a place called Manhattan. I already told you that is New York City. There are zillions of humans here and hardly any of them want to play. Their loss: know what I am saying? We spend a lot of time hanging out on the rooftop play area. All of us love to lay outside and soak up the sunshine. Our humans make fun of the way our legs go straight back when we lay on our bellies. They think our legs look like frog legs. Maybe I should tell them what they look like when they lay on their bellies. I mean, you can park a bicycle there, know what I am saying? Besides, they only have two legs and we have four!
 
-I was born on 10/19/2019 and I am 10 weeks old. We are all very healthy. I know this because I can hear when the vet tells my temporary humans. (They have no idea that I understand English as well as French. Shh.) When other humans first see me, they tell how strikingly handsome I am. That makes them pretty smart because they are right about that. So, now it is time for me to pick my new family. You better be looking good when you come to see me. I will judge you by the way you are dressed. If you do not look good, furget about it. I probably should not tell you this, but I do accept bribes (a.k.a. bacon).
-
-
-
+I was born on 10/19/2019 and I am 10 weeks old. We are all very healthy. I know this because I can hear when the vet tells my temporary humans. (They have no idea that I understand English as well as French. Shh.) When other humans first see me, they tell how strikingly gorgeous I am. That makes them pretty smart because they are right about that. So, now it is time for me to pick my new family. You better be looking good when you come to see me. I will judge you by the way you are dressed. If you do not look good, furget about it. I probably should not tell you this, but I do accept bribes (a.k.a. bacon).
 
 
 ## Personality

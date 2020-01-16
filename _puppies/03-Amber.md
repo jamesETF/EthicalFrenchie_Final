@@ -1,9 +1,9 @@
 ---
-title: Armani
+title: Amber
 description: Partner Puppies are french bulldog puppies that are not bred by us, but instead by a partner breeder. Partner Puppies are covered by Ethical Frenchie's Health Gaurantee, and are thoroughly investigated and inspected before being listed on our site.
 subtitle: Same Health Gaurantee, Same Quality, Vetted Partner Breeder
 width: xsmall
-image: /Armani/IMG_2458.jpg
+image: /Amber/Amber.jpg
 topics: [Our Puppies, black French Bulldog]
 navbar:
   sticky: true
@@ -16,18 +16,14 @@ header:
   color: light
   header_size: medium
   parallax: true
-permalink: /puppies/darkblue-brindle-fawn-Armani/
-pipedrive: true
+permalink: /puppies/darkblue-french-bulldog-Amber/
+chat: true
 ---
 
-Armani found a home.
-
-
-{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="Armani"
+	gallery="Amber"
 	caption="true"
 	lightbox="true"
   section_size="medium"
@@ -38,16 +34,16 @@ Armani found a home.
 
 ## About Me
 
-I am an exotic tastefully brindled dark blue-fawn French Bulldog puppy with a very sophisticated taste fur high quality stuff. I am the purfect gentleman at all times. I dress fur success and I am very careful to stay very clean. Well, unless there is good quality mud available. Then, everyone knows a mud bath is great for the pores. While I might come across as pretentious at first, I am really kind reserved almost to the point of being called shy. I do not mind that everyone else gets all of the attention as long as I get some too. I like to hang back analyze and assess the situation before fully committing to anything. Well, unless there is food; I like food. Me and my siblings live in a part of New York City called Manhattan. We are so lucky because we have a rooftop play area where we go can look out at the skyline and see everything. The play area is the best place in the world to have some privacy as my siblings lay out and soak in some sunshine. It may not be the South of France, but it is very nice. We like to stretch out on our bellies with our back legs pointed away from our noses. I do not care what humans think, my legs do not look like frog legs when I am all stretched out like that.
+I am an exotic tastefully dark blue French Bulldog puppy with a very sophisticated taste fur high quality stuff. I am the purfect lady at all times. I dress fur success and I am very careful to stay very clean. Well, unless there is good quality mud available. Then, everyone knows a mud bath is great for the pores. While I might come across as pretentious at first, I am really kind reserved almost to the point of being called shy. I do not mind that everyone else gets all of the attention as long as I get some too. I like to hang back analyze and assess the situation before fully committing to anything. Well, unless there is food; I like food. Me and my siblings live in a part of New York City called Manhattan. We are so lucky because we have a rooftop play area where we go can look out at the skyline and see everything. The play area is the best place in the world to have some privacy as my siblings lay out and soak in some sunshine. It may not be the South of France, but it is very nice. We like to stretch out on our bellies with our back legs pointed away from our noses. I do not care what humans think, my legs do not look like frog legs when I am all stretched out like that.
 
-I am a very healthy Frenchie who was born on 10/19/2019, if I counted my toes right, that means that I am 10 weeks old. The vet makes sure to tell my humans that we are all very healthy. I listen to them talking and they have no idea that I understand English as well as French. Please do not tell them! When other humans first see me, they tell me how exceedingly stunning and strong I look. If they could only see below my brand name coat, they would see that I work out regularly. I can bench press a whole bucket of chicken! You may notice me checking out my appearance in every mirror I pass. I am very fastidious because I know looks are important.
+I am a very healthy Frenchie who was born on November 23rd, yes while you were eating Thanksgiving Dinner and going Black Friday Shopping I was just trying to learn how to open myeyes. If I counted my toes right, that means that I am 8 weeks old turning 9 this weekend. The vet makes sure to tell my humans that we are all very healthy. I listen to them talking and they have no idea that I understand English as well as French. Please do not tell them! When other humans first see me, they tell me how exceedingly stunning and strong I look. If they could only see below my brand name coat, they would see that I work out regularly. I can bench press a whole bucket of chicken! You may notice me checking out my appearance in every mirror I pass. I am very fastidious because I know looks are important.
 
 
 ## Personality
 
 When something goes down, I am happy to let everyone else get there first. By the time I arrive, I can make a grand entrance making sure everyone notices my style. Sometimes, I take care of more important stuff first like getting petted, having my ears scratched, getting my belly rubbed, or eating. They can either wait on me or not. When the balls are rolling, however, I am all over that. Playing is high on my list of priorities. Toys are always fun. Even though I am more reserved than most, I still need lots of toys. I like studying things and the more toys I have, the more interest I have in studying them.
 
-I know there are plenty of beautiful Frenchies fur adoption, but I will definitely make things in your household more elegant because I am all that and a cup of high-quality kibble. Trust me, I am always ready to go and because I am always dressed to impress, I am the purfect accessory to whatever outfit you wear. I mean, think about it: who would not want to accessorize with genuine Armani? If you are looking to use me as a babe or hunk magnet, I have your six. Say the word and I will do my best runway walk to help you look even better.
+I know there are plenty of beautiful Frenchies fur adoption, but I will definitely make things in your household more elegant because I am all that and a cup of high-quality kibble. Trust me, I am always ready to go and because I am always dressed to impress, I am the purfect accessory to whatever outfit you wear. I mean, think about it: who would not want to accessorize with genuine Amber? If you are looking to use me as a babe or hunk magnet, I have your six. Say the word and I will do my best runway walk to help you look even better.
 
 
 ## Health
@@ -58,7 +54,7 @@ I am a Frenchie, and we have very particular needs. You should probably do a lit
 
 
 {% include block.html 
-  block="vimeovideos2"
+  block="vimeovideos3"
   block_title="false"
   section_size="large"
   section_title="Video of Me and My 9 Siblings!" 
@@ -75,6 +71,7 @@ Just because I am so easy going, do not think fur a minute that I am a pushover:
 No tricks here, if you have refined tastes, then I am the man fur you. I hope you do not mind the French accent, but the girls tell me it gives me a certain avec élégance. I think that is French fur hawt and sexy.
 
 
+{% include button.html text="Click Here start your frenchie Interview" url="/contact-us" style="primary" size="xlarge" width="full" %}
 
 {% include block.html 
   block="acespecs2"
