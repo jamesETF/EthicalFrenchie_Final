@@ -4,7 +4,7 @@ description: Partner Puppies are french bulldog puppies that are not bred by us,
 subtitle: Same Health Gaurantee, Same Quality, Vetted Partner Breeder
 width: xsmall
 image: /Amber/Amber.jpg
-topics: [Our Puppies, black French Bulldog]
+topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
   transparent: true
@@ -79,7 +79,7 @@ No tricks here, if you have refined tastes, then I am the man fur you. I hope yo
   section_padding_remove="top"
   section_container="xsmall"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title="How it works (How to Apply)"
   block_title="false"
 %}
 

@@ -55,7 +55,6 @@ netlify: false
   grid="1-3"
 %}
 
-
 {% include instagramcta.html 
   block="card-media" 
   media="top" 
@@ -66,9 +65,21 @@ netlify: false
   card_style="default"
   section_content_align="center"
 %}
+  
+{% else %}
 
+{% endif %}
 
-  {% include cta.html 
+{% include cards.html 
+  block="index-blog-portion" 
+  media="top" 
+  section_size="large"
+  section_background="muted"
+  section_content_align="center"
+  card_style="default"
+  grid="1-1"
+%}
+{% include cta.html 
     
     section_size="small"
     section_image="header-6.jpg"
@@ -79,9 +90,3 @@ netlify: false
     layout="1"
     block="cta-4"
   %}
-  
-  {% include nethook.html %}
-{% else %}
-
-
-{% endif %}

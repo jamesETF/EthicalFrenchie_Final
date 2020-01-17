@@ -26,7 +26,7 @@ chat: true
   section_padding_remove="bottom"
   section_title="Ego"
   section_header_align="center"
-  section_container="small"
+  section_container="medium"
   lightbox="true"
 %}
 
@@ -41,14 +41,14 @@ chat: true
 	gallery="blue-french-bulldog-ego"
 	caption="true"
 	lightbox="true"
-  section_size="medium"
+  section_size="large"
   section_padding_remove="top"
 %}
 
 {% include block.html 
   block="apuppyegospecs"
-  section_size="medium"
-  section_container="xsmall"
+  section_size="large"
+  section_container="large"
   section_header_align="center"
   section_title="About Ego"
   block_title="false"
@@ -57,11 +57,11 @@ chat: true
 
 {% include block.html 
   block="acespecs2"
-  section_size="medium"
+  section_size="full"
   section_padding_remove="top"
-  section_container="xsmall"
+  section_container="full"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title="How it works (How to Apply)."
   block_title="false"
 %}
 

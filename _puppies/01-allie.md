@@ -4,7 +4,7 @@ description: Partner Puppies are french bulldog puppies that are not bred by us,
 subtitle: Blue French Bulldog Puppies - Female
 width: xsmall
 image: /Allie/allie2.jpg
-topics: [Our Puppies, black French Bulldog]
+topics: [Our Puppies, Blue French Bulldog]
 navbar:
   sticky: true
   transparent: true

@@ -18,7 +18,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/partner-breeder-liberty/
-pipedrive: true
+chat: true
 ---
 {% include 
   team.html 
@@ -91,7 +91,7 @@ I do all of that for you, because by the nature of this business and all of my t
   section_padding_remove="top"
   section_container="xsmall"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title=" further consideration."
   block_title="false"
 %}
 

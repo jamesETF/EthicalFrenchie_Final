@@ -17,7 +17,7 @@ header:
   heading_size: medium
   parallax: true
 extraseoabout: true
-pipedrive: true
+chat: true
 ---
 {% include block.html 
   block="content-about-us"
@@ -29,11 +29,9 @@ pipedrive: true
   section_header_align="center"
 %}
 
-{% include instagramcta.html %}
-
 {% include 
   team.html 
-  authors="james, nick" 
+  authors="james, renee, david, nick" 
   section_title="A Family & Friends Run Business" 
   section_subtitle="We're here to answer any questions" 
   section_size="large"
@@ -41,6 +39,10 @@ pipedrive: true
   section_header_align="center"
   section_background="muted"
 %}
+
+{% include instagramcta.html %}
+
+
 
 
 

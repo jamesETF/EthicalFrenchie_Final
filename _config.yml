@@ -49,7 +49,7 @@ authors:
     avatar:             james.jpg
   renee:
     name:               Renee
-    title:              Co-Founder    
+    title:              Puppy Whisperer   
     avatar:             renee.jpg
   erica:
     name:               Partner Breeder
@@ -63,6 +63,10 @@ authors:
     name:               Nick
     title:              Logistics    
     avatar:             nick.jpg
+  david:
+    name:               David
+    title:              Puppy Whisperer    
+    avatar:             david.jpg
 
 navbar:
   layout:               default # default, center

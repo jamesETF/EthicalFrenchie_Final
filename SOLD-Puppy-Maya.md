@@ -69,7 +69,7 @@ One thing I need to point out is that this girl loves water and will drink it ju
   section_padding_remove="top"
   section_container="xsmall"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title="How it works (How to Apply)"
   block_title="false"
 %}
 

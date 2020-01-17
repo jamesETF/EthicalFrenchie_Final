@@ -68,7 +68,7 @@ Hazelnut is food motivated so it won’t be too hard to train and completely hou
   section_padding_remove="top"
   section_container="xsmall"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title="How it works (How to Apply)"
   block_title="false"
 %}
 {% include map.html 

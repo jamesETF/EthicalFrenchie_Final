@@ -17,7 +17,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/darkblue-brindle-fawn-Spot/
-pipedrive: true
+chat: true
 ---
 
 {% include gallery.html 
@@ -84,7 +84,7 @@ When you get to the city, I am easy to spot. (See what I did there?) I am not to
   section_padding_remove="top"
   section_container="xsmall"
   section_header_align="center"
-  section_title="Apply for further consideration."
+  section_title="How it works (How to Apply)."
   block_title="false"
 %}
 
