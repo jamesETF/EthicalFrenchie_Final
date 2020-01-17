@@ -61,7 +61,7 @@ chat: true
   section_padding_remove="top"
   section_container="full"
   section_header_align="center"
-  section_title="How it works (How to Apply)."
+  section_title="How it Works (How to Apply)."
   block_title="false"
 %}
 

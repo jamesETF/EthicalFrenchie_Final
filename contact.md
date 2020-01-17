@@ -26,6 +26,17 @@ chat: true
 ---
 
 {% include imessagecontact.html %}
+ 
+{% include block.html 
+  block="acespecs2"
+  section_size="full"
+  section_padding_remove="top"
+  section_container="full"
+  section_header_align="center"
+  section_title="How it works..."
+  block_title="false"
+%}
+
 
 <iframe width="600" height="850" src="https://portal.ethicalfrenchie.com/forms/wtl/652b9ea9248e0ab4cb638e06c9e95542" frameborder="0" allowfullscreen></iframe>
 
