@@ -33,7 +33,7 @@ chat: true
   section_padding_remove="top"
   section_container="full"
   section_header_align="center"
-  section_title="How it works..."
+  section_title="How to Apply for a Puppy From Us..."
   block_title="false"
 %}
 
