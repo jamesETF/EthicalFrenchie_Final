@@ -2,7 +2,7 @@
 title: Ethical Frenchie
 width: medium
 section: medium
-description: French Bulldog Breeder with Passion for our Puppies
+description: A family and friends based French Bulldog Breeder located in New York, NY. We welcome you to Learn more about us and our ethically bred french bulldog puppies.
 width: full
 
 navbar:
