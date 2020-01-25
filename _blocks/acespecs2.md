@@ -11,11 +11,12 @@ title: How it works
   card_style="primary"
   grid="1-3"
 %}
-- #### Step 1 - Use the Chat!
+- #### Step 1 - Use the Contact Form!
 - #### Step 2 - Phone Interview
 - #### Step 3 - Quality Time with Puppies (In Person)!
 - #### Step 4 - Furbaby! (when you're ready)
 
+{% include pipedriveform.html %}
 ### Financing Options:
 We are not a bank, but if you need financing there are options including the link below.
 If you are considering financing we would seriously ask you to consider adopting from a shelter first!

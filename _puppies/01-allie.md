@@ -17,7 +17,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/Allie/
-chat: true
+chat: false
 ---
 
 {% include image.html 

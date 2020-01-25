@@ -17,7 +17,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/blue-French-Bulldog-Puppy-Aubrey/
-chat: true
+chat: false
 ---
 
 {% include gallery.html 

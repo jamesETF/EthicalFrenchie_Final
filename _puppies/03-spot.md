@@ -17,7 +17,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/darkblue-brindle-fawn-Spot/
-chat: true
+chat: false
 ---
 
 {% include gallery.html 

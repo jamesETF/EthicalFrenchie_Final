@@ -17,7 +17,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/darkblue-french-bulldog-Amber/
-chat: true
+chat: false
 ---
 
 
