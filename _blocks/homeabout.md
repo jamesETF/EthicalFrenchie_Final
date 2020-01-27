@@ -1,5 +1,5 @@
 ---
-title: look no further
+title: Hobby Frenchie Breeders - Disrupting the Puppymill to Petstore Model
 ---
 
 We are re-defining the pet store, with transparency and a focus on socialization, health, and temperament. Just as people want to know where their food comes from, so should they know exactly where that Frenchie in the window came from as well. We are aiming to disrupt the traditional large-scale breeder -> dealer -> pet store network format. With an education, engagement, and relationship focus. 
