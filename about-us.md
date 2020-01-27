@@ -17,7 +17,7 @@ header:
   heading_size: medium
   parallax: true
 extraseoabout: true
-chat: true
+chat: false
 ---
 {% include block.html 
   block="content-about-us"
