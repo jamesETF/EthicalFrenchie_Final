@@ -35,7 +35,7 @@ chat: false
   section_padding_remove="top"
   section_container="full"
   section_header_align="center"
-  section_title="How to Apply for a Puppy From Us..."
+  section_title="How The Process Works..."
   block_title="false"
 %}
 
