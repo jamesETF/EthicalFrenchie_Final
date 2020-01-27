@@ -2,9 +2,8 @@
 title: look no further
 ---
 
-Are you looking for French Bulldog Puppies for sale in New York or surrounding areas? Welcome to Ethical Frenchie.
-Ethical Frenchie is a small, family and friends run French Bulldog breeder who prioritizes health, temperament and socialization as our utmost focus.
+We are re-defining the pet store, with transparency and a focus on socialization, health, and temperament. Just as people want to know where their food comes from, so should they know exactly where that Frenchie in the window came from as well. We are aiming to disrupt the traditional large-scale breeder -> dealer -> pet store network format. With an education, engagement, and relationship focus. 
 
-We primarily breed blue French Bulldogs puppies as well as pied and ocassionaly merle French Bullogs. Due to our de-centralized kennel (puppy back) format we able to produce multiple litters and have French Bulldog puppies available year-round. So we will often have French bulldog puppies for sale near you.
+If you learn more about Frenchies from us than anywhere else before making your decision to bring home a furbaby, we have done our job. So whether it was bred by us, or by a partner breeder you can rest assured that your relationship will continue with the actual breeder. If we’re putting our brand on the line, its more important than ever for us to pick and choose the healthiest and best puppies from the most responsible Frenchie breeders, and match them with only the best families. Anyone can “add a Frenchie to cart” on any of the find a puppy websites or craigslist advertisements online. 
 
-If interested, browse our website and ask as many questions as possible. It’s important to research the breed and make sure it’s a good match for you and your lifestyle. We want our French Bulldog puppies placed in homes with families that will prioritize care, health and well-being of the dog.
+Only Ethical Frenchie will put the same (if not more) effort and due diligence into cutting through the noise and educating you as thoroughly as possible, whether you get a puppy from us or not. Aside from our private in-home visits for approved families, you can look forward to our Frenchie pop-up locations in NY and surrounding areas complete with breeders, cute little outfit brands and homemade puppy food brands. Welcome to Ethical Frenchie - James

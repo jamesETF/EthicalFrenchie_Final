@@ -35,7 +35,7 @@ netlify: false
 
 {% include cards.html 
   block="homeabout" 
-  section_title="Trusted Source for Ethically Bred French Bulldog Puppies"
+  section_title="Trusted Source for Ethically Bred Frenchie Furbabies"
   section_header_align="center"
   section_size="large"
   section_padding_remove="bottom"
