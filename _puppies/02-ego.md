@@ -16,7 +16,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/ego/
-chat: false
+chat: true
 ---
 
 {% include image.html 

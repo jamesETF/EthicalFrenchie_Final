@@ -18,7 +18,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/partner-breeder-liberty/
-chat: false
+chat: true
 ---
 {% include 
   team.html 
