@@ -19,7 +19,7 @@ header:
 permalink: /puppies/darkblue-brindle-fawn-Spot/
 chat: true
 ---
-
+{% include imessagecontact.html %}
 {% include gallery.html 
 	grid="1-2"
 	gallery="Spot"

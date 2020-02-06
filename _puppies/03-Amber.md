@@ -30,7 +30,7 @@ chat: true
   section_padding_remove="top"
 %}
 
-
+{% include imessagecontact.html %}
 
 ## About Me
 

@@ -19,7 +19,7 @@ header:
 permalink: /puppies/Allie/
 chat: true
 ---
-
+{% include imessagecontact.html %}
 {% include image.html 
 	src="/Allie/allie2.jpg"
   alt="Allie Amy Aubry & Amber"

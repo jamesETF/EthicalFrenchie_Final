@@ -19,7 +19,7 @@ header:
 permalink: /puppies/blue-French-Bulldog-Puppy-Aubrey/
 chat: true
 ---
-
+{% include imessagecontact.html %}
 {% include gallery.html 
 	grid="1-2"
 	gallery="Aubrey"

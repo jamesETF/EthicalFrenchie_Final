@@ -35,7 +35,7 @@ chat: true
 | personality     | Super Friendly / Outgoing  |
 | Health     |  {% include label.html text="Cleared " style="success" %}|
 |Available as of {{ site.time | date: '%m/%d/%y' }}  | {% include label.html text="Available" style="success" %} |
-
+{% include imessagecontact.html %}
 {% include gallery.html 
 	grid="1-2"
 	gallery="blue-french-bulldog-ego"
@@ -43,15 +43,6 @@ chat: true
 	lightbox="true"
   section_size="large"
   section_padding_remove="top"
-%}
-
-{% include block.html 
-  block="apuppyegospecs"
-  section_size="large"
-  section_container="large"
-  section_header_align="center"
-  section_title="About Ego"
-  block_title="false"
 %}
 
 
