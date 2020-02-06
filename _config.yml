@@ -22,7 +22,7 @@ paginate_path:          "/blog/:num/" # Blog path
 
 # Default author settings
 author:
-  name:                 James
+  name:                 Keith
   avatar:               avatar-tom.png
   title:                CEO     
   bio:                  I was unemployed, and started throwing every "business idea" I had at the fridge.. a few years later I didn't have to worry about employment again.  Weird.
@@ -35,7 +35,7 @@ author:
   github:
   googleplus:
   instagram:            https://www.instagram.com/ethicalfrenchie
-  linkedin:             https://www.linkedin.com/in/jamesharrisoniii/
+  linkedin:             
   pinterest:
   twitter:              https://twitter.com/ethicalfrenchie
   vimeo:
@@ -44,7 +44,7 @@ author:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
   james:
-    name:               James
+    name:               Keith
     title:              Founder     
     avatar:             james.jpg
   renee:
