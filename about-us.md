@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: A small boutique family run French Bulldog Breeder
+subtitle: Look Ma! We're on TV!
 width: full
 navbar:
   sticky: true
@@ -17,7 +17,7 @@ header:
   heading_size: medium
   parallax: true
 extraseoabout: true
-chat: false
+chat: true
 ---
 {% include block.html 
   block="content-about-us"
