@@ -19,7 +19,13 @@ header:
 permalink: /puppies/darkblue-french-bulldog-Amber/
 chat: true
 ---
+Amber Found a Home in Raleigh, NC with a wonderful Family.
 
+However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
+
+Please view [Our Current Puppies](/puppies)
+
+{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
 
 {% include gallery.html 
 	grid="1-2"

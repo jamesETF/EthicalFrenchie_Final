@@ -30,16 +30,9 @@ chat: true
   section_header_align="center"
   section_background="default"
 %}
-{% include cards.html 
-  block="content-partner" 
-  media="top" 
-  section_size="small"
-  section_background="default"
-  section_content_align="center"
-  card_style="default"
-  grid="1-4"
-%}
+{% include imessagecontact.html %}
 
+{% include hubspotform.html %}
 {% include block.html 
   block="partnervideo"
   block_title="false"

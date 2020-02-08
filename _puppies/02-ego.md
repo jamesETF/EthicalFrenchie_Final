@@ -30,12 +30,10 @@ chat: true
   lightbox="true"
 %}
 
-
-| Coat Color     | Blue   |
-| personality     | Super Friendly / Outgoing  |
-| Health     |  {% include label.html text="Cleared " style="success" %}|
-|Available as of {{ site.time | date: '%m/%d/%y' }}  | {% include label.html text="Available" style="success" %} |
 {% include imessagecontact.html %}
+
+{% include hubspotform.html %}
+
 {% include gallery.html 
 	grid="1-2"
 	gallery="blue-french-bulldog-ego"
