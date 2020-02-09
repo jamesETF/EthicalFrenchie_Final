@@ -37,7 +37,7 @@ chat: true
   block="partnervideo"
   block_title="false"
   section_size="large"
-  section_title="A Day in the Garden" 
+  section_title="Introduction Video" 
   section_container="xsmall"
   section_content_align="center"
   section_header_align="center"
