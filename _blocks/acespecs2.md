@@ -6,7 +6,6 @@ title: How it works
   block="application-process" 
   media="top" 
   section_size="large"
-  section_background="muted"
   section_content_align="center"
   card_style="primary"
   grid="1-3"

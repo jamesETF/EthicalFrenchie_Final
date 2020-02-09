@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-width: small
+width: full
 section: normal
 navbar:
   sticky: true
@@ -9,15 +9,14 @@ navbar:
   transparent: true
   transparent_color: light
 header:
-  layout: 1-2 # Options: left, center, 1-1, 1-2, 1-3 or 2-3
-  background_color: "#90194199"
-  header_size: medium
-  heading_size: large
-  content:
-    block: block-video
-  content-2:
-    block: block-video-2
-    title: false
+  layout: center # Options: left, center, 1-1, 1-2, 1-3 or 2-3
+  background_image: header-7.jpg
+  background_overlay: "rgba(0, 0, 0, 0.3)"
+  color: light
+  header_size: large
+  heading_size: medium
+  parallax: true
+  height: half
 description: Contact Ethical Frenchie for a frenchie breeder near you
 subtitle: Feel free to reach out to us regarding our puppies, We're disrupting the traditional petstore model, one frenchie at a time.
 extraseocontactus: true
