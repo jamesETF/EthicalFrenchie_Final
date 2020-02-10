@@ -37,7 +37,7 @@ Mom calls me queen of snuggles and I really live up to the name. When I’m not 
 
 {% include gallery.html 
 	grid="1-2"
-	gallery="Allie"
+	gallery="allie"
 	caption="true"
 	lightbox="true"
   section_size="small"
