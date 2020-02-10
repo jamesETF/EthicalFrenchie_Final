@@ -40,6 +40,6 @@ chat: true
   block_title="false"
 %}
 
-
+{% include formspree.html email="adopt@ethicalfrenchie.com" redirect="/contact-us/" name="true" number="true" subject="true" layout="horizontal" %}
 
 
