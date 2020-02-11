@@ -17,6 +17,7 @@ header:
   parallax: true
 permalink: /puppies/emily-blue-french-bulldog-puppy/
 pipedrive: false
+applechat: true
 ---
 
 {% include image.html 

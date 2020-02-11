@@ -24,6 +24,7 @@ pipedrive: true
 permalink: /contact-us/
 extraseocontactus: true
 chat: true
+applechat: true
 ---
 
 {% include imessagecontact.html %}

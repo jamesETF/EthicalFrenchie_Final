@@ -17,6 +17,7 @@ header:
   parallax: true
 permalink: /puppies/ego/
 chat: false
+applechat: true
 ---
 
 {% include image.html 

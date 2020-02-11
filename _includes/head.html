@@ -11,7 +11,7 @@
   <script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
   <meta name="p:domain_verify" content="50390198c9a42575196138cfd965928c"/>
   <script src="https://static.cdn-apple.com/businesschat/start-chat-button/2/index.js"></script>
-{% if page.extraseohome %}
+
 <script type="application/ld+json">
 {
     "@context":"http://schema.org",
@@ -39,7 +39,7 @@
     "url":"https://ethicalfrenchie.com/",
     "name":"Ethical Frenchie",
     "alternateName":"French Bulldog Breeder",
-    "headline":"Ethical Frenchie | French Bulldog Puppies for the right homes only | New York City",
+    "headline": {{.Params.title}},
     "image":"https://ethicalfrenchie.com/images/Ethical_Frenchie_Home_Picture.jpg",
     "author": "James",
     "description":"We are a family and friends based French Bulldog Breeder located in New York, NY. We welcome you to Learn more about us and our Ethically Bred French Bulldog puppies.",
@@ -99,42 +99,7 @@
     ]
 }
 </script>
-<script type="application/ld+json">
-[
-    {
-        "@context": "http://schema.org/",
-        "@type": "Service",
-        "name": "Puppy Health Gaurantee",
-        "description": "Being an ethical French Bulldog Breeder requires a lot of preparation and health testing before producing a litter.
-        learn more about where our french bulldogs come from.",
-        "provider": {
-            "@type": "Organization",
-            "name": "Ethical Frenchie LLC"
-        }
-    },
-    {
-        "@context": "http://schema.org/",
-        "@type": "Service",
-        "name": "Early Socialization",
-        "description": "We we go to great lengths to ensure each puppy is ready for your family.
-        Through proper socialization puppies are less prone to transitional shock are more prepared to become stable adults.",
-        "provider": {
-            "@type": "Organization",
-            "name": "Ethical Frenchie LLC"
-        }
-    },
-    {
-        "@context": "http://schema.org/",
-        "@type": "Service",
-        "name": "Help an Animal In Need",
-        "description": "Since we donate to local shelters, you can rest comfortably knowing that purchasing French Bulldog puppies from our breeding program, sparks a true butterfly effect.",
-        "provider": {
-            "@type": "Organization",
-            "name": "Ethical Frenchie LLC"
-        }
-    }
-]
-</script>
+
 <script type='application/ld+json'>
 {
     "@context": "http://schema.org/",
@@ -158,7 +123,7 @@
     "description": "French Bulldog Breeder in New York with an emphasis on health, top quality care, and socialization."
 }
 </script>
-{% endif %}
+
 {% if page.extraseoabout %}
 <script type="application/ld+json">
 {
@@ -566,7 +531,9 @@
     }
 </script>
 {% endif %}
-
+{% if page.applechat %}
+<script src="https://static.cdn-apple.com/businesschat/start-chat-button/2/index.js"></script>
+{% endif %}
 {% if page.extraseopuppies %}
 <script type="application/ld+json">
 {

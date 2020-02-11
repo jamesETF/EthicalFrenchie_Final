@@ -18,6 +18,7 @@ header:
   parallax: false
 permalink: /puppies/Allie/
 chat: true
+applechat: true
 ---
 
 {% include image.html 
