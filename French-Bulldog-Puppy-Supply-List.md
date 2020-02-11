@@ -11,13 +11,13 @@ navbar:
 header:
   layout: 1-1 # Options: left, center, 1-1, 1-2, 1-3 or 2-3
   background_color: "#901941"
-  header_size: medium
-  heading_size: large
+  header_size: small
+  heading_size: medium
   color: light
   parallax: true
   container: small
   content:
-    block: header-1
+    block: puppy-supply-list
 permalink: /french-bulldog-preparation-list/
 pipedrive: true
 ---
