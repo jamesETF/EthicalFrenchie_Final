@@ -15,7 +15,7 @@ header:
   background_overlay: "rgba(0, 0, 0, 0.5)"
   color: light
   header_size: medium
-  parallax: true
+  parallax: false
 permalink: /puppies/Allie/
 chat: true
 ---
@@ -29,7 +29,6 @@ chat: true
 %}
 {% include imessagecontact.html %}
 
-{% include hubspotform.html %}
 ### About Allie Blue French Bulldog
 ## Personality: Hey! My name is Allie and I’m the queen of snuggles
 I’m a very special and extremely small French Bulldog baby girl. My color is called "blue". My body fragile because i'm only 8 weeks old, but you can tell by my facial features that i'm going to be the gold standard for frenchies. I’m adorable as you can see from the pictures and I’m trying to find my perfect home. Personality wise I’m extremely sweet and snuggly, friendly with my fellow puppers and cuddly with humans. I love running around the house and having other dogs chase me. I’m smart and hide under the couch because I know that’s where they can’t get me. 

@@ -16,7 +16,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/emily-blue-french-bulldog-puppy/
-pipedrive: true
+pipedrive: false
 ---
 
 {% include image.html 
@@ -32,7 +32,6 @@ pipedrive: true
 
 {% include imessagecontact.html %}
 
-{% include hubspotform.html %}
 
 {% include gallery.html 
 	grid="1-2"

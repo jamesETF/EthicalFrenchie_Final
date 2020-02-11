@@ -16,7 +16,7 @@ header:
   header_size: medium
   parallax: true
 permalink: /puppies/ego/
-chat: true
+chat: false
 ---
 
 {% include image.html 
@@ -32,7 +32,7 @@ chat: true
 
 {% include imessagecontact.html %}
 
-{% include hubspotform.html %}
+
 
 {% include gallery.html 
 	grid="1-2"
