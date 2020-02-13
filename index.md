@@ -54,17 +54,11 @@ netlify: false
   grid="1-3"
 %}
 
-{% include instagramcta.html 
-  block="card-media" 
-  media="top" 
-  section_size="large"
-  section_padding_remove="top"
-  section_container="expand"
-  section_background="default"
-  card_style="default"
-  section_content_align="center"
+{% include instagram.html 
+  grid="1-4"
+  gutter="large"
+  count="8" 
 %}
-  
 {% else %}
 
 {% endif %}
