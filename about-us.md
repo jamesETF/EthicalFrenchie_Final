@@ -40,7 +40,11 @@ applechat: true
   section_background="muted"
 %}
 
-{% include instagramcta.html %}
+{% include instagram.html 
+  grid="1-4"
+  gutter="large"
+  count="8" 
+%}
 
 
 

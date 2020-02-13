@@ -53,12 +53,6 @@ netlify: false
   card_style="default"
   grid="1-3"
 %}
-
-{% include instagram.html 
-  grid="1-4"
-  gutter="large"
-  count="8" 
-%}
 {% else %}
 
 {% endif %}

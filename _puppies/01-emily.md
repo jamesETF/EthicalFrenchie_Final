@@ -90,10 +90,8 @@ She will thrive on a raw or fresh food based diet, so feel free to experiment wi
   section_padding_remove="top"
   section_container="small"
 %}
-{% include reviewsg.html 
-   layout="1-1"
-  section_size="large"
-  section_background="muted"
-  section_container="large"
-  section_content_align="center"
+{% include instagram.html 
+  grid="1-4"
+  gutter="large"
+  count="8" 
 %}
