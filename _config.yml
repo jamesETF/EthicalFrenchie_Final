@@ -162,6 +162,7 @@ exclude:
   - vendor
   - .bundle
   - .sass-cache
+  - .jekyll-cache
   - config
   - Gemfile
   - Gemfile.lock
