@@ -133,7 +133,7 @@ webp:
   enabled: true
   img_dir: ["uploads","assets/img",
     "uploads/blue-french-bulldog-ego/",
-    "uploads/blue-french-bulldog-puppy-preston/",
+    "uploads/blue-french-bulldog-puppy-beth/",
     "uploads/blue-french-bulldog-puppy-pepper/",
     "uploads/black-pied-french-bulldog-puppy/",
     "uploads/French-Bulldog-Partner-Breeder/",
@@ -155,7 +155,7 @@ plugins:
   - jemoji
   - jekyll-webp
   - jekyll-gzip
- 
+  - jekyll-redirect-from
  
 
 exclude: 
