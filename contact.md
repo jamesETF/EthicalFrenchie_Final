@@ -29,17 +29,9 @@ applechat: false
 
 
 
-<center>{% include hubspotform.html %}</center>
+<center>{% include countdown.html %}</center>
  
-{% include block.html 
-  block="acespecs2"
-  section_size="full"
-  section_padding_remove="top"
-  section_container="full"
-  section_header_align="center"
-  section_title="How The Process Works..."
-  block_title="false"
-%}
+
 
 
 
