@@ -31,7 +31,6 @@ applechat: true
   lightbox="true"
 %}
 
-{% include imessagecontact.html %}
 
 
 

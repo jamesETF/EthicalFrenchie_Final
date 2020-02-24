@@ -24,10 +24,10 @@ pipedrive: true
 permalink: /contact-us/
 extraseocontactus: true
 chat: true
-applechat: true
+applechat: false
 ---
 
-{% include imessagecontact.html %}
+
 
 <center>{% include hubspotform.html %}</center>
  

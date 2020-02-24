@@ -28,7 +28,7 @@ applechat: true
   section_padding_remove="top"
   section_container="small"
 %}
-{% include imessagecontact.html %}
+
 
 ### About Allie Blue French Bulldog
 ## Personality: Hey! My name is Allie and I’m the queen of snuggles
