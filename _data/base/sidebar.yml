@@ -9,10 +9,6 @@ blog:
       title: Renee's Picks
       tag: pick
 
-  - widget: block
-    block: block-1
-    title: Save 30% with Chewy!
-
   - widget: latest
     type: posts
     count: 10
@@ -35,10 +31,7 @@ page:
     type: posts
     count: 6
     title: Latest Posts
-  - widget: block
-    type: block
-    block: block-1
-    title: Content of a block
+
   - widget: navigation
     nav:
     - title: Pages
@@ -49,8 +42,8 @@ page:
           url: /puppies/
         - title: Blog
           url: /blog/
-        - title: 404 Page
-          url: /404/
+        - title: Contact Us
+          url: /contact-us/
 
   - widget: author
     author: james
