@@ -20,6 +20,8 @@ chat: false
 applechat: true
 ---
 
+{% include imessagecontact.html %}
+
 {% include image.html 
 	src="/ego.jpg"
   alt="Ego"

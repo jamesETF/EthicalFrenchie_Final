@@ -18,9 +18,10 @@ header:
   parallax: true
 permalink: /puppies/blue-french-bulldog-puppy-beth/
 chat: false
+applechat: true
 ---
 
-
+{% include imessagecontact.html %}
 
 {% include gallery.html 
 	grid="1-2"

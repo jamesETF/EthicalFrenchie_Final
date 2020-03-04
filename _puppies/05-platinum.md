@@ -18,9 +18,9 @@ header:
   parallax: true
 permalink: /puppies/Platinum-french-bulldog-puppy/
 pipedrive: false
-applechat: false
+applechat: true
 ---
-
+{% include imessagecontact.html %}
 {% include image.html 
 	src="Platinum-french-bulldog-puppy/Harry-and-charles-platinum-frenchie.jpg"
   alt="Blue French Bulldog Puppy"
