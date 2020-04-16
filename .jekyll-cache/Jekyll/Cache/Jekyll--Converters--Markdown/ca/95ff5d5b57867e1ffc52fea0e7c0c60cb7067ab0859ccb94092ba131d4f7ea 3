@@ -1,0 +1,132 @@
+I"À<h2 id="alerts">Alerts</h2>
+
+<div data-uk-alert="">
+  <p>Title separated either what in me overhauls that had far without always state semantics.</p>
+</div>
+
+<div class="uk-alert-primary" data-uk-alert="">
+  <p>Title separated either what in me overhauls that had far without always state semantics.</p>
+</div>
+
+<div class="uk-alert-success" data-uk-alert="">
+  <p>Title separated either what in me overhauls that had far without always state semantics.</p>
+</div>
+
+<div class="uk-alert-warning" data-uk-alert="">
+  <p>Title separated either what in me overhauls that had far without always state semantics.</p>
+</div>
+
+<div class="uk-alert-danger" data-uk-alert="">
+  <p>Title separated either what in me overhauls that had far without always state semantics.</p>
+</div>
+
+<h2 id="labels">Labels</h2>
+
+<p><span class="uk-label">Default</span> <span class="uk-label uk-label-success">Success</span> <span class="uk-label uk-label-warning">Warning</span> <span class="uk-label uk-label-danger">Danger</span></p>
+
+<h2 id="buttons">Buttons</h2>
+
+<h4 id="styles">Styles</h4>
+
+<p><a class="uk-button uk-button-default uk-button-3" href="http://localhost:4000/#">Default</a> 
+<a class="uk-button uk-button-primary-outline uk-button-3" href="http://localhost:4000/#">Primary</a> 
+<a class="uk-button uk-button-success-outline uk-button-3" href="http://localhost:4000/#">Success</a> 
+<a class="uk-button uk-button-warning-outline uk-button-3" href="http://localhost:4000/#">Warning</a> 
+<a class="uk-button uk-button-danger-outline uk-button-3" href="http://localhost:4000/#">Danger</a></p>
+
+<p><a class="uk-button uk-button-primary uk-button-3" href="http://localhost:4000/#">Primary</a> 
+<a class="uk-button uk-button-secondary uk-button-3" href="http://localhost:4000/#">Secondary</a> 
+<a class="uk-button uk-button-success uk-button-3" href="http://localhost:4000/#">Success</a> 
+<a class="uk-button uk-button-warning uk-button-3" href="http://localhost:4000/#">Warning</a> 
+<a class="uk-button uk-button-danger uk-button-3" href="http://localhost:4000/#">Danger</a></p>
+
+<h4 id="custom-background">Custom background</h4>
+
+<p><a class="uk-button uk-button-xlarge opacity" href="http://localhost:4000/#" style="background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%); color: #fff;">Custom</a> 
+<a class="uk-button uk-button-xlarge opacity" href="http://localhost:4000/#" style="background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%); color: #fff;">Custom</a></p>
+<h4 id="sizes">Sizes</h4>
+
+<p><a class="uk-button uk-button-primary uk-button-small" href="http://localhost:4000/#">Small</a> 
+<a class="uk-button uk-button-primary uk-button-3" href="http://localhost:4000/#">Default</a> 
+<a class="uk-button uk-button-primary uk-button-large" href="http://localhost:4000/#">Large</a> 
+<a class="uk-button uk-button-primary uk-button-xlarge" href="http://localhost:4000/#">X Large</a></p>
+
+<p><a class="uk-button uk-button-primary uk-button-xlarge uk-width-1-1" href="http://localhost:4000/#">Full Width</a></p>
+
+<h2 id="scroll-to-top">Scroll to top</h2>
+
+<p><a href="#" data-uk-totop="" data-uk-scroll="duration: 400"></a></p>
+
+<h1 id="h1-heading">H1 Heading</h1>
+<h2 id="h2-heading">H2 Heading</h2>
+<h3 id="h3-heading">H3 Heading</h3>
+<h4 id="h4-heading">H4 Heading</h4>
+<h5 id="h5-heading">H5 Heading</h5>
+<h6 id="h6-heading">H6 Heading</h6>
+
+<p>Emphasis, aka <em>italics</em>. Strong emphasis, aka <strong>bold</strong>. Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+<h2 id="lists">Lists</h2>
+
+<ul>
+  <li>High-yield debt</li>
+  <li>Venture capital financing</li>
+  <li>Liquidation preference</li>
+</ul>
+
+<ol>
+  <li>First ordered list item</li>
+  <li>Another item</li>
+  <li>And another item.</li>
+</ol>
+
+<h2 id="code">Code</h2>
+
+<p>Inline <code class="highlighter-rouge">code</code> has <code class="highlighter-rouge">back-ticks around</code> it.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>No language indicated, so no syntax highlighting. 
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+</code></pre></div></div>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
+<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
+</code></pre></div></div>
+
+<h2 id="table">Table</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th>Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lorem</td>
+      <td>Lorem</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>Lorem</td>
+      <td>Lorem</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>Lorem</td>
+      <td>Lorem</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="horizontal-rule">Horizontal rule</h2>
+
+<hr />
+
+<h2 id="blockquote">Blockquote</h2>
+
+<blockquote>
+  <p>The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element.</p>
+</blockquote>
+:ET

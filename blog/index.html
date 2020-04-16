@@ -13,10 +13,9 @@ header:
   layout: center
   background_image: header-7.jpg
   background_overlay: "rgba(0, 0, 0, 0.5)"
-  header_size: medium
+  header_size: xlarge
   color: light
-  heading_size: large
-  height: full
+  heading_size: medium
 ---
 
 {% if page.grid == '1-1' %}
@@ -43,7 +42,7 @@ header:
           <div class="uk-card uk-card-default uk-card-blog">
             {% if post.image %}
               <div class="uk-card-media-top uk-inline">
-                <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-img>
                 <a class="uk-overlay uk-position-cover" href="{{ post.url | relative_url }}"></a>
               </div>
             {% endif %}
@@ -65,7 +64,7 @@ header:
       <div class="uk-card uk-card-default uk-card-blog">
         {% if post.image %}
           <div class="uk-card-media-top uk-inline">
-            <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+            <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-img>
             <a class="uk-overlay uk-position-cover" href="{{ post.url | relative_url }}"></a>
           </div>
         {% endif %}

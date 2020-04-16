@@ -6,10 +6,10 @@
           <a href="{{ "/" | relative_url }}">
             {% if site.logo_light or site.logo %}
               {% if site.logo_light %}
-                <img class="uk-logo-inverse" src="{{ site.uploads | absolute_url }}{{ site.logo_light }}" alt="{{ site.title }}">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="uk-logo-inverse" data-src="{{ site.uploads | absolute_url }}{{ site.logo_light }}" alt="{{ site.title }}" data-uk-img>
               {% endif %}
               {% if site.logo %}
-                <img src="{{ site.uploads | absolute_url }}{{ site.logo }}" alt="{{ site.title }}">
+                <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ site.uploads | absolute_url }}{{ site.logo }}" alt="{{ site.title }}" data-uk-img>
               {% endif %}
             {% else %}
               {{ site.title }}
@@ -41,7 +41,7 @@
                 {% assign current = null %}
               {% endif %}
               {% if link.title %}
-                <li{{ current }}><a class="uk-link-muted" href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+                <li{{ current }}><a class="uk-link-muted" href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener" {% endif %}>{{ link.title }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>
