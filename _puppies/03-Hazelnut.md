@@ -1,9 +1,9 @@
 ---
 title: Hazelnut
 description: From our first group of true celebrities, Hazelnut cannot be stopped.
-subtitle: Blue French Bulldog Puppy located in NYC, You can see her this weekend as she will not be around long.
+subtitle: Blue French Bulldog Puppy located in Washington DC You can see her this weekend as she will not be around long.
 width: xsmall
-image: fawn-french-bulldog-puppy-hazelnut/hazelnut.png
+image: fawn-french-bulldog-puppy-hazelnut/hazelnut.jpg
 topics: [Our Puppies, Fawn French Bulldog]
 navbar:
   sticky: true
@@ -21,23 +21,16 @@ pipedrive: true
 
 ---
 
-Hazelnut Found a Home in Philadelphia, PA with a wonderful Family.
-
-However, we have a few litters every now and then including perfect puppies sourced within our partner puppy network.
-
-Please view [Our Current Puppies](/puppies)
-
-{% include button.html text="View our Available puppies" url="/puppies" style="primary" size="xlarge" width="full" %}
-
-{% include reviewsfb.html 
-   layout="1-1"
+{% include imessagecontact.html %}
+{% include gallery.html 
+	grid="1-2"
+	gallery="fawn-french-bulldog-puppy-hazelnut/"
+	caption="true"
+	lightbox="true"
   section_size="large"
-  section_background="muted"
-  section_container="large"
-  section_content_align="center"
+  section_padding_remove="top"
 %}
 
-{% include ahazelnutpictures.html %}
 ### Personality: Well hello there. I’m Hazelnut, or should I say Hazle-nuts..
 My name is Hazlenut, but they also call me Hazel, Nut and Nutty. I’m a fawn French Bulldog girl with a black mask. My mom says I’m pretty energetic and that I talk back. I can’t confirm or deny that. But you can come meet me and find out for yourself. 
 I will enjoy and thrive in a family that is active, a family with kids that will wear me out by playing and running around the house, or a household with other dogs to keep me company. I’m a social butterfly and I love everyone I meet. If you give me the slightest amount of attention, I will consider you a best friend and start following you around with a little toy in my mouth – which means come play with me. 
@@ -78,4 +71,3 @@ Hazelnut is food motivated so it won’t be too hard to train and completely hou
   style="silver" 
   section_container="expand"
   %}
-/puppies/merle-french-bulldog-Daisy
