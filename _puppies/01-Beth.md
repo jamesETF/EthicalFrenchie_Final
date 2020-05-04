@@ -21,7 +21,7 @@ chat: false
 applechat: true
 ---
 
-{% include imessagecontact.html %}
+
 
 {% include gallery.html 
 	grid="1-2"

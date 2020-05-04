@@ -29,7 +29,8 @@ applechat: true
 
 
 
-<center>{% include hubspotform.html %}</center>
+## Looking for a Furbaby?  -> Use the Chat
+
 {% include block.html 	
   block="acespecs2"	
   section_size="full"	

@@ -21,7 +21,7 @@ pipedrive: true
 
 ---
 
-{% include imessagecontact.html %}
+
 {% include gallery.html 
 	grid="1-2"
 	gallery="fawn-french-bulldog-puppy-hazelnut/"
