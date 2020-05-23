@@ -22,21 +22,7 @@ description: Actively Updated list of our availalbe french bulldogs for sale. Th
 pipedrive: true
 ---
 
-{% include puppies.html 
-  section_size="large"
-  section_title="Our Certified French Bulldog Puppies"
-  section_header_align="center"
-  grid="1-3"
-  filter="true"
 %}
-
-{% include cards.html 
-  block="puppies-list-page" 
-  media="top" 
-  section_size="large"
-  section_background="muted"
-  section_content_align="center"
-  card_style="default"
-  grid="1-1"
-%}
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-d0837138-7513-4b0d-9168-fe70b29e5496"></div>
 
