@@ -1,7 +1,7 @@
 ---
 title: Roxanne
 description: A Blue Merle French Bulldog puppy with a knack for stopping traffic. Me and my siblings live in a place called Williamsburg, Brooklyn. That is in New York City
-subtitle: Yo! Everyone calls me Beth. I am the coolest pup on the block. Trust me; I ought to know, I run this block.
+subtitle: Yo! Everyone calls me Roxanne. I am the coolest pup on the block. Trust me; I ought to know, I run this block.
 width: xsmall
 image: /roxanne/roxanne.jpg
 topics: [Our Puppies, Blue Merle French Bulldog]
