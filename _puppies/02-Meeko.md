@@ -40,16 +40,13 @@ Meet our little blue French Bulldog female Meeko. Meeko is the diva of the litte
 
 She is smart, attentive, loving, and super playful. She gets along very well with other puppies as well as the adult dogs in our household, but she will definitely try to catch everyone’s attention with her goofy personality and shenanigans.
 
-Ideal family for Meeko? A family where she will be the center of attention and completely spoiled. She would do great in a family with kids as well as a single person household. She is the perfect mix of lovable as well as independent, so you not being constantly home won’t be the end of the world. 
+Ideal family for Meeko? A family where she will be the center of attention and completely spoiled. She would do great in a family with kids as well as a single person household. She is the perfect mix of lovable as well as independent, so you not being constantly home won’t be the end of the world.
 
-
-
-
-{% include block.html 
+{% include block.html
   block="vimeovideos2"
   block_title="false"
   section_size="large"
-  section_title="April 11th 2020! (Birthday!)" 
+  section_title="April 11th 2020! (Birthday!)"
   section_container="xsmall"
   section_header_align="center"
 %}
@@ -65,7 +62,7 @@ Ideal family for Meeko? A family where she will be the center of attention and c
 | Roxanne       | 8 weeks         |    $10k |
 | Dahlia       | 8 weeks         |    $7.5k |
 
-{% include block.html 
+{% include block.html
   block="acespecs2"
   section_size="medium"
   section_padding_remove="top"
@@ -76,7 +73,7 @@ Ideal family for Meeko? A family where she will be the center of attention and c
 %}
 
 
-{% include reviewsg.html 
+{% include reviewsg.html
    layout="1-1"
   section_size="large"
   section_background="muted"
