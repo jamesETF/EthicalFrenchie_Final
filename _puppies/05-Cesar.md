@@ -20,7 +20,14 @@ permalink: /puppies/cesar/
 chat: false
 applechat: true
 ---
-
+{% include block.html 
+  block="vimeovideos2"
+  block_title="false"
+  section_size="large"
+  section_title="Video of Me and My 9 Siblings!" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 {% include gallery.html 
 	grid="1-2"
@@ -39,27 +46,6 @@ Cesar is our one and only boy, he’s what we called a “blue merle pied’ Fre
 Cesar is a very laid back and chill little guy. He kinda had no choice, since he was born to a litter of dramatic female frenchies. Being the only boy, the only way to survive was to enter his zen place and ignore the drama. 
 He would do great in any home, either a house or apartment, as long as he gets his snacks and lots of love. 
 
-
-
-{% include block.html 
-  block="vimeovideos2"
-  block_title="false"
-  section_size="large"
-  section_title="Video of Me and My 9 Siblings!" 
-  section_container="xsmall"
-  section_header_align="center"
-%}
-
-| Name        | Age           | Investment  |
-| ------------- |---------------| -----:|
-| Lucille       | 8 weeks        | $8.5k |
-| Cesar         | 8 weeks         |  $10k |
-| Kona       | 8 weeks         |    $10k |
-| Meeko       | 8 weeks         |    $10k |
-| Aria       | 8 weeks         |    $10k |
-| Cora       | 8 weeks         |    $7.5k |
-| Roxanne       | 8 weeks         |    $10k |
-| Dahlia       | 8 weeks         |    $7.5k |
 
 
 
