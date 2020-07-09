@@ -49,8 +49,6 @@ She is the leader, super smart and will bring great joy into your household. Her
 Her perfect human is one that will fall in love with her at first sight and look no further. If you are that human definitely reach out and schedule your virtual meet and greet with Lucille. She is excited to meet you!
 
 
-
-
 {% include block.html 
   block="acespecs2"
   section_size="medium"

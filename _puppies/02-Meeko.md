@@ -51,20 +51,9 @@ She is smart, attentive, loving, and super playful. She gets along very well wit
 
 Ideal family for Meeko? A family where she will be the center of attention and completely spoiled. She would do great in a family with kids as well as a single person household. She is the perfect mix of lovable as well as independent, so you not being constantly home won’t be the end of the world.
 
-<<<<<<< HEAD
-{% include block.html
-  block="vimeovideos2"
-  block_title="false"
-  section_size="large"
-  section_title="April 11th 2020! (Birthday!)"
-  section_container="xsmall"
-  section_header_align="center"
-%}
-=======
 
 
 
->>>>>>> 1e9cc01021dba815f1a4c40f836c6deb94f08bac
 
 
 {% include block.html
