@@ -21,6 +21,14 @@ chat: false
 applechat: true
 
 ---
+{% include block.html 
+  block="vimeovideos2"
+  block_title="false"
+  section_size="large"
+  section_title="Video of Me and My 9 Siblings!" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
 
 ## About Aria
 Aria is a black merle pied French bulldog. A truly beautiful little girl, looking just like her mommy Carmen. 
@@ -35,25 +43,8 @@ Her personality is easy going and chill, but she of course still loves her playt
   section_size="medium"
   section_padding_remove="top"
 %}
-{% include block.html 
-  block="vimeovideos2"
-  block_title="false"
-  section_size="large"
-  section_title="Video of Me and My 9 Siblings!" 
-  section_container="xsmall"
-  section_header_align="center"
-%}
 
-| Name        | Age           | Investment  |
-| ------------- |---------------| -----:|
-| Lucille       | 8 weeks        | $8.5k |
-| Cesar         | 8 weeks         |  $10k |
-| Kona       | 8 weeks         |    $10k |
-| Meeko       | 8 weeks         |    $10k |
-| Aria       | 8 weeks         |    $10k |
-| Cora       | 8 weeks         |    $7.5k |
-| Roxanne       | 8 weeks         |    $10k |
-| Dahlia       | 8 weeks         |    $7.5k |
+
 
 {% include block.html 
   block="acespecs2"

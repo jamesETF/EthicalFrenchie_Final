@@ -21,6 +21,15 @@ chat: false
 applechat: true
 ---
 
+{% include block.html 
+  block="vimeovideos2"
+  block_title="false"
+  section_size="large"
+  section_title="April 11th 2020! (Birthday!)" 
+  section_container="xsmall"
+  section_header_align="center"
+%}
+
 
 
 {% include gallery.html 
@@ -42,6 +51,7 @@ She is smart, attentive, loving, and super playful. She gets along very well wit
 
 Ideal family for Meeko? A family where she will be the center of attention and completely spoiled. She would do great in a family with kids as well as a single person household. She is the perfect mix of lovable as well as independent, so you not being constantly home won’t be the end of the world.
 
+<<<<<<< HEAD
 {% include block.html
   block="vimeovideos2"
   block_title="false"
@@ -50,17 +60,12 @@ Ideal family for Meeko? A family where she will be the center of attention and c
   section_container="xsmall"
   section_header_align="center"
 %}
+=======
 
-| Name        | Age           | Investment  |
-| ------------- |---------------| -----:|
-| Lucille       | 8 weeks        | $8.5k |
-| Cesar         | 8 weeks         |  $10k |
-| Kona       | 8 weeks         |    $10k |
-| Meeko       | 8 weeks         |    $10k |
-| Aria       | 8 weeks         |    $10k |
-| Cora       | 8 weeks         |    $7.5k |
-| Roxanne       | 8 weeks         |    $10k |
-| Dahlia       | 8 weeks         |    $7.5k |
+
+
+>>>>>>> 1e9cc01021dba815f1a4c40f836c6deb94f08bac
+
 
 {% include block.html
   block="acespecs2"
