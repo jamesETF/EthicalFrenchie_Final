@@ -1,6 +1,6 @@
 ---
 title: testing al things
-permalink: /test
+permalink: /blog/test
 author: james
 date: '2020-08-04T13:28:43-04:00'
 image: /uploads/img_1833.jpg
