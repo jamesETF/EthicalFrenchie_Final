@@ -10,17 +10,7 @@ layout: default
     {{ content }}
     {% endif %}
   </div>
-{% include cta.html 
-    
-    section_size="small"
-    section_image="header-6.jpg"
-    section_overlay="rgba(0, 0, 0, 0.5)"
-    section_container="small"
-    section_content_align="center"
-    section_content_color="light"
-    layout="1"
-    block="cta-4"
-  %}
+{% include igcta4.html %}
   {% if page.mailchimp %}
     <div class="uk-margin-large-top uk-background-muted uk-padding-large">
       <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center">{{ site.data[site.template].translation[site.lang].newsletter_signup | default: 'Newsletter Signup' }}</h3>
