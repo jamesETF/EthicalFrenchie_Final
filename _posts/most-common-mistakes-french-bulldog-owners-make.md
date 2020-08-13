@@ -18,17 +18,20 @@ chat: 'false'
 ---
 French Bulldog. The funny, loyal, loving, and “issue prone” dog that is loved by so many around the globe. 
 
-French Bulldogs originated from France about 150 years ago, but only really started gaining momentum in the last 5-7 years. 
+
+French Bulldogs originated from France about 150 years ago, but only really started gaining momentum in the last 5-7 years. 
 
 Every pure bred dog comes with its set of issues, due to breeding for certain traits that don't always promote health. Even though some French Bulldog issues can't be eliminated, there are still a few approaches that will in our opinion add to the quality of life of your bully.
 
 Here are some common mistakes bulldog owners, and dog owners in general make. We challenge you to read books and educate yourself on the topics below, and make a change if the new knowledge steers you into that direction. 
 
-
+
+
 
 ![](/uploads/image-of-raw-meat-in-a-bowl.png)
 
- 
+ 
+
 
 ## 1.	Improper Diet
 
@@ -40,11 +43,13 @@ There is only one diet that is biologically appropriate for your dog and it’s 
 
 It’s the raw diet. Raw meat, raw bones, organs, eggs, veggies. It’s the only diet that will give your dog a great start at life, prevent skeletal disease French bulldogs are “so prone to” (read hip dysplasia, patellar luxation, etc..), and reduce your vet visit frequency. 
 
-The **BARF diet **is very simple and when you learn more about it, a logical approach to feeding your dog. Have you ever seen a wolf hunt down an animal, collect the meat, then bake it on a high temp to turn it into kibble? No. 
+
+The **BARF diet **is very simple and when you learn more about it, a logical approach to feeding your dog. Have you ever seen a wolf hunt down an animal, collect the meat, then bake it on a high temp to turn it into kibble? No. 
 
 The commercial dog food gained momentum in 1950, which conveniently correlates with the i**ncrease of dog cancer, skeletal disease, bladder stones, arthritis, and an increase of allergies in dogs**. Before that dogs ate raw meat, raw bones, and other table scraps. We forced out dogs to adapt to a diet that they weren’t meant to consume, for our own convenience and its affecting them on a daily basis.
 
-It’s never too late to reverse some of the damage that was done by feeding your Frenchie improperly. Owners report elimination of allergies, ear infections, arthritis and other modern day dog problems we often hear about - after switching to species appropriate diet. 
+
+It’s never too late to reverse some of the damage that was done by feeding your Frenchie improperly. Owners report elimination of allergies, ear infections, arthritis and other modern day dog problems we often hear about - after switching to species appropriate diet. 
 
 
 
@@ -56,13 +61,19 @@ The commercial dog food gained momentum in 1950, which conveniently correlates w
 
 _What vaccines does my French Bulldog need? _**The answer is less is more.** 
 
- We recommend giving your puppy the core DHPP vaccine at 12 weeks and another booster at 16 weeks. That vaccine will protect your dog for at least 5-6 years, or in some cases lifetime.
+ 
+We recommend giving your puppy the core DHPP vaccine at 12 weeks and another booster at 16 weeks. That vaccine will protect your dog for at least 5-6 years, or in some cases lifetime.
 
- If you are unsure about the level of immunity your dog has towards infectious diseases you can request a blood titer. Your veterinarian will draw blood and check the number of antibodies still present. If the amount is low then you should consider re-vaccinating, but that is rarely the case.
+ 
+If you are unsure about the level of immunity your dog has towards infectious diseases you can request a blood titer. Your veterinarian will draw blood and check the number of antibodies still present. If the amount is low then you should consider re-vaccinating, but that is rarely the case.
 
-** Rabies shot?** Of course. Rabies vaccination is required by law. There is also no cure for rabies, so if your dog gets infected there isn’t much you can do. And let’s not forget rabies is zoonotic, meaning it can transfer to humans. Again, a blood titer test can be required to check the level of immunity. 
+** 
+Rabies shot?** Of course. Rabies vaccination is required by law. There is also no cure for rabies, so if your dog gets infected there isn’t much you can do. And let’s not forget rabies is zoonotic, meaning it can transfer to humans. 
+Again, a blood titer test can be required to check the level of immunity. 
 
-** What about Bordatella, Lyme, Leptospirosis? **
+** 
+What about Bordatella, Lyme, Leptospirosis? 
+**
 
 Those are called lifestyle vaccines. They need to be injected yearly and unfortunately often don't offer 100% protection. If you don't live in a geographical area that is very prevalent in leptospirosis or tick born disease, then vaccination for those can be avoided. 
 
@@ -72,13 +83,15 @@ _**Bordatella? **_Bordatella vaccine protects your dog from kennel cough and it'
 
 If you are taking great care of your dog, feeding it properly, and avoiding over-vaccination you will be a proud owner of a Frenchie with an extremely healthy immune system, so chances of your dog ACTUALLY catching a virus will be very slim.
 
-On the other hand, every vaccination lowers your dogs immune system to a sometimes irreparable degree, putting it at risk for allergies, cancers, neurological issues, etc. 
+
+On the other hand, every vaccination lowers your dogs immune system to a sometimes irreparable degree, putting it at risk for allergies, cancers, neurological issues, etc. 
 
 [_**Click here to read more about over-vaccination and what are the ingredients of the vaccines your dog receives**_](https://www.dogsnaturallymagazine.com/whats-in-your-dogs-vaccine/). The post is written by a Doctor of Veterinary Medicine that has 20+ years of experience in the field. 
 
 ![](/uploads/image-of-a-cute-frenchie-puppy.png)
 
-## 3.	Early Spay/Neuter
+## 
+3.	Early Spay/Neuter
 
 ## 
 
@@ -90,13 +103,17 @@ We do understand the problem with pet overpopulation, which is why early spay is
 
 [Pros and Cons of Spaying Your Female Dog](https://www.yourpurebredpuppy.com/health/articles/spaying-female-dog.html)
 
-_**What is the downside of an early spay? **_
+_**What is the downside of an early spay? 
+**_
 
-There are so many downsides of an early spay that the owners aren’t informed about when committing to the procedure. 
 
-I feel like every pet owner should be presented with all pros and cons and make a decision based on facts. 
+There are so many downsides of an early spay that the owners aren’t informed about when committing to the procedure. 
 
-**By spaying/neutering your French Bulldog early you are potentially putting it at risk for **
+
+I feel like every pet owner should be presented with all pros and cons and make a decision based on facts. 
+
+**
+By spaying/neutering your French Bulldog early you are potentially putting it at risk for **
 
 * Life long low immunity (dogs immune system doesn’t fully develop until the age of 2-3. There are certain reproductive hormones needed to achieve that),
 * Skeletal problems that are very common in the breed like hip dysplasia, patellar luxation, IVDD and more..
@@ -112,13 +129,15 @@ We suggest waiting until your French Bulldog female is at least 15 months old, a
 
 ![](/uploads/image-of-a-tick.png)
 
-## **4.	Tick/Flea/Heartworm Prevention**
+## **4.	Tick/Flea/Heartworm Prevention
+**
 
 ## 
 
 Simparica, Bravecto, Nextguard, Heartguard.. I’m sure you are very familiar with the names and chances are your Frenchie is on at least one if not multiple of these preventative treatments. 
 
-Let’s look at how these anti-parasitic treatments work. Each of the above-mentioned treatments contains small dosages of neurotoxins that paralyze and eventually kill the parasite. The poison is fed to your dog and builds up in their skin. Once the flea or tick tries to attach to your dog it instantly kills it. 
+
+Let’s look at how these anti-parasitic treatments work. Each of the above-mentioned treatments contains small dosages of neurotoxins that paralyze and eventually kill the parasite. The poison is fed to your dog and builds up in their skin. Once the flea or tick tries to attach to your dog it instantly kills it. 
 
 
 
@@ -126,9 +145,11 @@ All these brands claim that the amount of poison released is so small it’s com
 
 There was not a single study done about the side effects of giving your dogs small amounts of poison these products contain for several years. 
 
-We challenge you to do research and join Facebook groups/talk to other pet owners, before giving any of the preventative treatments to your dog. The products were put under the microscope multiple times after owners reported seizures, severe allergic reactions and even death of their beloved pet. 
 
- We don't use it for our dogs and would not take the risk due to all the adverse side effects reported over the years, but the decision is yours.
+We challenge you to do research and join Facebook groups/talk to other pet owners, before giving any of the preventative treatments to your dog. The products were put under the microscope multiple times after owners reported seizures, severe allergic reactions and even death of their beloved pet. 
+
+ 
+We don't use it for our dogs and would not take the risk due to all the adverse side effects reported over the years, but the decision is yours.
 
 Here are some products that we personally use on our adult dogs as well as our little puppies. They are organic and for us, they work like a charm.  
 
@@ -140,7 +161,8 @@ Here are some products that we personally use on our adult dogs as well as our l
 
 
 
-**What about Heartworm Prevention Medicine? **
+**What about Heartworm Prevention Medicine? 
+**
 
 There is so much to say about heartworm medicine prevention and mostly about how unnecessary it is to give it year round. It all makes complete sense once you learn about the heartworm larvae life cycle. 
 
@@ -174,7 +196,8 @@ The process is usually over by the time they reach sexual maturity. There are ce
 
 
 
-## Will You Make The Changes?
+## 
+Will You Make The Changes?
 
 ## 
 
