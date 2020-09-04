@@ -1,6 +1,8 @@
 ---
-title: About Us
-subtitle: Look Ma! We're on TV!
+title: Ethical Frenchie | Southampton
+subtitle: French Bulldog Breeder Southampton, NY
+description: French Bulldog Breeder Southampton, NY
+author: James
 width: full
 navbar:
   sticky: true
@@ -16,8 +18,10 @@ header:
   header_size: large
   heading_size: medium
   parallax: true
-extraseoabout: true
+extraseoabout: false
+permalink: /location/southampton/ß
 applechat: true
+southampton: true
 ---
 {% include block.html 
   block="content-about-us"
@@ -38,5 +42,12 @@ applechat: true
   section_container="expand"
   section_header_align="center"
   section_background="muted"
+%}
+{% include reviewsg.html 
+   layout="1-1"
+  section_size="large"
+  section_background="muted"
+  section_container="large"
+  section_content_align="center"
 %}
 

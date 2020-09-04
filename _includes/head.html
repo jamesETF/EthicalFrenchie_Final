@@ -10,7 +10,85 @@
   <script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
   <meta name="p:domain_verify" content="50390198c9a42575196138cfd965928c"/>
 
-
+{% if page.southampton %}
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ethical Frenchie Southampton",
+      "image": "https://ethicalfrenchie.com/uploads/favicon.png",
+      "@id": "https://ethicalfrenchie.com",
+      "url": "https://ethicalfrenchie.com/southampton",
+      "telephone": "",
+      "priceRange": "$$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "53 Hill Street",
+        "addressLocality": "Southampton",
+        "addressRegion": "NY",
+        "postalCode": "11968",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.8839477,
+        "longitude": -72.3969786
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "12:00",
+        "closes": "21:00"
+      }
+    }
+</script>
+<script type='application/ld+json'>
+    {
+        "@context": "http://schema.org/",
+        "@type": "WPHeader",
+        "@id":"#nav",
+        "cssSelector": ".navbar",
+        "@graph": [
+            {
+                "@context": "https://schema.org",
+                "@type":"SiteNavigationElement",
+                "name": "Home",
+                "url": "https://ethicalfrenchie.com/"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type":"SiteNavigationElement",
+                "name": "About Us",
+                "url": "https://ethicalfrenchie.com/about-us"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type":"SiteNavigationElement",
+                "name": "Puppies",
+                "url": "https://ethicalfrenchie.com/puppies/"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type":"SiteNavigationElement",
+                "name": "Blog",
+                "url": "https://ethicalfrenchie.com/blog/"
+            },
+            {
+                "@context": "https://schema.org",
+                "@type":"SiteNavigationElement",
+                "name": "Contact Us",
+                "url": "https://ethicalfrenchie.com/contact-us/"
+            }
+        ]
+    }
+    </script>
+{% else %}
 <script type="application/ld+json">
 {
     "@context":"http://schema.org",
@@ -31,6 +109,7 @@
     ]
 }
 </script>
+
 <script type='application/ld+json'>
 {
     "@context": "http://schema.org/",
@@ -72,6 +151,7 @@
 }
 </script>
 
+
 <script type='application/ld+json'>
 {
     "@context": "http://schema.org/",
@@ -94,7 +174,7 @@
     ],
 }
 </script>
-
+{% endif %}
 {% if page.extraseoabout %}
 <script type="application/ld+json">
 {
@@ -525,15 +605,15 @@
 {% if page.summary %}
 <meta name="twitter:description" content="{{ page.summary }}">
 {% else %}
-<meta name="twitter:description" content="{{ site.description }}">
+<meta name="twitter:description" content="{{ page.description }}">
 {% endif %}
 
 {% if page.image %}
-<meta name="twitter:card"  content="{{ page.summary }}">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+<meta name="twitter:card"  content="{{ page.title }}">
+<meta name="twitter:image" content="{{ page.image | absolute_url }}"> 
 {% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.title_image }}">
+<meta name="twitter:card"  content="{{ page.title }}">
+<meta name="twitter:image" content="{{ site.image }}">
 {% endif %}
 <!-- end of Twitter cards -->
 </head>

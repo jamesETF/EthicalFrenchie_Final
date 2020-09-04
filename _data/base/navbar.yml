@@ -8,7 +8,7 @@ center:
   - title: Our Puppies
     url: /puppies/
 
-  - title: Frenchie Blog
+  - title: Blog
     url: /blog/
   
   - title: About Us
@@ -17,6 +17,7 @@ center:
   - title: Contact Us
     url: /contact-us/
 
+ 
 right:
   - title: Available Litters
     url: /puppies

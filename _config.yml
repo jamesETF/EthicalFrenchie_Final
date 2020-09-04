@@ -11,6 +11,7 @@ url:                    "https://ethicalfrenchie.com" # Site base hostname & pro
 baseurl:                # Site subpath, e.g. /blog
 lang:                   en
 logo:                   logo-dark.png
+image:                  "https://ethicalfrenchie.com/uploads/hero-1.jpg"
 logo_light:             logo-light.png
 permalink:              /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:            "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -90,7 +91,7 @@ google_maps_api_key:    AIzaSyBWpK890qcen1qMLVH6GUpBKegBZUXWCHo # Google maps AP
 disqus:
   shortname:            # https-ethicalfrenchie-com.disqus.com
 
-instagram_accesstoken:  9550633131.1677ed0.71683616f6b54a89b565f76872ee0dd1
+instagram_accesstoken: 
 
 donations:
   paypal:
