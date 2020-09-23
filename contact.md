@@ -27,7 +27,15 @@ chat: false
 applechat: true
 ---
 
-
+{% include map.html 
+  latitude="40.7028885" 
+  longitude="-74.0160658" 
+  zoom="12" 
+  section_size="medium"
+  section_padding_remove="top"
+  section_container="small"
+  height="small"
+%}
 
 ## Looking for a Furbaby?  -> Use the Chat
 
