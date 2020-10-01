@@ -24,7 +24,8 @@ pipedrive: true
 permalink: /contact-us/
 extraseocontactus: true
 chat: false
-applechat: true
+applechat: false
+hubspotneeded: true
 ---
 
 {% include map.html 

@@ -17,7 +17,8 @@ header:
   heading_size: medium
   parallax: true
 extraseoabout: true
-applechat: true
+applechat: false
+hubspotneeded: true
 ---
 {% include block.html 
   block="content-about-us"
