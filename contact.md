@@ -28,10 +28,10 @@ applechat: false
 hubspotneeded: true
 ---
 
-{% include map.html 
-  latitude="40.7028885" 
-  longitude="-74.0160658" 
-  zoom="12" 
+{% include map.html
+  latitude="40.7028885"
+  longitude="-74.0160658"
+  zoom="12"
   section_size="medium"
   section_padding_remove="top"
   section_container="small"
@@ -40,17 +40,12 @@ hubspotneeded: true
 
 ## Looking for a Furbaby?  -> Use the Chat
 
-{% include block.html 	
-  block="acespecs2"	
-  section_size="full"	
-  section_padding_remove="top"	
-  section_container="full"	
-  section_header_align="center"	
-  section_title="How The Process Works..."	
-  block_title="false"	
+{% include block.html
+  block="acespecs2"
+  section_size="full"
+  section_padding_remove="top"
+  section_container="full"
+  section_header_align="center"
+  section_title="How The Process Works..."
+  block_title="false"
 %}
- 
-
-
-
-
